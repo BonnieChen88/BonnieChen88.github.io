@@ -22,7 +22,7 @@ open past target with nobody in late stages.
 **`nudge`** — every active candidate past the SLA for their current stage, routed to
 whoever owes the next action, as one Slack DM per hiring manager.
 
-## The finding this is built around
+## What it surfaces — from the sample run
 
 ```
 WAITING NOW (active candidates only)

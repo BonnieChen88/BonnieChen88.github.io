@@ -18,6 +18,11 @@ tools on synthetic data. Each has a runnable CLI, a
 be run and interpreted conversationally, and a Zapier recipe for putting it on a
 schedule.
 
+The indented finding under each project is **output from the sample run**, not a result
+at an employer — it shows what the tool surfaces when you point it at data. Verified
+outcomes from the roles these were built in are on the
+[portfolio site](https://bonniechen88.github.io).
+
 ### [01 · GTM Segmentation & ICP Scoring](projects/01-gtm-segmentation-icp)
 Segments 24 months of closed-won and closed-lost deals to find which verticals, company
 sizes and lead sources actually convert, then scores open accounts A–D for routing.
