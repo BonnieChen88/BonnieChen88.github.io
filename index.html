@@ -490,7 +490,7 @@
     <li><a href="#cases">Case Studies</a></li>
     <li><a href="#analysis">Deep Analysis</a></li>
     <li><a href="#skills">Skills</a></li>
-    <li><a href="#tooling">Tooling</a></li>
+    <li><a href="#tools">Tools</a></li>
     <li><a href="https://www.linkedin.com/in/bonnie-xi-chen/" target="_blank">LinkedIn ↗</a></li>
   </ul>
 </nav>
@@ -726,34 +726,41 @@
   </div>
 </section>
 
-<!-- AUTOMATION & TOOLING -->
-<section id="tooling" style="background: var(--cream);">
+<!-- OPERATING TOOLS -->
+<section id="tools" style="background: var(--cream);">
   <div class="section-header reveal">
     <span class="section-num">04</span>
-    <h2 class="section-title">Automation &amp; Tooling</h2>
+    <h2 class="section-title">Operating Tools</h2>
     <div class="section-line"></div>
   </div>
 
   <p class="tools-intro reveal">
-    The recurring analyses behind revenue, GTM, recruiting and cash collection — built as
-    tools that run rather than spreadsheets that get rebuilt. Each ships a command-line
-    analysis, a Claude skill carrying the interpretation rules, and a Zapier recipe for
-    putting it on a schedule. All examples run on synthetic data.
+    Four tools built for work I was already doing — the monthly investor pack, the
+    question sales kept asking about which accounts to work, a recruiting funnel nobody
+    could take apart, a collections cadence that had to run whether or not anyone
+    remembered it. Each ships a command-line analysis, a Claude skill carrying the
+    interpretation rules, and a Zapier recipe for putting it on a schedule.
+  </p>
+  <p class="tools-intro reveal" style="margin-top:-1.6rem;">
+    The published versions run on synthetic sample data, so the code, the method and the
+    output can be read end to end without exposing anything real. Outcomes noted below
+    are from the operating roles, not from the sample runs.
   </p>
 
   <div class="tools-grid">
 
     <a class="tool-card reveal" href="https://github.com/BonnieChen88/BonnieChen88.github.io/tree/main/projects/01-gtm-segmentation-icp" target="_blank">
-      <div class="tool-index">01 — GTM</div>
+      <div class="tool-index">01 — Go-to-market</div>
       <div class="tool-title">Segmentation &amp; ICP Scoring Engine</div>
       <div class="tool-desc">
-        Segments closed-won and closed-lost history to find which verticals, company sizes
-        and lead sources actually convert, then scores open accounts A–D for routing.
-        Weights are derived from observed win-rate lift, not chosen by hand.
+        Measures which industries, company sizes and lead sources actually convert, using
+        closed-won and closed-lost history rather than opinion — then scores open accounts
+        A–D so sales knows what to work first. Scoring weights are derived from observed
+        win-rate lift, and segments with too few deals behind them earn no credit.
       </div>
       <div class="tool-finding">
-        Three regulated verticals produced <strong>64% of won ARR from 37% of deal
-        volume</strong>, closing eight days faster.
+        Refining segmentation around what it found increased
+        <strong>lead conversion by 12%</strong>.
       </div>
       <div class="tool-stack"><span>Salesforce · HubSpot · Clay</span><span class="tool-arrow">↗</span></div>
     </a>
@@ -762,42 +769,48 @@
       <div class="tool-index">02 — Revenue</div>
       <div class="tool-title">Monthly Revenue Reporting Pack</div>
       <div class="tool-desc">
-        ARR waterfall replayed from an event log, cohort-based NRR and GRR, and a pipeline
-        forecast risk-adjusted by stage win rate and a 90-day activity decay rule.
+        Generates the monthly pack for investors and leadership: ARR waterfall replayed
+        from an event log, cohort-based net and gross revenue retention, and a pipeline
+        forecast adjusted by historical stage win rates and a 90-day activity decay rule,
+        so stalled pipeline stops being counted at full value. Flags the hygiene problems
+        behind the gap before the forecast call rather than after it.
       </div>
       <div class="tool-finding">
-        Took $16.7M of open pipeline to <strong>$3.4M risk-adjusted</strong> — 7.4x raw
-        coverage against 1.5x adjusted.
+        Built from monthly investor and leadership reporting, and from earlier risk
+        assessment and forecast modelling on professional-services deals
+        <strong>above $2M</strong>.
       </div>
       <div class="tool-stack"><span>Salesforce · Zuora · Tableau</span><span class="tool-arrow">↗</span></div>
     </a>
 
     <a class="tool-card reveal" href="https://github.com/BonnieChen88/BonnieChen88.github.io/tree/main/projects/03-recruiting-funnel-ops" target="_blank">
-      <div class="tool-index">03 — People Ops</div>
+      <div class="tool-index">03 — People operations</div>
       <div class="tool-title">Recruiting Funnel Ops</div>
       <div class="tool-desc">
-        Stage conversion, time-to-hire against requisition targets, source efficiency
-        measured at onsite rather than application, and stalled-candidate nudges routed to
-        whoever owes the next action.
+        Takes time-to-hire apart into the stage waits it is actually made of, measures
+        source quality at interview rather than application, and routes stalled candidates
+        to whoever owes the next action — as one message per hiring manager, listing only
+        their own people.
       </div>
       <div class="tool-finding">
-        Every stage median sat inside SLA while <strong>52 candidates were past it</strong>
-        — and 44 were waiting on a recruiter, not a hiring manager.
+        Streamlining recruiting on what it showed reduced
+        <strong>time-to-hire by 28%</strong>.
       </div>
       <div class="tool-stack"><span>Lever · Slack · Zapier</span><span class="tool-arrow">↗</span></div>
     </a>
 
     <a class="tool-card reveal" href="https://github.com/BonnieChen88/BonnieChen88.github.io/tree/main/projects/04-ar-collections-agent" target="_blank">
-      <div class="tool-index">04 — Finance Ops</div>
+      <div class="tool-index">04 — Finance operations</div>
       <div class="tool-title">AR &amp; Collections Agent</div>
       <div class="tool-desc">
-        Aging, DSO and delinquency, plus a four-tier dunning ladder that automates the
-        cadence and refuses to automate the judgement — disputes, six-figure balances and
-        recently contacted accounts are held back for a person.
+        Aging, DSO and delinquency reporting, plus a four-tier dunning ladder that
+        automates the cadence and refuses to automate the judgement — disputes, six-figure
+        balances and recently contacted accounts are held back for a person, and nothing
+        reaches a customer without review.
       </div>
       <div class="tool-finding">
-        <strong>70% of the overdue balance sat with five accounts</strong> — five
-        conversations, not a company-wide payment terms review.
+        Running this cadence alongside on-time invoicing held accounts receivable at a
+        <strong>0% delinquency rate</strong>.
       </div>
       <div class="tool-stack"><span>Zuora · NetSuite · Gmail</span><span class="tool-arrow">↗</span></div>
     </a>
