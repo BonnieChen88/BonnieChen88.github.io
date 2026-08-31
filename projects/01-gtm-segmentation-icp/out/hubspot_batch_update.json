@@ -1,0 +1,604 @@
+{
+  "inputs": [
+    {
+      "properties": {
+        "hs_object_id": "A-07042",
+        "icp_score": 95.9,
+        "icp_tier": "A",
+        "icp_reason": "industry=Healthcare (1.42x win rate); size_band=2K-5K (1.29x win rate); lead_source=Inbound Demo (1.15x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07065",
+        "icp_score": 84.0,
+        "icp_tier": "A",
+        "icp_reason": "size_band=2K-5K (1.29x win rate); lead_source=Partner Referral (1.24x win rate); region=UK/EU (1.11x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07054",
+        "icp_score": 81.3,
+        "icp_tier": "A",
+        "icp_reason": "industry=Banking (1.41x win rate); lead_source=Inbound Demo (1.15x win rate); region=Canada (1.08x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07062",
+        "icp_score": 80.3,
+        "icp_tier": "A",
+        "icp_reason": "size_band=2K-5K (1.29x win rate); lead_source=Paid Search (1.12x win rate); region=UK/EU (1.11x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07070",
+        "icp_score": 76.9,
+        "icp_tier": "A",
+        "icp_reason": "industry=Healthcare (1.42x win rate); size_band=2K-5K (1.29x win rate); weak lead_source=Conference (0.61x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07001",
+        "icp_score": 74.9,
+        "icp_tier": "B",
+        "icp_reason": "industry=Pharmaceuticals (1.29x win rate); lead_source=Paid Search (1.12x win rate); region=Canada (1.08x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07021",
+        "icp_score": 74.5,
+        "icp_tier": "B",
+        "icp_reason": "industry=Banking (1.41x win rate); weak size_band=500-2K (0.99x); lead_source=Paid Search (1.12x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07072",
+        "icp_score": 73.5,
+        "icp_tier": "B",
+        "icp_reason": "industry=Banking (1.41x win rate); weak size_band=1-100 (0.92x); lead_source=Partner Referral (1.24x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07006",
+        "icp_score": 71.6,
+        "icp_tier": "B",
+        "icp_reason": "industry=Banking (1.41x win rate); weak size_band=1-100 (0.92x); lead_source=Partner Referral (1.24x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07043",
+        "icp_score": 71.3,
+        "icp_tier": "B",
+        "icp_reason": "industry=Healthcare (1.42x win rate); weak size_band=100-500 (0.94x); lead_source=Paid Search (1.12x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07056",
+        "icp_score": 71.0,
+        "icp_tier": "B",
+        "icp_reason": "industry=Banking (1.41x win rate); weak size_band=100-500 (0.94x); lead_source=Paid Search (1.12x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07003",
+        "icp_score": 70.3,
+        "icp_tier": "B",
+        "icp_reason": "industry=Healthcare (1.42x win rate); weak size_band=100-500 (0.94x); lead_source=Inbound Demo (1.15x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07068",
+        "icp_score": 70.0,
+        "icp_tier": "B",
+        "icp_reason": "industry=Healthcare (1.42x win rate); size_band=2K-5K (1.29x win rate); weak lead_source=Conference (0.61x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07044",
+        "icp_score": 69.8,
+        "icp_tier": "B",
+        "icp_reason": "industry=Healthcare (1.42x win rate); weak size_band=500-2K (0.99x); lead_source=Partner Referral (1.24x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07024",
+        "icp_score": 68.6,
+        "icp_tier": "B",
+        "icp_reason": "size_band=2K-5K (1.29x win rate); lead_source=Partner Referral (1.24x win rate); region=UK/EU (1.11x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07026",
+        "icp_score": 68.5,
+        "icp_tier": "B",
+        "icp_reason": "size_band=2K-5K (1.29x win rate); weak lead_source=Outbound SDR (0.79x); region=Canada (1.08x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07025",
+        "icp_score": 67.9,
+        "icp_tier": "B",
+        "icp_reason": "industry=Banking (1.41x win rate); weak size_band=1-100 (0.92x); lead_source=Paid Search (1.12x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07058",
+        "icp_score": 67.7,
+        "icp_tier": "B",
+        "icp_reason": "industry=Banking (1.41x win rate); weak size_band=100-500 (0.94x); region=Canada (1.08x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07069",
+        "icp_score": 67.7,
+        "icp_tier": "B",
+        "icp_reason": "industry=Banking (1.41x win rate); weak size_band=100-500 (0.94x); region=Canada (1.08x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07011",
+        "icp_score": 66.5,
+        "icp_tier": "B",
+        "icp_reason": "industry=Pharmaceuticals (1.29x win rate); weak size_band=1-100 (0.92x); lead_source=Inbound Demo (1.15x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07009",
+        "icp_score": 66.4,
+        "icp_tier": "B",
+        "icp_reason": "lead_source=Paid Search (1.12x win rate); region=UK/EU (1.11x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07034",
+        "icp_score": 66.4,
+        "icp_tier": "B",
+        "icp_reason": "industry=Banking (1.41x win rate); weak size_band=1-100 (0.92x); region=Canada (1.08x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07013",
+        "icp_score": 66.1,
+        "icp_tier": "B",
+        "icp_reason": "industry=Healthcare (1.42x win rate); weak size_band=500-2K (0.99x); lead_source=Paid Search (1.12x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07038",
+        "icp_score": 66.1,
+        "icp_tier": "B",
+        "icp_reason": "industry=Pharmaceuticals (1.29x win rate); weak size_band=1-100 (0.92x); lead_source=Partner Referral (1.24x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07029",
+        "icp_score": 65.6,
+        "icp_tier": "B",
+        "icp_reason": "lead_source=Inbound Demo (1.15x win rate); region=Canada (1.08x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07071",
+        "icp_score": 63.6,
+        "icp_tier": "B",
+        "icp_reason": "size_band=2K-5K (1.29x win rate); lead_source=Paid Search (1.12x win rate); region=Canada (1.08x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07063",
+        "icp_score": 62.6,
+        "icp_tier": "B",
+        "icp_reason": "region=UK/EU (1.11x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07060",
+        "icp_score": 62.3,
+        "icp_tier": "B",
+        "icp_reason": "industry=Healthcare (1.42x win rate); weak size_band=500-2K (0.99x); weak lead_source=Outbound SDR (0.79x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07041",
+        "icp_score": 59.1,
+        "icp_tier": "B",
+        "icp_reason": "industry=Pharmaceuticals (1.29x win rate); weak size_band=1-100 (0.92x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07066",
+        "icp_score": 58.8,
+        "icp_tier": "B",
+        "icp_reason": "industry=Healthcare (1.42x win rate); weak size_band=100-500 (0.94x); weak lead_source=Outbound SDR (0.79x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07014",
+        "icp_score": 58.6,
+        "icp_tier": "B",
+        "icp_reason": "industry=Banking (1.41x win rate); weak size_band=100-500 (0.94x); weak lead_source=Outbound SDR (0.79x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07008",
+        "icp_score": 58.3,
+        "icp_tier": "B",
+        "icp_reason": "weak size_band=500-2K (0.99x); lead_source=Inbound Demo (1.15x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07046",
+        "icp_score": 56.2,
+        "icp_tier": "B",
+        "icp_reason": "industry=Pharmaceuticals (1.29x win rate); weak size_band=100-500 (0.94x); weak lead_source=Outbound SDR (0.79x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07002",
+        "icp_score": 55.5,
+        "icp_tier": "B",
+        "icp_reason": "industry=Healthcare (1.42x win rate); weak size_band=500-2K (0.99x); weak lead_source=Outbound SDR (0.79x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07007",
+        "icp_score": 54.4,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=100-500 (0.94x); lead_source=Inbound Demo (1.15x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07050",
+        "icp_score": 54.0,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=1-100 (0.92x); lead_source=Paid Search (1.12x win rate); region=Canada (1.08x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07019",
+        "icp_score": 53.6,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=1-100 (0.92x); lead_source=Inbound Demo (1.15x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07055",
+        "icp_score": 53.6,
+        "icp_tier": "C",
+        "icp_reason": "lead_source=Inbound Demo (1.15x win rate); region=UK/EU (1.11x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07048",
+        "icp_score": 53.5,
+        "icp_tier": "C",
+        "icp_reason": "industry=Pharmaceuticals (1.29x win rate); weak size_band=100-500 (0.94x); weak region=US-West (0.83x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07073",
+        "icp_score": 53.2,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=100-500 (0.94x); region=UK/EU (1.11x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07031",
+        "icp_score": 52.7,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=1-100 (0.92x); lead_source=Paid Search (1.12x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07012",
+        "icp_score": 52.5,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=1-100 (0.92x); region=UK/EU (1.11x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07010",
+        "icp_score": 51.9,
+        "icp_tier": "C",
+        "icp_reason": "industry=Healthcare (1.42x win rate); weak size_band=1-100 (0.92x); weak lead_source=Conference (0.61x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07057",
+        "icp_score": 51.7,
+        "icp_tier": "C",
+        "icp_reason": "industry=Banking (1.41x win rate); weak size_band=100-500 (0.94x); weak lead_source=Outbound SDR (0.79x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07017",
+        "icp_score": 51.3,
+        "icp_tier": "C",
+        "icp_reason": "weak industry=Hospitality (0.40x); size_band=2K-5K (1.29x win rate); lead_source=Paid Search (1.12x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07018",
+        "icp_score": 51.2,
+        "icp_tier": "C",
+        "icp_reason": "weak industry=Real Estate (0.54x); size_band=2K-5K (1.29x win rate); lead_source=Partner Referral (1.24x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07015",
+        "icp_score": 51.1,
+        "icp_tier": "C",
+        "icp_reason": "size_band=2K-5K (1.29x win rate); weak lead_source=Outbound SDR (0.79x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07049",
+        "icp_score": 50.9,
+        "icp_tier": "C",
+        "icp_reason": "industry=Pharmaceuticals (1.29x win rate); weak size_band=500-2K (0.99x); weak lead_source=Conference (0.61x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07036",
+        "icp_score": 50.6,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=100-500 (0.94x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07028",
+        "icp_score": 48.1,
+        "icp_tier": "C",
+        "icp_reason": "weak industry=Hospitality (0.40x); size_band=2K-5K (1.29x win rate); lead_source=Paid Search (1.12x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07037",
+        "icp_score": 47.6,
+        "icp_tier": "C",
+        "icp_reason": "size_band=2K-5K (1.29x win rate); weak lead_source=Conference (0.61x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07016",
+        "icp_score": 44.2,
+        "icp_tier": "C",
+        "icp_reason": "lead_source=Partner Referral (1.24x win rate); weak region=US-West (0.83x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07047",
+        "icp_score": 43.9,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=100-500 (0.94x); lead_source=Partner Referral (1.24x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07005",
+        "icp_score": 41.0,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=500-2K (0.99x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07023",
+        "icp_score": 40.5,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=500-2K (0.99x); lead_source=Partner Referral (1.24x win rate); weak region=US-West (0.83x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07067",
+        "icp_score": 40.3,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=500-2K (0.99x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07004",
+        "icp_score": 40.2,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=100-500 (0.94x); lead_source=Paid Search (1.12x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07035",
+        "icp_score": 40.2,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=100-500 (0.94x); lead_source=Paid Search (1.12x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07074",
+        "icp_score": 39.6,
+        "icp_tier": "C",
+        "icp_reason": "weak lead_source=Conference (0.61x); weak region=US-West (0.83x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07039",
+        "icp_score": 38.4,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=500-2K (0.99x); lead_source=Inbound Demo (1.15x win rate); weak region=US-West (0.83x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07059",
+        "icp_score": 37.4,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=1-100 (0.92x); region=Canada (1.08x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07052",
+        "icp_score": 37.1,
+        "icp_tier": "C",
+        "icp_reason": "weak region=US-West (0.83x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07061",
+        "icp_score": 36.5,
+        "icp_tier": "C",
+        "icp_reason": "weak size_band=100-500 (0.94x); region=Canada (1.08x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07051",
+        "icp_score": 35.0,
+        "icp_tier": "C",
+        "icp_reason": "weak industry=Real Estate (0.54x); weak size_band=500-2K (0.99x); lead_source=Inbound Demo (1.15x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07027",
+        "icp_score": 34.7,
+        "icp_tier": "D",
+        "icp_reason": "weak industry=Hospitality (0.40x); lead_source=Inbound Demo (1.15x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07045",
+        "icp_score": 33.6,
+        "icp_tier": "D",
+        "icp_reason": "weak industry=Hospitality (0.40x); region=UK/EU (1.11x win rate)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07022",
+        "icp_score": 33.1,
+        "icp_tier": "D",
+        "icp_reason": "weak size_band=500-2K (0.99x); weak lead_source=Outbound SDR (0.79x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07064",
+        "icp_score": 29.5,
+        "icp_tier": "D",
+        "icp_reason": "weak size_band=1-100 (0.92x); weak lead_source=Conference (0.61x); weak region=US-West (0.83x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07032",
+        "icp_score": 27.2,
+        "icp_tier": "D",
+        "icp_reason": "weak industry=Real Estate (0.54x); weak size_band=100-500 (0.94x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07040",
+        "icp_score": 24.6,
+        "icp_tier": "D",
+        "icp_reason": "weak size_band=100-500 (0.94x); weak lead_source=Conference (0.61x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07053",
+        "icp_score": 17.0,
+        "icp_tier": "D",
+        "icp_reason": "weak size_band=100-500 (0.94x); weak lead_source=Conference (0.61x); weak region=US-West (0.83x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07000",
+        "icp_score": 16.6,
+        "icp_tier": "D",
+        "icp_reason": "weak industry=Real Estate (0.54x); weak size_band=500-2K (0.99x); weak lead_source=Outbound SDR (0.79x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07030",
+        "icp_score": 13.8,
+        "icp_tier": "D",
+        "icp_reason": "weak industry=Hospitality (0.40x); weak size_band=100-500 (0.94x); weak lead_source=Outbound SDR (0.79x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07033",
+        "icp_score": 13.8,
+        "icp_tier": "D",
+        "icp_reason": "weak industry=Hospitality (0.40x); weak size_band=100-500 (0.94x); weak lead_source=Outbound SDR (0.79x)"
+      }
+    },
+    {
+      "properties": {
+        "hs_object_id": "A-07020",
+        "icp_score": 8.1,
+        "icp_tier": "D",
+        "icp_reason": "weak industry=Hospitality (0.40x); weak size_band=100-500 (0.94x); weak lead_source=Conference (0.61x)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "generated_from": "closed_deals.csv",
+  "deals_analyzed": 420,
+  "baseline_win_rate": 0.3881,
+  "baseline_median_cycle_days": 90,
+  "min_sample_for_credit": 12,
+  "dimension_weights": {
+    "industry": {
+      "Healthcare": 1.417,
+      "Real Estate": 0.542,
+      "Education": 1.068,
+      "Retail": 1.057,
+      "Manufacturing": 0.709,
+      "Logistics": 0.758,
+      "Banking": 1.411,
+      "Hospitality": 0.403,
+      "Pharmaceuticals": 1.288,
+      "Media": 0.773
+    },
+    "size_band": {
+      "5K+": 1.074,
+      "500-2K": 0.987,
+      "1-100": 0.916,
+      "100-500": 0.935,
+      "2K-5K": 1.288
+    },
+    "region": {
+      "US-West": 0.834,
+      "US-East": 1.024,
+      "UK/EU": 1.111,
+      "Canada": 1.076
+    },
+    "lead_source": {
+      "Paid Search": 1.122,
+      "Webinar": 1.017,
+      "Outbound SDR": 0.789,
+      "Conference": 0.61,
+      "Partner Referral": 1.239,
+      "Inbound Demo": 1.151
+    }
+  },
+  "lift_range": {
+    "industry": [
+      0.403,
+      1.417
+    ],
+    "size_band": [
+      0.916,
+      1.288
+    ],
+    "region": [
+      0.834,
+      1.111
+    ],
+    "lead_source": [
+      0.61,
+      1.239
+    ]
+  },
+  "dimensions": {
+    "industry": {
+      "Healthcare": {
+        "deals": 80,
+        "won": 44,
+        "win_rate": 0.55,
+        "won_arr": 4601000,
+        "median_cycle_days": 83
+      },
+      "Real Estate": {
+        "deals": 38,
+        "won": 8,
+        "win_rate": 0.21052631578947367,
+        "won_arr": 230000,
+        "median_cycle_days": 93
+      },
+      "Education": {
+        "deals": 41,
+        "won": 17,
+        "win_rate": 0.4146341463414634,
+        "won_arr": 1068000,
+        "median_cycle_days": 102
+      },
+      "Retail": {
+        "deals": 39,
+        "won": 16,
+        "win_rate": 0.41025641025641024,
+        "won_arr": 720000,
+        "median_cycle_days": 118
+      },
+      "Manufacturing": {
+        "deals": 40,
+        "won": 11,
+        "win_rate": 0.275,
+        "won_arr": 1048000,
+        "median_cycle_days": 80
+      },
+      "Logistics": {
+        "deals": 34,
+        "won": 10,
+        "win_rate": 0.29411764705882354,
+        "won_arr": 292000,
+        "median_cycle_days": 92
+      },
+      "Banking": {
+        "deals": 42,
+        "won": 23,
+        "win_rate": 0.5476190476190477,
+        "won_arr": 2034000,
+        "median_cycle_days": 84
+      },
+      "Hospitality": {
+        "deals": 32,
+        "won": 5,
+        "win_rate": 0.15625,
+        "won_arr": 174000,
+        "median_cycle_days": 115
+      },
+      "Pharmaceuticals": {
+        "deals": 34,
+        "won": 17,
+        "win_rate": 0.5,
+        "won_arr": 1740000,
+        "median_cycle_days": 77
+      },
+      "Media": {
+        "deals": 40,
+        "won": 12,
+        "win_rate": 0.3,
+        "won_arr": 1160000,
+        "median_cycle_days": 102
+      }
+    },
+    "size_band": {
+      "5K+": {
+        "deals": 36,
+        "won": 15,
+        "win_rate": 0.4166666666666667,
+        "won_arr": 7093000,
+        "median_cycle_days": 104
+      },
+      "500-2K": {
+        "deals": 94,
+        "won": 36,
+        "win_rate": 0.3829787234042553,
+        "won_arr": 1531000,
+        "median_cycle_days": 92
+      },
+      "1-100": {
+        "deals": 90,
+        "won": 32,
+        "win_rate": 0.35555555555555557,
+        "won_arr": 288000,
+        "median_cycle_days": 89
+      },
+      "100-500": {
+        "deals": 146,
+        "won": 53,
+        "win_rate": 0.363013698630137,
+        "won_arr": 612000,
+        "median_cycle_days": 83
+      },
+      "2K-5K": {
+        "deals": 54,
+        "won": 27,
+        "win_rate": 0.5,
+        "won_arr": 3543000,
+        "median_cycle_days": 97
+      }
+    },
+    "region": {
+      "US-West": {
+        "deals": 105,
+        "won": 34,
+        "win_rate": 0.3238095238095238,
+        "won_arr": 3848000,
+        "median_cycle_days": 91
+      },
+      "US-East": {
+        "deals": 166,
+        "won": 66,
+        "win_rate": 0.39759036144578314,
+        "won_arr": 4371000,
+        "median_cycle_days": 90
+      },
+      "UK/EU": {
+        "deals": 58,
+        "won": 25,
+        "win_rate": 0.43103448275862066,
+        "won_arr": 2087000,
+        "median_cycle_days": 90
+      },
+      "Canada": {
+        "deals": 91,
+        "won": 38,
+        "win_rate": 0.4175824175824176,
+        "won_arr": 2761000,
+        "median_cycle_days": 95
+      }
+    },
+    "lead_source": {
+      "Paid Search": {
+        "deals": 62,
+        "won": 27,
+        "win_rate": 0.43548387096774194,
+        "won_arr": 2166000,
+        "median_cycle_days": 91
+      },
+      "Webinar": {
+        "deals": 76,
+        "won": 30,
+        "win_rate": 0.39473684210526316,
+        "won_arr": 2563000,
+        "median_cycle_days": 101
+      },
+      "Outbound SDR": {
+        "deals": 98,
+        "won": 30,
+        "win_rate": 0.30612244897959184,
+        "won_arr": 2262000,
+        "median_cycle_days": 89
+      },
+      "Conference": {
+        "deals": 38,
+        "won": 9,
+        "win_rate": 0.23684210526315788,
+        "won_arr": 166000,
+        "median_cycle_days": 93
+      },
+      "Partner Referral": {
+        "deals": 52,
+        "won": 25,
+        "win_rate": 0.4807692307692308,
+        "won_arr": 3476000,
+        "median_cycle_days": 92
+      },
+      "Inbound Demo": {
+        "deals": 94,
+        "won": 42,
+        "win_rate": 0.44680851063829785,
+        "won_arr": 2434000,
+        "median_cycle_days": 86
+      }
+    }
+  },
+  "score_allocation": {
+    "industry": 45,
+    "size_band": 25,
+    "lead_source": 20,
+    "region": 10
+  }
+}

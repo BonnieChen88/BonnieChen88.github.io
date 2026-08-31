@@ -1,0 +1,76 @@
+account_id,account_name,industry,employees,region,lead_source,est_arr,created_date
+A-07000,Hollingsworth Labs,Real Estate,1137,US-West,Outbound SDR,53000,2026-04-23
+A-07001,Fairhaven Financial,Pharmaceuticals,12641,Canada,Paid Search,480000,2026-06-01
+A-07002,Braemar Industries,Healthcare,674,US-West,Outbound SDR,26000,2026-05-31
+A-07003,Vault Foods,Healthcare,333,US-East,Inbound Demo,12000,2026-04-11
+A-07004,Everly Capital,Logistics,210,US-East,Paid Search,12000,2026-02-02
+A-07005,Hollingsworth Media,Media,1235,US-East,Webinar,32000,2026-02-06
+A-07006,Silverpine Health,Banking,64,US-East,Partner Referral,12000,2026-06-13
+A-07007,Grayling Therapeutics,Retail,347,US-East,Inbound Demo,12000,2026-06-15
+A-07008,Westmere Media,Education,761,US-East,Inbound Demo,41000,2026-03-26
+A-07009,Glenmore Labs,Education,13401,UK/EU,Paid Search,625000,2026-05-07
+A-07010,Harrowgate Partners,Healthcare,83,US-East,Conference,12000,2026-06-22
+A-07011,Marlowe Diagnostics,Pharmaceuticals,77,UK/EU,Inbound Demo,12000,2026-02-23
+A-07012,Dalhousie Logistics,Education,63,UK/EU,Webinar,12000,2026-05-14
+A-07013,Everly Partners,Healthcare,659,US-West,Paid Search,39000,2026-04-15
+A-07014,Hollingsworth Systems,Banking,274,US-East,Outbound SDR,12000,2026-03-31
+A-07015,Kingsley Aviation,Manufacturing,3682,US-East,Outbound SDR,129000,2026-06-19
+A-07016,Halden Systems,Manufacturing,9707,US-West,Partner Referral,557000,2026-05-06
+A-07017,Cobalt Capital,Hospitality,2169,UK/EU,Paid Search,79000,2026-03-26
+A-07018,Maplewood Holdings,Real Estate,3879,US-West,Partner Referral,116000,2026-06-07
+A-07019,Ashcombe Clinical,Education,46,US-East,Inbound Demo,12000,2026-06-06
+A-07020,Copperfield Robotics,Hospitality,340,US-East,Conference,13000,2026-06-12
+A-07021,Nova Foods,Banking,683,Canada,Paid Search,18000,2026-05-05
+A-07022,Inverness Technologies,Logistics,588,US-East,Outbound SDR,28000,2026-02-05
+A-07023,Inverness Diagnostics,Logistics,972,US-West,Partner Referral,36000,2026-06-15
+A-07024,Thornbury Analytics,Manufacturing,2043,UK/EU,Partner Referral,60000,2026-03-19
+A-07025,Norbury Financial,Banking,81,US-East,Paid Search,12000,2026-03-25
+A-07026,Ironwood Health,Retail,3620,Canada,Outbound SDR,207000,2026-02-23
+A-07027,Fairhaven Media,Hospitality,8392,US-East,Inbound Demo,311000,2026-05-08
+A-07028,Dalhousie Retail Co,Hospitality,2636,US-East,Paid Search,110000,2026-05-07
+A-07029,Fairhaven Foods,Retail,9895,Canada,Inbound Demo,331000,2026-06-13
+A-07030,Junction Industries,Hospitality,162,US-East,Outbound SDR,12000,2026-02-26
+A-07031,Yarrow Industries,Education,95,US-East,Paid Search,12000,2026-02-03
+A-07032,Clearwave Diagnostics,Real Estate,297,US-East,Webinar,15000,2026-06-20
+A-07033,Maplewood Technologies,Hospitality,294,US-East,Outbound SDR,12000,2026-05-13
+A-07034,Jesmond Analytics,Banking,50,Canada,Webinar,12000,2026-06-02
+A-07035,Fenwick Therapeutics,Logistics,359,US-East,Paid Search,17000,2026-02-09
+A-07036,Umberton Holdings,Education,192,US-East,Webinar,12000,2026-02-06
+A-07037,Westmere Logistics,Logistics,3570,US-East,Conference,284000,2026-03-16
+A-07038,Sable Therapeutics,Pharmaceuticals,96,US-East,Partner Referral,12000,2026-03-11
+A-07039,Braemar Systems,Media,637,US-West,Inbound Demo,12000,2026-05-20
+A-07040,Glenmore Media,Media,333,US-East,Conference,17000,2026-05-24
+A-07041,Sable Financial,Pharmaceuticals,65,US-East,Webinar,12000,2026-05-18
+A-07042,Glenmore Logistics,Healthcare,2093,Canada,Inbound Demo,12000,2026-06-16
+A-07043,Umberton Clinical,Healthcare,262,Canada,Paid Search,12000,2026-03-26
+A-07044,Maplewood Labs,Healthcare,612,US-West,Partner Referral,25000,2026-05-20
+A-07045,Glenmore Diagnostics,Hospitality,6727,UK/EU,Webinar,328000,2026-02-18
+A-07046,Loxley Industries,Pharmaceuticals,159,UK/EU,Outbound SDR,12000,2026-04-07
+A-07047,Elderwood Clinical,Logistics,313,US-East,Partner Referral,15000,2026-02-06
+A-07048,Vantage Capital,Pharmaceuticals,195,US-West,Webinar,12000,2026-05-21
+A-07049,Ashcombe Systems,Pharmaceuticals,824,US-East,Conference,26000,2026-06-21
+A-07050,Yarrow Holdings,Retail,87,Canada,Paid Search,12000,2026-01-26
+A-07051,Fenwick Networks,Real Estate,1192,US-East,Inbound Demo,49000,2026-05-17
+A-07052,Clearwave Insurance,Manufacturing,7054,US-West,Webinar,374000,2026-04-28
+A-07053,Fenwick Aviation,Logistics,255,US-West,Conference,12000,2026-02-06
+A-07054,Ivywood Health,Banking,12936,Canada,Inbound Demo,603000,2026-06-20
+A-07055,Tamarack Systems,Logistics,6809,UK/EU,Inbound Demo,288000,2026-03-24
+A-07056,Yarrow Bioscience,Banking,102,Canada,Paid Search,12000,2026-02-24
+A-07057,Stonegate Group,Banking,215,US-West,Outbound SDR,12000,2026-03-10
+A-07058,Carrickfern Labs,Banking,340,Canada,Webinar,12000,2026-01-26
+A-07059,Braemar Holdings,Logistics,74,Canada,Webinar,12000,2026-06-11
+A-07060,Bellamy Networks,Healthcare,679,US-East,Outbound SDR,48000,2026-02-08
+A-07061,Cobalt Foods,Manufacturing,268,Canada,Webinar,12000,2026-04-22
+A-07062,Clearwave Aviation,Retail,2663,UK/EU,Paid Search,56000,2026-06-08
+A-07063,Inverness Insurance,Retail,6157,UK/EU,Webinar,237000,2026-05-12
+A-07064,Quarry Hill Holdings,Education,85,US-West,Conference,12000,2026-02-07
+A-07065,Loxley Labs,Retail,2250,UK/EU,Partner Referral,114000,2026-05-18
+A-07066,Jesmond Aviation,Healthcare,199,US-East,Outbound SDR,12000,2026-02-02
+A-07067,Harrowgate Group,Logistics,517,US-East,Webinar,33000,2026-02-19
+A-07068,Kilmarnock Foods,Healthcare,4046,US-West,Conference,154000,2026-02-18
+A-07069,Kestrel Financial,Banking,346,Canada,Webinar,12000,2026-06-11
+A-07070,Vault Therapeutics,Healthcare,4067,US-East,Conference,206000,2026-04-09
+A-07071,Dunmore Materials,Manufacturing,3636,Canada,Paid Search,124000,2026-03-29
+A-07072,Fairhaven Logistics,Banking,66,Canada,Partner Referral,12000,2026-06-16
+A-07073,Vantage Partners,Retail,196,UK/EU,Webinar,12000,2026-02-21
+A-07074,Meridian Aviation,Retail,10635,US-West,Conference,475000,2026-05-29

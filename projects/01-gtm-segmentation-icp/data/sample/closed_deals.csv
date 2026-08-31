@@ -1,0 +1,421 @@
+deal_id,account_name,industry,employees,region,lead_source,arr,outcome,cycle_days,close_date
+D-10000,Merrivale Health,Healthcare,7747,US-West,Paid Search,476000,won,87,2025-01-12
+D-10001,Westmere Materials,Real Estate,1013,US-East,Webinar,42000,won,122,2025-04-15
+D-10002,Thornbury Diagnostics,Education,1307,UK/EU,Outbound SDR,56000,lost,90,2025-09-17
+D-10003,Junction Labs,Retail,85,Canada,Webinar,9000,lost,119,2025-01-02
+D-10004,Thornbury Retail Co,Healthcare,190,Canada,Outbound SDR,9000,won,78,2024-10-06
+D-10005,Fenwick Group,Manufacturing,11626,US-West,Outbound SDR,558000,lost,136,2025-09-22
+D-10006,Harrowgate Logistics,Retail,265,US-East,Conference,9000,lost,73,2024-08-09
+D-10007,Langford Therapeutics,Education,347,US-East,Partner Referral,9000,lost,83,2025-10-17
+D-10008,Pemberton Systems,Logistics,939,UK/EU,Inbound Demo,37000,won,55,2025-06-04
+D-10009,Harrowgate Bioscience,Healthcare,4153,UK/EU,Outbound SDR,197000,won,97,2026-05-02
+D-10010,Maplewood Networks,Banking,170,US-East,Inbound Demo,9000,won,91,2025-02-13
+D-10011,Oakhurst Foods,Hospitality,55,UK/EU,Inbound Demo,9000,lost,118,2026-04-18
+D-10012,Foxglove Logistics,Retail,376,UK/EU,Outbound SDR,12000,won,89,2026-04-13
+D-10013,Norbury Insurance,Retail,94,UK/EU,Outbound SDR,9000,lost,83,2026-02-15
+D-10014,Ivywood Foods,Education,349,US-East,Outbound SDR,20000,lost,84,2025-03-01
+D-10015,Kilmarnock Robotics,Healthcare,232,US-West,Partner Referral,9000,lost,69,2025-02-27
+D-10016,Ironwood Systems,Education,658,US-East,Inbound Demo,23000,won,107,2024-11-06
+D-10017,Norbury Holdings,Logistics,95,US-West,Inbound Demo,9000,lost,142,2026-04-05
+D-10018,Glenmore Robotics,Banking,115,US-East,Paid Search,9000,won,111,2024-08-18
+D-10019,Silverpine Clinical,Real Estate,93,Canada,Conference,9000,won,93,2024-10-07
+D-10020,Lattice Partners,Hospitality,787,US-East,Partner Referral,41000,lost,88,2025-12-04
+D-10021,Fairhaven Robotics,Healthcare,100,Canada,Inbound Demo,9000,won,71,2025-04-07
+D-10022,Maplewood Foods,Real Estate,220,US-East,Webinar,9000,lost,94,2026-05-31
+D-10023,Langford Systems,Retail,996,US-East,Webinar,58000,lost,96,2026-05-29
+D-10024,Jarvis Networks,Banking,74,US-East,Outbound SDR,9000,lost,64,2024-08-15
+D-10025,Nova Industries,Manufacturing,2915,Canada,Inbound Demo,124000,lost,106,2026-05-15
+D-10026,Oakhurst Media,Retail,845,Canada,Partner Referral,32000,won,125,2024-08-04
+D-10027,Pemberton Robotics,Banking,296,Canada,Webinar,11000,lost,60,2025-04-26
+D-10028,Maplewood Robotics,Manufacturing,79,US-West,Outbound SDR,9000,won,62,2026-06-26
+D-10029,Brightline Labs,Pharmaceuticals,75,UK/EU,Inbound Demo,9000,lost,110,2024-08-22
+D-10030,Dunmore Clinical,Pharmaceuticals,1115,UK/EU,Inbound Demo,35000,won,59,2025-06-08
+D-10031,Ardent Industries,Education,3412,US-West,Paid Search,190000,lost,119,2024-08-21
+D-10032,Kingsley Group,Media,555,Canada,Conference,22000,lost,105,2025-05-29
+D-10033,Ironwood Capital,Healthcare,90,US-West,Paid Search,9000,won,91,2024-12-15
+D-10034,Dalhousie Technologies,Education,79,UK/EU,Outbound SDR,9000,lost,98,2025-06-29
+D-10035,Tamarack Financial,Banking,11527,US-West,Conference,541000,lost,139,2025-04-05
+D-10036,Loxley Holdings,Pharmaceuticals,3696,US-East,Outbound SDR,196000,lost,112,2025-08-09
+D-10037,Fenwick Materials,Healthcare,316,US-East,Webinar,18000,won,76,2026-03-04
+D-10038,Grayling Financial,Pharmaceuticals,3894,UK/EU,Outbound SDR,162000,won,36,2026-01-05
+D-10039,Cascadia Foods,Hospitality,305,US-East,Partner Referral,14000,won,97,2025-05-03
+D-10040,Pemberton Aviation,Banking,991,US-East,Outbound SDR,33000,won,92,2026-05-16
+D-10041,Aldergrove Aviation,Media,163,US-East,Outbound SDR,9000,lost,91,2024-07-18
+D-10042,Thornbury Industries,Real Estate,1258,US-East,Outbound SDR,68000,won,77,2024-11-07
+D-10043,Halden Financial,Hospitality,386,US-East,Outbound SDR,15000,lost,127,2024-10-13
+D-10044,Grayling Foods,Banking,595,US-East,Inbound Demo,29000,won,63,2025-09-21
+D-10045,Foxglove Retail Co,Banking,1322,US-East,Inbound Demo,92000,lost,64,2024-10-26
+D-10046,Peregrine Holdings,Education,84,US-East,Outbound SDR,9000,lost,66,2026-05-31
+D-10047,Oakhurst Diagnostics,Media,87,Canada,Partner Referral,9000,lost,69,2024-12-02
+D-10048,Glenmore Materials,Pharmaceuticals,1338,Canada,Inbound Demo,35000,lost,84,2026-06-23
+D-10049,Kestrel Media,Media,304,US-East,Partner Referral,10000,won,118,2025-03-05
+D-10050,Yarrow Logistics,Healthcare,1148,US-East,Paid Search,51000,lost,107,2025-09-07
+D-10051,Langford Networks,Real Estate,251,UK/EU,Webinar,9000,lost,102,2024-12-09
+D-10052,Dunmore Robotics,Manufacturing,80,UK/EU,Webinar,9000,won,114,2025-10-25
+D-10053,Aldergrove Retail Co,Hospitality,59,US-East,Webinar,9000,lost,87,2025-04-24
+D-10054,Grayling Industries,Healthcare,349,US-East,Partner Referral,12000,won,49,2025-07-22
+D-10055,Westmere Clinical,Healthcare,4141,UK/EU,Outbound SDR,162000,won,102,2025-08-06
+D-10056,Wren Materials,Hospitality,1218,Canada,Partner Referral,37000,lost,63,2025-05-29
+D-10057,Cobalt Group,Banking,940,Canada,Outbound SDR,22000,won,84,2024-10-09
+D-10058,Northbridge Materials,Manufacturing,362,UK/EU,Webinar,15000,won,62,2025-08-31
+D-10059,Vault Group,Education,353,US-West,Webinar,11000,won,104,2026-02-11
+D-10060,Elderwood Insurance,Pharmaceuticals,113,US-West,Outbound SDR,9000,lost,55,2025-06-11
+D-10061,Junction Therapeutics,Manufacturing,293,UK/EU,Partner Referral,16000,lost,98,2026-05-06
+D-10062,Redbourne Labs,Media,185,US-West,Conference,9000,lost,96,2026-04-27
+D-10063,Maplewood Logistics,Healthcare,280,Canada,Paid Search,11000,won,72,2025-08-24
+D-10064,Bellamy Robotics,Retail,3981,UK/EU,Inbound Demo,258000,won,134,2025-06-27
+D-10065,Halden Clinical,Healthcare,86,Canada,Inbound Demo,9000,lost,66,2025-01-01
+D-10066,Ashcombe Media,Manufacturing,56,US-West,Outbound SDR,9000,won,56,2025-05-24
+D-10067,Clearwave Media,Logistics,1265,US-West,Webinar,70000,won,112,2024-08-22
+D-10068,Braemar Diagnostics,Pharmaceuticals,361,US-West,Partner Referral,12000,won,130,2025-09-26
+D-10069,Westmere Analytics,Healthcare,2855,Canada,Outbound SDR,154000,won,112,2025-08-28
+D-10070,Nova Partners,Banking,83,US-East,Inbound Demo,9000,lost,74,2025-08-10
+D-10071,Norbury Systems,Pharmaceuticals,53,US-West,Paid Search,9000,won,93,2024-10-19
+D-10072,Copperfield Diagnostics,Healthcare,803,US-East,Paid Search,28000,won,56,2024-08-06
+D-10073,Jarvis Media,Manufacturing,117,US-West,Inbound Demo,9000,won,73,2025-10-19
+D-10074,Brightline Materials,Hospitality,16423,Canada,Inbound Demo,578000,lost,144,2026-03-26
+D-10075,Tessera Foods,Manufacturing,63,US-West,Webinar,9000,lost,119,2026-05-29
+D-10076,Meridian Robotics,Hospitality,62,US-West,Outbound SDR,9000,lost,153,2026-03-20
+D-10077,Yarrow Materials,Logistics,2662,UK/EU,Inbound Demo,105000,lost,106,2024-11-07
+D-10078,Norbury Foods,Real Estate,987,US-West,Inbound Demo,35000,won,76,2025-10-06
+D-10079,Meridian Systems,Banking,2679,Canada,Webinar,118000,lost,68,2026-06-23
+D-10080,Ivywood Industries,Healthcare,928,UK/EU,Webinar,14000,lost,66,2025-04-02
+D-10081,Quarry Hill Aviation,Real Estate,167,US-East,Webinar,9000,lost,110,2025-05-25
+D-10082,Fairhaven Capital,Manufacturing,78,US-West,Paid Search,9000,lost,83,2026-02-12
+D-10083,Carrickfern Logistics,Education,199,US-East,Outbound SDR,12000,lost,127,2025-11-09
+D-10084,Aldergrove Capital,Healthcare,91,US-East,Partner Referral,9000,won,84,2025-09-26
+D-10085,Carrickfern Networks,Banking,87,US-East,Conference,9000,won,62,2025-08-18
+D-10086,Dalhousie Industries,Retail,1027,US-East,Inbound Demo,27000,lost,108,2026-04-15
+D-10087,Nightingale Capital,Healthcare,2125,US-East,Partner Referral,53000,lost,96,2025-04-08
+D-10088,Peregrine Clinical,Hospitality,107,US-East,Outbound SDR,9000,lost,85,2024-09-18
+D-10089,Northbridge Partners,Retail,168,US-East,Inbound Demo,9000,lost,68,2026-02-14
+D-10090,Ardent Retail Co,Real Estate,102,Canada,Conference,9000,lost,91,2026-03-17
+D-10091,Hollingsworth Insurance,Pharmaceuticals,15499,US-East,Outbound SDR,553000,won,138,2026-04-11
+D-10092,Hollingsworth Industries,Banking,238,Canada,Outbound SDR,9000,lost,58,2024-10-26
+D-10093,Brightline Clinical,Retail,1010,US-West,Webinar,39000,lost,86,2025-01-16
+D-10094,Dalhousie Materials,Manufacturing,540,US-West,Partner Referral,23000,lost,77,2025-06-03
+D-10095,Maplewood Aviation,Pharmaceuticals,116,Canada,Webinar,9000,won,77,2025-02-12
+D-10096,Ardent Health,Healthcare,270,Canada,Inbound Demo,11000,lost,105,2025-09-04
+D-10097,Jarvis Insurance,Hospitality,112,US-West,Inbound Demo,9000,lost,85,2024-07-26
+D-10098,Lattice Aviation,Logistics,374,US-East,Conference,16000,lost,101,2025-10-12
+D-10099,Thornbury Technologies,Manufacturing,116,US-West,Inbound Demo,9000,lost,130,2025-11-15
+D-10100,Umberton Bioscience,Education,57,Canada,Outbound SDR,9000,lost,82,2025-12-17
+D-10101,Westmere Capital,Manufacturing,11026,Canada,Paid Search,472000,lost,96,2025-10-26
+D-10102,Norbury Therapeutics,Hospitality,13703,US-East,Paid Search,438000,lost,122,2025-04-18
+D-10103,Wren Bioscience,Pharmaceuticals,1141,US-East,Webinar,48000,lost,46,2026-01-19
+D-10104,Northbridge Therapeutics,Retail,107,US-East,Inbound Demo,9000,won,61,2025-11-25
+D-10105,Ardent Clinical,Hospitality,2696,US-East,Outbound SDR,110000,lost,79,2024-11-12
+D-10106,Peregrine Logistics,Real Estate,1175,Canada,Outbound SDR,59000,lost,95,2024-09-14
+D-10107,Tessera Capital,Retail,231,US-East,Outbound SDR,10000,lost,63,2025-12-11
+D-10108,Kestrel Insurance,Manufacturing,11147,US-West,Outbound SDR,472000,lost,92,2025-01-14
+D-10109,Peregrine Therapeutics,Logistics,253,US-West,Paid Search,12000,lost,76,2024-12-19
+D-10110,Yarrow Clinical,Healthcare,77,US-East,Outbound SDR,9000,lost,50,2024-10-12
+D-10111,Ivywood Robotics,Hospitality,311,Canada,Webinar,9000,lost,73,2025-06-22
+D-10112,Vantage Retail Co,Retail,4449,US-East,Webinar,178000,lost,130,2025-01-15
+D-10113,Thornbury Robotics,Healthcare,3768,US-East,Paid Search,172000,lost,78,2025-04-10
+D-10114,Vantage Holdings,Media,65,US-West,Outbound SDR,9000,lost,85,2026-06-13
+D-10115,Thornbury Aviation,Logistics,798,US-West,Conference,29000,lost,111,2024-09-09
+D-10116,Oakhurst Logistics,Healthcare,356,US-East,Paid Search,12000,won,81,2025-10-17
+D-10117,Kestrel Clinical,Manufacturing,336,Canada,Webinar,11000,lost,109,2025-02-23
+D-10118,Ivywood Bioscience,Logistics,793,US-East,Inbound Demo,36000,won,113,2024-07-26
+D-10119,Cobalt Logistics,Manufacturing,309,US-East,Inbound Demo,10000,lost,117,2024-07-03
+D-10120,Braemar Materials,Healthcare,2356,Canada,Outbound SDR,111000,lost,107,2025-07-26
+D-10121,Northbridge Logistics,Banking,56,Canada,Partner Referral,9000,lost,63,2025-09-16
+D-10122,Redbourne Aviation,Healthcare,1227,US-East,Webinar,58000,won,85,2024-09-04
+D-10123,Kestrel Diagnostics,Logistics,629,US-West,Outbound SDR,45000,lost,85,2025-01-19
+D-10124,Hollingsworth Analytics,Media,12777,UK/EU,Paid Search,974000,lost,132,2026-06-05
+D-10125,Nova Group,Retail,107,US-West,Inbound Demo,9000,won,112,2026-03-07
+D-10126,Bellamy Group,Manufacturing,3180,US-West,Inbound Demo,86000,lost,84,2025-06-28
+D-10127,Glenmore Holdings,Manufacturing,101,US-East,Paid Search,9000,lost,78,2026-03-04
+D-10128,Hollingsworth Materials,Healthcare,90,US-West,Webinar,9000,lost,120,2025-01-08
+D-10129,Cobalt Bioscience,Logistics,248,US-East,Outbound SDR,10000,lost,77,2025-02-12
+D-10130,Cobalt Industries,Healthcare,63,US-West,Paid Search,9000,lost,81,2026-05-16
+D-10131,Meridian Diagnostics,Real Estate,54,US-East,Inbound Demo,9000,won,77,2025-04-18
+D-10132,Wren Aviation,Logistics,76,US-West,Partner Referral,9000,won,92,2026-06-04
+D-10133,Nightingale Robotics,Healthcare,957,US-East,Webinar,49000,won,79,2025-12-30
+D-10134,Vault Analytics,Banking,201,US-West,Outbound SDR,11000,lost,90,2026-05-15
+D-10135,Harrowgate Industries,Real Estate,168,Canada,Partner Referral,9000,lost,67,2025-07-21
+D-10136,Yarrow Therapeutics,Healthcare,105,US-East,Partner Referral,9000,won,83,2025-05-13
+D-10137,Fenwick Insurance,Education,101,Canada,Inbound Demo,9000,lost,83,2024-08-04
+D-10138,Pemberton Financial,Education,1210,UK/EU,Inbound Demo,48000,won,120,2026-01-26
+D-10139,Sable Capital,Pharmaceuticals,560,US-East,Inbound Demo,33000,won,96,2025-11-29
+D-10140,Marlowe Therapeutics,Retail,369,US-East,Outbound SDR,17000,won,121,2026-06-11
+D-10141,Elderwood Industries,Healthcare,266,US-East,Inbound Demo,10000,lost,75,2026-05-04
+D-10142,Dalhousie Capital,Manufacturing,105,Canada,Paid Search,9000,lost,72,2025-03-20
+D-10143,Thornbury Therapeutics,Manufacturing,15664,US-East,Partner Referral,539000,won,136,2025-05-06
+D-10144,Cobalt Therapeutics,Real Estate,87,US-East,Paid Search,9000,lost,104,2025-04-26
+D-10145,Langford Clinical,Media,650,US-East,Outbound SDR,30000,lost,103,2025-03-02
+D-10146,Jesmond Bioscience,Logistics,80,US-West,Webinar,9000,won,67,2025-09-05
+D-10147,Tamarack Therapeutics,Real Estate,158,UK/EU,Inbound Demo,9000,lost,100,2026-04-12
+D-10148,Kingsley Therapeutics,Manufacturing,168,US-West,Inbound Demo,9000,lost,90,2024-09-25
+D-10149,Harrowgate Diagnostics,Logistics,352,US-East,Partner Referral,9000,lost,74,2024-11-20
+D-10150,Carrickfern Health,Logistics,754,US-East,Webinar,39000,lost,92,2025-05-10
+D-10151,Redbourne Analytics,Pharmaceuticals,4438,Canada,Partner Referral,147000,won,120,2024-08-01
+D-10152,Umberton Media,Education,58,Canada,Conference,9000,lost,98,2025-03-03
+D-10153,Loxley Media,Healthcare,208,US-East,Outbound SDR,9000,won,97,2025-02-08
+D-10154,Marlowe Insurance,Banking,1175,UK/EU,Webinar,83000,won,109,2024-09-29
+D-10155,Braemar Media,Pharmaceuticals,789,Canada,Outbound SDR,15000,lost,81,2026-05-09
+D-10156,Ashcombe Industries,Education,2898,UK/EU,Partner Referral,147000,won,103,2025-08-08
+D-10157,Grayling Logistics,Manufacturing,10765,US-West,Paid Search,361000,lost,116,2025-08-28
+D-10158,Cascadia Bioscience,Real Estate,10603,Canada,Paid Search,481000,lost,129,2025-05-16
+D-10159,Glenmore Networks,Banking,96,US-West,Outbound SDR,9000,lost,70,2025-09-18
+D-10160,Westmere Therapeutics,Education,3172,UK/EU,Inbound Demo,135000,won,58,2026-04-27
+D-10161,Kingsley Foods,Banking,669,US-East,Webinar,28000,lost,57,2025-10-10
+D-10162,Cascadia Networks,Healthcare,53,US-East,Conference,9000,lost,60,2026-04-30
+D-10163,Carrickfern Diagnostics,Education,3306,US-East,Conference,86000,lost,91,2026-02-19
+D-10164,Nova Health,Healthcare,562,UK/EU,Conference,16000,lost,111,2025-06-04
+D-10165,Inverness Partners,Pharmaceuticals,2810,US-West,Webinar,104000,lost,84,2026-01-23
+D-10166,Kilmarnock Capital,Healthcare,12505,US-East,Webinar,684000,lost,120,2025-01-30
+D-10167,Yarrow Labs,Education,189,US-West,Webinar,10000,lost,122,2024-12-15
+D-10168,Inverness Aviation,Media,63,US-West,Webinar,9000,won,102,2025-03-01
+D-10169,Kestrel Systems,Healthcare,48,UK/EU,Webinar,9000,won,97,2024-09-25
+D-10170,Oakhurst Capital,Real Estate,173,US-West,Outbound SDR,9000,lost,133,2025-04-15
+D-10171,Maplewood Financial,Education,1994,US-East,Paid Search,111000,won,95,2024-10-17
+D-10172,Clearwave Foods,Real Estate,283,US-East,Paid Search,11000,lost,92,2025-12-06
+D-10173,Carrickfern Partners,Pharmaceuticals,105,US-West,Inbound Demo,9000,lost,100,2025-01-26
+D-10174,Nightingale Systems,Real Estate,105,Canada,Outbound SDR,9000,lost,126,2026-06-23
+D-10175,Halden Group,Banking,1320,Canada,Webinar,52000,won,103,2025-12-11
+D-10176,Loxley Materials,Logistics,112,US-East,Inbound Demo,9000,won,148,2026-01-01
+D-10177,Wren Holdings,Retail,12215,Canada,Outbound SDR,357000,lost,102,2025-02-24
+D-10178,Yarrow Financial,Banking,7338,US-East,Outbound SDR,205000,won,100,2026-04-24
+D-10179,Foxglove Capital,Banking,194,US-East,Paid Search,11000,won,76,2026-01-08
+D-10180,Sable Bioscience,Education,806,US-East,Inbound Demo,49000,lost,113,2024-11-18
+D-10181,Pemberton Networks,Media,105,US-East,Webinar,9000,lost,97,2025-09-25
+D-10182,Stonegate Industries,Healthcare,1003,US-West,Inbound Demo,19000,lost,98,2026-06-06
+D-10183,Jesmond Holdings,Logistics,3975,US-East,Webinar,300000,lost,66,2024-10-26
+D-10184,Ashcombe Networks,Healthcare,239,UK/EU,Inbound Demo,11000,won,63,2024-10-24
+D-10185,Kilmarnock Systems,Logistics,307,Canada,Inbound Demo,15000,lost,89,2026-06-05
+D-10186,Aldergrove Media,Manufacturing,1083,Canada,Conference,29000,lost,70,2025-07-27
+D-10187,Vault Logistics,Healthcare,727,US-West,Inbound Demo,18000,won,76,2025-07-23
+D-10188,Junction Analytics,Logistics,116,US-West,Outbound SDR,9000,lost,115,2025-05-31
+D-10189,Merrivale Labs,Media,221,Canada,Inbound Demo,9000,lost,79,2025-09-23
+D-10190,Wren Financial,Education,991,Canada,Inbound Demo,35000,won,74,2024-11-03
+D-10191,Westmere Industries,Banking,3252,US-East,Paid Search,85000,won,69,2025-01-22
+D-10192,Tamarack Technologies,Education,191,Canada,Webinar,9000,won,114,2025-02-15
+D-10193,Ashcombe Materials,Media,1111,US-East,Inbound Demo,49000,lost,81,2025-10-01
+D-10194,Kingsley Diagnostics,Education,370,Canada,Paid Search,13000,won,102,2025-02-13
+D-10195,Tamarack Networks,Real Estate,3570,US-West,Webinar,111000,lost,93,2025-08-31
+D-10196,Grayling Partners,Real Estate,4601,US-East,Webinar,204000,lost,142,2026-02-17
+D-10197,Ashcombe Labs,Manufacturing,85,Canada,Inbound Demo,9000,lost,79,2025-06-30
+D-10198,Lattice Holdings,Real Estate,104,US-East,Webinar,9000,lost,135,2025-02-02
+D-10199,Langford Insurance,Manufacturing,76,US-East,Webinar,9000,lost,116,2024-08-16
+D-10200,Nightingale Analytics,Healthcare,2033,US-West,Webinar,88000,lost,83,2025-10-26
+D-10201,Aldergrove Labs,Media,9602,US-East,Outbound SDR,432000,lost,117,2026-01-07
+D-10202,Westmere Aviation,Retail,1284,US-West,Conference,67000,lost,90,2026-02-22
+D-10203,Stonegate Systems,Pharmaceuticals,1092,Canada,Webinar,60000,lost,56,2025-08-28
+D-10204,Yarrow Group,Healthcare,616,Canada,Webinar,17000,won,55,2026-04-25
+D-10205,Harrowgate Therapeutics,Education,1306,UK/EU,Webinar,38000,lost,113,2026-04-21
+D-10206,Junction Foods,Banking,11137,US-West,Inbound Demo,273000,lost,114,2024-09-17
+D-10207,Dunmore Bioscience,Real Estate,67,US-West,Outbound SDR,9000,lost,75,2025-08-13
+D-10208,Norbury Clinical,Pharmaceuticals,294,US-East,Webinar,9000,won,70,2025-03-06
+D-10209,Yarrow Robotics,Healthcare,89,US-East,Outbound SDR,9000,lost,70,2025-05-06
+D-10210,Fenwick Robotics,Manufacturing,106,US-East,Inbound Demo,9000,lost,88,2025-04-30
+D-10211,Cascadia Partners,Retail,55,UK/EU,Outbound SDR,9000,won,118,2024-10-05
+D-10212,Tessera Materials,Banking,103,US-West,Conference,9000,lost,74,2025-12-03
+D-10213,Langford Capital,Pharmaceuticals,1349,US-East,Conference,32000,lost,62,2025-07-28
+D-10214,Clearwave Retail Co,Healthcare,313,US-East,Outbound SDR,12000,won,41,2025-07-31
+D-10215,Aldergrove Holdings,Hospitality,311,Canada,Inbound Demo,11000,won,72,2025-06-29
+D-10216,Nova Bioscience,Education,4337,US-West,Partner Referral,152000,lost,125,2026-05-19
+D-10217,Bellamy Systems,Retail,14836,UK/EU,Inbound Demo,263000,lost,134,2026-02-01
+D-10218,Nova Robotics,Hospitality,10192,Canada,Outbound SDR,257000,lost,166,2025-03-28
+D-10219,Cobalt Aviation,Media,14046,US-West,Webinar,700000,won,103,2026-05-31
+D-10220,Braemar Retail Co,Manufacturing,1157,US-West,Inbound Demo,41000,won,78,2025-12-31
+D-10221,Silverpine Insurance,Education,182,Canada,Webinar,9000,lost,82,2024-07-03
+D-10222,Stonegate Therapeutics,Education,3772,UK/EU,Inbound Demo,47000,won,101,2025-02-28
+D-10223,Silverpine Analytics,Healthcare,1206,US-East,Partner Referral,38000,lost,119,2025-02-26
+D-10224,Hollingsworth Capital,Media,4068,US-East,Outbound SDR,227000,lost,110,2025-08-29
+D-10225,Nova Capital,Banking,325,Canada,Webinar,9000,lost,59,2026-03-01
+D-10226,Fenwick Retail Co,Media,206,US-West,Outbound SDR,9000,won,77,2025-04-24
+D-10227,Junction Logistics,Media,1331,US-East,Inbound Demo,77000,lost,92,2024-07-14
+D-10228,Carrickfern Bioscience,Healthcare,202,US-West,Paid Search,9000,lost,70,2026-03-27
+D-10229,Cascadia Logistics,Banking,200,US-East,Webinar,9000,won,48,2025-04-21
+D-10230,Ashcombe Holdings,Real Estate,104,US-East,Partner Referral,9000,won,90,2026-01-31
+D-10231,Norbury Media,Healthcare,331,US-East,Inbound Demo,14000,won,48,2025-01-23
+D-10232,Junction Group,Healthcare,84,UK/EU,Paid Search,9000,lost,86,2026-05-01
+D-10233,Dunmore Technologies,Real Estate,97,US-East,Inbound Demo,9000,lost,54,2025-10-29
+D-10234,Elderwood Health,Healthcare,218,US-West,Webinar,9000,lost,65,2025-10-31
+D-10235,Jesmond Logistics,Logistics,2924,Canada,Paid Search,86000,won,107,2025-09-30
+D-10236,Kingsley Holdings,Pharmaceuticals,8047,UK/EU,Webinar,236000,won,71,2025-07-14
+D-10237,Dalhousie Media,Logistics,870,US-East,Inbound Demo,55000,lost,102,2024-09-20
+D-10238,Glenmore Industries,Healthcare,560,US-West,Webinar,27000,lost,82,2025-02-03
+D-10239,Junction Aviation,Logistics,189,Canada,Paid Search,9000,won,86,2025-11-19
+D-10240,Braemar Clinical,Healthcare,92,US-West,Inbound Demo,9000,lost,94,2025-05-24
+D-10241,Lattice Insurance,Education,238,UK/EU,Outbound SDR,9000,lost,107,2025-01-17
+D-10242,Ardent Insurance,Hospitality,55,US-East,Conference,9000,won,115,2026-06-10
+D-10243,Jesmond Foods,Retail,1208,UK/EU,Conference,55000,lost,118,2026-03-21
+D-10244,Cobalt Robotics,Banking,91,Canada,Outbound SDR,9000,won,37,2025-03-30
+D-10245,Halden Aviation,Retail,1176,US-East,Partner Referral,73000,lost,78,2025-04-01
+D-10246,Halden Materials,Real Estate,56,US-East,Conference,9000,lost,69,2025-10-18
+D-10247,Dunmore Capital,Hospitality,166,US-East,Paid Search,9000,lost,56,2025-12-01
+D-10248,Everly Bioscience,Healthcare,71,Canada,Conference,9000,won,61,2024-10-10
+D-10249,Halden Holdings,Manufacturing,71,US-East,Inbound Demo,9000,won,89,2025-02-24
+D-10250,Bellamy Foods,Hospitality,3647,Canada,Partner Referral,131000,won,124,2025-08-23
+D-10251,Clearwave Capital,Healthcare,94,Canada,Outbound SDR,9000,won,80,2024-09-19
+D-10252,Copperfield Group,Hospitality,77,US-West,Webinar,9000,lost,63,2025-10-02
+D-10253,Lattice Labs,Education,60,US-West,Inbound Demo,9000,lost,137,2026-04-04
+D-10254,Glenmore Systems,Banking,111,Canada,Webinar,9000,won,56,2026-01-30
+D-10255,Redbourne Insurance,Healthcare,13723,US-West,Partner Referral,966000,won,69,2026-01-13
+D-10256,Norbury Logistics,Banking,72,US-West,Inbound Demo,9000,won,54,2025-10-11
+D-10257,Langford Labs,Healthcare,373,Canada,Partner Referral,13000,lost,112,2024-10-15
+D-10258,Braemar Financial,Banking,160,UK/EU,Paid Search,9000,lost,49,2025-03-08
+D-10259,Nova Analytics,Pharmaceuticals,1153,US-West,Paid Search,38000,lost,74,2026-06-25
+D-10260,Redbourne Health,Manufacturing,1132,US-East,Paid Search,34000,won,113,2026-01-01
+D-10261,Dalhousie Aviation,Pharmaceuticals,614,US-East,Outbound SDR,31000,lost,87,2025-11-07
+D-10262,Meridian Capital,Hospitality,4068,US-East,Paid Search,177000,lost,118,2026-02-22
+D-10263,Nightingale Aviation,Real Estate,66,US-East,Outbound SDR,9000,won,106,2025-02-07
+D-10264,Kingsley Media,Manufacturing,353,UK/EU,Conference,16000,lost,66,2025-11-06
+D-10265,Kingsley Partners,Manufacturing,62,US-East,Outbound SDR,9000,lost,110,2024-12-12
+D-10266,Kestrel Networks,Media,380,US-West,Inbound Demo,17000,won,69,2024-09-14
+D-10267,Everly Industries,Healthcare,8658,US-East,Webinar,395000,won,104,2025-11-28
+D-10268,Bellamy Retail Co,Media,75,US-East,Inbound Demo,9000,lost,141,2025-05-11
+D-10269,Brightline Health,Healthcare,322,US-West,Outbound SDR,15000,lost,73,2026-06-25
+D-10270,Quarry Hill Materials,Pharmaceuticals,2964,US-East,Inbound Demo,157000,won,97,2025-08-11
+D-10271,Ashcombe Insurance,Healthcare,1013,US-West,Inbound Demo,34000,won,94,2025-02-23
+D-10272,Peregrine Systems,Pharmaceuticals,565,Canada,Outbound SDR,24000,lost,94,2024-08-22
+D-10273,Cobalt Diagnostics,Hospitality,273,US-East,Partner Referral,9000,lost,112,2024-09-14
+D-10274,Kestrel Bioscience,Retail,173,US-West,Webinar,9000,lost,118,2026-06-25
+D-10275,Ivywood Media,Hospitality,554,UK/EU,Inbound Demo,30000,lost,72,2025-07-10
+D-10276,Lattice Materials,Retail,1194,US-West,Inbound Demo,72000,won,134,2025-07-31
+D-10277,Pemberton Technologies,Manufacturing,8493,US-East,Paid Search,354000,won,165,2025-12-16
+D-10278,Dalhousie Systems,Education,8637,US-East,Outbound SDR,639000,lost,117,2025-09-21
+D-10279,Umberton Capital,Media,226,US-West,Paid Search,9000,won,91,2025-11-23
+D-10280,Northbridge Group,Healthcare,385,Canada,Outbound SDR,24000,lost,84,2024-10-03
+D-10281,Ironwood Labs,Media,156,UK/EU,Conference,9000,lost,93,2025-08-06
+D-10282,Marlowe Retail Co,Education,4566,US-East,Partner Referral,116000,won,139,2025-03-05
+D-10283,Loxley Systems,Education,99,US-West,Partner Referral,9000,lost,120,2025-05-17
+D-10284,Jarvis Health,Healthcare,563,Canada,Inbound Demo,34000,lost,65,2026-02-09
+D-10285,Everly Materials,Healthcare,13894,Canada,Inbound Demo,464000,won,128,2025-07-12
+D-10286,Nightingale Media,Real Estate,3450,UK/EU,Outbound SDR,104000,lost,105,2026-05-07
+D-10287,Brightline Retail Co,Education,757,US-East,Outbound SDR,41000,won,84,2025-05-29
+D-10288,Clearwave Partners,Hospitality,982,Canada,Partner Referral,56000,lost,98,2025-05-05
+D-10289,Carrickfern Materials,Healthcare,243,US-West,Conference,9000,lost,53,2025-04-04
+D-10290,Maplewood Therapeutics,Real Estate,87,US-East,Inbound Demo,9000,lost,105,2026-05-06
+D-10291,Meridian Financial,Healthcare,745,UK/EU,Paid Search,41000,won,103,2025-07-19
+D-10292,Carrickfern Systems,Media,786,US-East,Partner Referral,27000,won,90,2025-10-23
+D-10293,Stonegate Logistics,Hospitality,69,US-East,Outbound SDR,9000,lost,101,2025-11-18
+D-10294,Loxley Foods,Retail,603,US-West,Webinar,15000,won,115,2026-02-07
+D-10295,Thornbury Bioscience,Logistics,77,US-East,Inbound Demo,9000,won,87,2026-06-26
+D-10296,Dunmore Networks,Healthcare,746,US-East,Partner Referral,45000,won,90,2024-10-04
+D-10297,Clearwave Industries,Logistics,175,US-West,Inbound Demo,9000,lost,84,2024-12-26
+D-10298,Lattice Robotics,Hospitality,60,Canada,Paid Search,9000,won,136,2026-01-13
+D-10299,Umberton Labs,Education,2068,US-East,Inbound Demo,66000,won,117,2024-07-28
+D-10300,Fairhaven Industries,Healthcare,14616,US-West,Webinar,826000,lost,118,2024-08-27
+D-10301,Dunmore Analytics,Healthcare,1068,UK/EU,Conference,35000,lost,62,2025-10-19
+D-10302,Thornbury Holdings,Retail,275,Canada,Inbound Demo,9000,won,78,2026-03-20
+D-10303,Dunmore Industries,Logistics,548,UK/EU,Inbound Demo,19000,lost,140,2025-03-07
+D-10304,Cascadia Aviation,Retail,374,US-East,Conference,23000,lost,130,2025-02-05
+D-10305,Merrivale Insurance,Media,3253,UK/EU,Partner Referral,87000,won,81,2025-10-15
+D-10306,Jarvis Technologies,Pharmaceuticals,3029,US-East,Partner Referral,170000,won,38,2025-09-20
+D-10307,Meridian Holdings,Hospitality,78,US-East,Partner Referral,9000,lost,116,2025-01-19
+D-10308,Copperfield Logistics,Healthcare,1215,US-East,Outbound SDR,31000,won,99,2026-04-26
+D-10309,Sable Group,Real Estate,333,UK/EU,Outbound SDR,12000,lost,83,2024-09-23
+D-10310,Stonegate Networks,Banking,13692,US-West,Inbound Demo,465000,won,73,2025-06-26
+D-10311,Fairhaven Systems,Manufacturing,316,US-West,Inbound Demo,20000,won,80,2025-03-06
+D-10312,Loxley Robotics,Pharmaceuticals,53,US-East,Conference,9000,won,75,2025-08-01
+D-10313,Clearwave Technologies,Healthcare,76,Canada,Conference,9000,won,118,2025-11-20
+D-10314,Glenmore Analytics,Banking,12179,Canada,Partner Referral,674000,won,122,2024-07-30
+D-10315,Redbourne Clinical,Education,162,US-East,Inbound Demo,9000,lost,77,2024-08-08
+D-10316,Silverpine Financial,Banking,4232,Canada,Partner Referral,262000,won,97,2024-12-04
+D-10317,Kingsley Retail Co,Banking,52,US-West,Conference,9000,won,98,2025-03-12
+D-10318,Tamarack Bioscience,Retail,1002,Canada,Inbound Demo,50000,lost,106,2025-04-01
+D-10319,Dalhousie Health,Retail,98,US-East,Partner Referral,9000,lost,122,2026-06-09
+D-10320,Meridian Partners,Logistics,244,Canada,Outbound SDR,9000,lost,96,2025-12-24
+D-10321,Sable Technologies,Media,100,US-West,Conference,9000,lost,116,2024-11-16
+D-10322,Dalhousie Labs,Hospitality,1314,US-East,Inbound Demo,29000,lost,100,2026-02-24
+D-10323,Ardent Bioscience,Healthcare,3294,Canada,Conference,94000,won,56,2026-02-21
+D-10324,Ardent Therapeutics,Manufacturing,284,Canada,Paid Search,10000,lost,91,2026-05-23
+D-10325,Ivywood Aviation,Banking,271,US-West,Inbound Demo,10000,won,107,2026-02-14
+D-10326,Copperfield Partners,Retail,79,US-West,Inbound Demo,9000,lost,90,2025-10-16
+D-10327,Aldergrove Diagnostics,Real Estate,80,Canada,Conference,9000,lost,93,2026-06-14
+D-10328,Pemberton Logistics,Media,78,US-East,Inbound Demo,9000,lost,76,2026-02-13
+D-10329,Redbourne Materials,Hospitality,3652,US-West,Paid Search,113000,lost,92,2024-09-13
+D-10330,Marlowe Materials,Media,3193,US-East,Paid Search,105000,lost,114,2024-07-05
+D-10331,Quarry Hill Partners,Real Estate,101,US-West,Outbound SDR,9000,lost,97,2026-03-05
+D-10332,Oakhurst Technologies,Education,371,US-East,Partner Referral,18000,won,85,2024-09-08
+D-10333,Dunmore Foods,Education,92,US-East,Inbound Demo,9000,lost,124,2024-07-13
+D-10334,Carrickfern Technologies,Media,94,US-East,Outbound SDR,9000,lost,128,2025-08-21
+D-10335,Jesmond Insurance,Logistics,995,UK/EU,Paid Search,51000,lost,96,2025-02-24
+D-10336,Loxley Analytics,Retail,3174,US-East,Inbound Demo,63000,won,86,2025-06-18
+D-10337,Merrivale Aviation,Logistics,13674,US-East,Partner Referral,675000,lost,125,2025-01-30
+D-10338,Fairhaven Health,Education,94,US-East,Partner Referral,9000,lost,73,2025-10-23
+D-10339,Quarry Hill Robotics,Media,7549,Canada,Partner Referral,223000,lost,119,2025-10-29
+D-10340,Copperfield Bioscience,Real Estate,49,US-East,Outbound SDR,9000,lost,97,2026-06-27
+D-10341,Pemberton Capital,Logistics,596,US-West,Outbound SDR,21000,lost,122,2025-03-26
+D-10342,Everly Therapeutics,Hospitality,228,Canada,Paid Search,12000,lost,68,2024-07-28
+D-10343,Ardent Media,Manufacturing,15732,UK/EU,Paid Search,918000,lost,84,2025-07-09
+D-10344,Ironwood Networks,Banking,259,US-East,Partner Referral,13000,won,49,2025-04-22
+D-10345,Thornbury Networks,Education,182,US-East,Webinar,9000,lost,71,2026-05-19
+D-10346,Pemberton Retail Co,Healthcare,66,UK/EU,Outbound SDR,9000,lost,79,2025-03-23
+D-10347,Hollingsworth Partners,Healthcare,300,Canada,Webinar,14000,lost,80,2025-08-01
+D-10348,Inverness Labs,Retail,307,Canada,Outbound SDR,9000,won,133,2025-02-08
+D-10349,Jesmond Health,Education,2310,UK/EU,Outbound SDR,148000,won,67,2025-01-20
+D-10350,Kestrel Capital,Real Estate,810,US-East,Inbound Demo,49000,won,94,2025-11-10
+D-10351,Sable Insurance,Pharmaceuticals,190,Canada,Partner Referral,9000,won,95,2025-12-12
+D-10352,Everly Aviation,Logistics,189,US-West,Outbound SDR,9000,lost,93,2026-06-24
+D-10353,Cascadia Therapeutics,Retail,50,Canada,Outbound SDR,9000,won,75,2024-12-04
+D-10354,Everly Media,Healthcare,368,Canada,Paid Search,18000,won,65,2026-01-09
+D-10355,Copperfield Systems,Retail,208,US-East,Outbound SDR,12000,won,83,2024-07-17
+D-10356,Loxley Health,Media,1315,Canada,Paid Search,58000,won,69,2026-03-04
+D-10357,Pemberton Media,Logistics,3951,US-East,Partner Referral,217000,lost,96,2025-02-20
+D-10358,Merrivale Systems,Healthcare,70,US-East,Webinar,9000,won,72,2024-10-13
+D-10359,Ardent Capital,Education,88,US-West,Conference,9000,won,107,2026-05-03
+D-10360,Foxglove Systems,Healthcare,6608,US-West,Outbound SDR,247000,won,127,2025-11-19
+D-10361,Jesmond Systems,Manufacturing,346,US-East,Paid Search,19000,lost,102,2025-07-05
+D-10362,Jesmond Industries,Media,1345,US-West,Partner Referral,38000,lost,144,2025-08-18
+D-10363,Loxley Networks,Retail,364,US-East,Outbound SDR,13000,won,155,2025-01-02
+D-10364,Kestrel Retail Co,Retail,1123,Canada,Webinar,56000,lost,101,2025-05-01
+D-10365,Elderwood Diagnostics,Pharmaceuticals,58,US-East,Webinar,9000,lost,63,2024-12-16
+D-10366,Merrivale Financial,Healthcare,77,US-East,Inbound Demo,9000,lost,81,2024-09-24
+D-10367,Glenmore Partners,Real Estate,272,US-East,Paid Search,9000,lost,91,2025-04-24
+D-10368,Tamarack Materials,Healthcare,339,Canada,Paid Search,18000,lost,95,2026-06-15
+D-10369,Kingsley Bioscience,Logistics,361,US-East,Conference,12000,lost,122,2024-12-29
+D-10370,Hollingsworth Logistics,Banking,171,US-East,Outbound SDR,10000,lost,67,2026-02-27
+D-10371,Thornbury Clinical,Healthcare,10056,US-East,Paid Search,406000,won,116,2024-11-03
+D-10372,Peregrine Retail Co,Hospitality,77,US-West,Conference,9000,lost,127,2026-01-22
+D-10373,Tessera Holdings,Manufacturing,1157,UK/EU,Webinar,31000,lost,117,2024-12-15
+D-10374,Ivywood Diagnostics,Real Estate,113,UK/EU,Paid Search,9000,lost,103,2025-08-22
+D-10375,Clearwave Clinical,Real Estate,89,US-West,Partner Referral,9000,lost,57,2024-09-14
+D-10376,Nightingale Financial,Logistics,385,US-West,Outbound SDR,10000,lost,102,2025-07-07
+D-10377,Silverpine Holdings,Real Estate,222,US-West,Outbound SDR,14000,lost,83,2025-07-15
+D-10378,Everly Robotics,Media,1065,US-West,Webinar,64000,lost,65,2025-03-22
+D-10379,Ivywood Labs,Manufacturing,62,US-West,Inbound Demo,9000,lost,106,2024-12-20
+D-10380,Silverpine Therapeutics,Healthcare,77,US-East,Paid Search,9000,won,79,2025-05-29
+D-10381,Oakhurst Industries,Hospitality,93,US-West,Paid Search,9000,lost,93,2026-03-04
+D-10382,Fairhaven Clinical,Pharmaceuticals,245,UK/EU,Partner Referral,9000,won,90,2024-10-27
+D-10383,Everly Logistics,Media,877,US-East,Conference,19000,lost,83,2025-09-05
+D-10384,Elderwood Partners,Healthcare,195,US-West,Outbound SDR,9000,lost,88,2026-01-17
+D-10385,Merrivale Networks,Pharmaceuticals,2660,UK/EU,Outbound SDR,74000,won,70,2025-04-06
+D-10386,Dalhousie Robotics,Education,2464,US-West,Webinar,91000,won,67,2025-03-01
+D-10387,Jesmond Diagnostics,Media,12905,Canada,Outbound SDR,591000,lost,147,2026-05-30
+D-10388,Stonegate Aviation,Media,344,US-East,Webinar,9000,won,117,2025-09-07
+D-10389,Vantage Networks,Media,2122,US-East,Paid Search,93000,won,113,2025-06-30
+D-10390,Merrivale Foods,Media,2950,US-East,Outbound SDR,113000,lost,93,2026-02-18
+D-10391,Silverpine Bioscience,Banking,55,US-East,Outbound SDR,9000,lost,63,2026-04-19
+D-10392,Merrivale Holdings,Retail,56,US-East,Outbound SDR,9000,lost,62,2025-07-11
+D-10393,Sable Materials,Logistics,299,US-East,Paid Search,18000,won,82,2026-05-19
+D-10394,Dunmore Media,Media,188,UK/EU,Outbound SDR,9000,lost,74,2025-06-15
+D-10395,Brightline Therapeutics,Manufacturing,267,US-East,Outbound SDR,13000,lost,113,2026-03-21
+D-10396,Quarry Hill Systems,Hospitality,2876,US-East,Paid Search,82000,lost,101,2024-12-17
+D-10397,Clearwave Holdings,Real Estate,1190,US-East,Outbound SDR,54000,lost,85,2025-10-06
+D-10398,Tamarack Clinical,Healthcare,307,Canada,Inbound Demo,14000,won,99,2025-08-19
+D-10399,Cascadia Group,Manufacturing,306,US-West,Inbound Demo,9000,lost,80,2026-02-23
+D-10400,Northbridge Analytics,Banking,103,US-East,Webinar,9000,lost,77,2026-02-04
+D-10401,Foxglove Financial,Banking,57,UK/EU,Inbound Demo,9000,won,109,2025-10-24
+D-10402,Carrickfern Aviation,Banking,1186,UK/EU,Outbound SDR,47000,lost,93,2026-05-18
+D-10403,Cobalt Analytics,Media,664,US-West,Partner Referral,24000,lost,118,2024-09-27
+D-10404,Kilmarnock Partners,Retail,301,US-East,Conference,15000,lost,98,2025-03-04
+D-10405,Stonegate Technologies,Retail,177,US-West,Webinar,9000,lost,106,2026-02-15
+D-10406,Elderwood Technologies,Media,2288,Canada,Paid Search,132000,won,120,2025-08-09
+D-10407,Foxglove Networks,Pharmaceuticals,839,Canada,Outbound SDR,47000,lost,67,2025-01-06
+D-10408,Ironwood Partners,Pharmaceuticals,669,Canada,Webinar,29000,lost,63,2025-04-07
+D-10409,Meridian Health,Banking,201,US-West,Webinar,9000,won,80,2024-09-10
+D-10410,Westmere Systems,Healthcare,93,US-East,Paid Search,9000,won,67,2024-11-02
+D-10411,Tamarack Labs,Retail,3321,Canada,Webinar,172000,won,129,2025-08-05
+D-10412,Inverness Materials,Healthcare,1339,US-East,Inbound Demo,49000,won,74,2026-03-28
+D-10413,Ironwood Logistics,Pharmaceuticals,3390,UK/EU,Paid Search,107000,won,69,2025-12-28
+D-10414,Oakhurst Partners,Pharmaceuticals,876,US-West,Paid Search,42000,lost,47,2026-01-24
+D-10415,Clearwave Financial,Healthcare,345,Canada,Webinar,18000,won,106,2025-11-20
+D-10416,Merrivale Logistics,Healthcare,11979,US-West,Webinar,413000,won,101,2025-02-20
+D-10417,Dunmore Labs,Real Estate,4323,UK/EU,Inbound Demo,146000,lost,146,2025-07-25
+D-10418,Fenwick Industries,Media,383,US-East,Conference,9000,lost,105,2026-05-10
+D-10419,Harrowgate Health,Logistics,353,US-East,Paid Search,15000,lost,104,2025-03-08
