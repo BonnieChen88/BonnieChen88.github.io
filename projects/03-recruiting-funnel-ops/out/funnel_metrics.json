@@ -1,0 +1,218 @@
+{
+  "as_of": "2026-06-30",
+  "candidates": 377,
+  "funnel": {
+    "Applied": 377,
+    "Recruiter Screen": 134,
+    "HM Screen": 60,
+    "Onsite": 23,
+    "Offer": 12,
+    "Hired": 11
+  },
+  "step_conversion": {
+    "Recruiter Screen": 0.3554,
+    "HM Screen": 0.4478,
+    "Onsite": 0.3833,
+    "Offer": 0.5217,
+    "Hired": 0.9167
+  },
+  "time_to_hire": {
+    "hires": 11,
+    "median_days": 34,
+    "min_days": 21,
+    "max_days": 55
+  },
+  "median_days_waiting": {
+    "Applied": 7.0,
+    "Recruiter Screen": 6.0,
+    "HM Screen": 4,
+    "Onsite": 6,
+    "Offer": 19
+  },
+  "active_in_stage": {
+    "Applied": 46,
+    "Recruiter Screen": 22,
+    "HM Screen": 17,
+    "Onsite": 3,
+    "Offer": 1
+  },
+  "stage_sla_days": {
+    "Applied": 5,
+    "Recruiter Screen": 7,
+    "HM Screen": 7,
+    "Onsite": 10,
+    "Offer": 5
+  },
+  "sources": {
+    "Referral": {
+      "apps": 42,
+      "onsite": 9,
+      "hires": 6,
+      "app_to_hire": 0.1429
+    },
+    "Career Fair": {
+      "apps": 28,
+      "onsite": 1,
+      "hires": 0,
+      "app_to_hire": 0.0
+    },
+    "Inbound Application": {
+      "apps": 127,
+      "onsite": 5,
+      "hires": 2,
+      "app_to_hire": 0.0157
+    },
+    "LinkedIn Outbound": {
+      "apps": 86,
+      "onsite": 5,
+      "hires": 3,
+      "app_to_hire": 0.0349
+    },
+    "Agency": {
+      "apps": 37,
+      "onsite": 3,
+      "hires": 0,
+      "app_to_hire": 0.0
+    },
+    "Job Board": {
+      "apps": 57,
+      "onsite": 0,
+      "hires": 0,
+      "app_to_hire": 0.0
+    }
+  },
+  "requisitions": [
+    {
+      "req_id": "REQ-201",
+      "role": "Senior Account Executive",
+      "department": "Sales",
+      "hiring_manager": "D. Okafor",
+      "days_open": 189,
+      "target_days": 45,
+      "active_candidates": 10,
+      "late_stage_candidates": 3,
+      "at_risk": false
+    },
+    {
+      "req_id": "REQ-202",
+      "role": "Sales Development Rep",
+      "department": "Sales",
+      "hiring_manager": "D. Okafor",
+      "days_open": 77,
+      "target_days": 30,
+      "active_candidates": 1,
+      "late_stage_candidates": 0,
+      "at_risk": true
+    },
+    {
+      "req_id": "REQ-203",
+      "role": "Revenue Operations Analyst",
+      "department": "Revenue Ops",
+      "hiring_manager": "B. Chen",
+      "days_open": 126,
+      "target_days": 40,
+      "active_candidates": 8,
+      "late_stage_candidates": 0,
+      "at_risk": true
+    },
+    {
+      "req_id": "REQ-204",
+      "role": "Data Engineer",
+      "department": "Data",
+      "hiring_manager": "P. Anand",
+      "days_open": 151,
+      "target_days": 55,
+      "active_candidates": 8,
+      "late_stage_candidates": 0,
+      "at_risk": true
+    },
+    {
+      "req_id": "REQ-205",
+      "role": "Analytics Engineer",
+      "department": "Data",
+      "hiring_manager": "P. Anand",
+      "days_open": 106,
+      "target_days": 50,
+      "active_candidates": 10,
+      "late_stage_candidates": 3,
+      "at_risk": false
+    },
+    {
+      "req_id": "REQ-206",
+      "role": "Product Designer",
+      "department": "Product",
+      "hiring_manager": "L. Moreau",
+      "days_open": 137,
+      "target_days": 45,
+      "active_candidates": 7,
+      "late_stage_candidates": 3,
+      "at_risk": false
+    },
+    {
+      "req_id": "REQ-207",
+      "role": "Backend Engineer",
+      "department": "Engineering",
+      "hiring_manager": "K. Osei",
+      "days_open": 28,
+      "target_days": 55,
+      "active_candidates": 5,
+      "late_stage_candidates": 0,
+      "at_risk": false
+    },
+    {
+      "req_id": "REQ-208",
+      "role": "Backend Engineer II",
+      "department": "Engineering",
+      "hiring_manager": "K. Osei",
+      "days_open": 174,
+      "target_days": 55,
+      "active_candidates": 9,
+      "late_stage_candidates": 3,
+      "at_risk": false
+    },
+    {
+      "req_id": "REQ-209",
+      "role": "Customer Success Manager",
+      "department": "Customer Success",
+      "hiring_manager": "R. Iyer",
+      "days_open": 68,
+      "target_days": 35,
+      "active_candidates": 7,
+      "late_stage_candidates": 1,
+      "at_risk": false
+    },
+    {
+      "req_id": "REQ-210",
+      "role": "Implementation Consultant",
+      "department": "Customer Success",
+      "hiring_manager": "R. Iyer",
+      "days_open": 149,
+      "target_days": 40,
+      "active_candidates": 10,
+      "late_stage_candidates": 2,
+      "at_risk": false
+    },
+    {
+      "req_id": "REQ-211",
+      "role": "Finance Manager",
+      "department": "Finance",
+      "hiring_manager": "S. Adeyemi",
+      "days_open": 120,
+      "target_days": 45,
+      "active_candidates": 6,
+      "late_stage_candidates": 3,
+      "at_risk": false
+    },
+    {
+      "req_id": "REQ-212",
+      "role": "People Ops Coordinator",
+      "department": "People Ops",
+      "hiring_manager": "N. Kowalski",
+      "days_open": 174,
+      "target_days": 30,
+      "active_candidates": 8,
+      "late_stage_candidates": 3,
+      "at_risk": false
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+candidate_id,candidate_name,req_id,role,hiring_manager,stage,days_in_stage,days_since_activity,sla_days,days_over_sla,action_owner,severity
+C-30006,Esme Larsen,REQ-201,Senior Account Executive,D. Okafor,HM Screen,57,6,7,50,hiring_manager,escalate
+C-30248,Cleo Costa,REQ-209,Customer Success Manager,R. Iyer,Applied,55,15,5,50,recruiter,escalate
+C-30007,Hugo Larsen,REQ-201,Senior Account Executive,D. Okafor,Recruiter Screen,56,54,7,49,recruiter,escalate
+C-30216,Sofia Silva,REQ-207,Backend Engineer,K. Osei,Recruiter Screen,53,3,7,46,recruiter,escalate
+C-30068,Felix Ahmed,REQ-203,Revenue Operations Analyst,B. Chen,Applied,50,23,5,45,recruiter,escalate
+C-30113,Cleo Haddad,REQ-204,Data Engineer,P. Anand,Applied,47,41,5,42,recruiter,escalate
+C-30174,Bram Dubois,REQ-206,Product Designer,L. Moreau,HM Screen,48,2,7,41,hiring_manager,escalate
+C-30212,Nadia Petrov,REQ-207,Backend Engineer,K. Osei,Applied,45,12,5,40,recruiter,escalate
+C-30371,Ravi Lindgren,REQ-212,People Ops Coordinator,N. Kowalski,Recruiter Screen,46,13,7,39,recruiter,escalate
+C-30252,Felix Costa,REQ-209,Customer Success Manager,R. Iyer,Applied,41,31,5,36,recruiter,escalate
+C-30289,Wei Kaur,REQ-210,Implementation Consultant,R. Iyer,Applied,38,29,5,33,recruiter,escalate
+C-30231,Yuki Lindgren,REQ-208,Backend Engineer II,K. Osei,Applied,35,8,5,30,recruiter,escalate
+C-30147,Cleo Larsen,REQ-205,Analytics Engineer,P. Anand,Applied,29,6,5,24,recruiter,escalate
+C-30168,Zara Lindgren,REQ-206,Product Designer,L. Moreau,Recruiter Screen,30,5,7,23,recruiter,escalate
+C-30080,Liam Haddad,REQ-203,Revenue Operations Analyst,B. Chen,Applied,20,0,5,15,recruiter,escalate
+C-30221,Amara O'Doherty,REQ-208,Backend Engineer II,K. Osei,Applied,19,16,5,14,recruiter,nudge
+C-30236,Jonas Haddad,REQ-208,Backend Engineer II,K. Osei,Offer,19,1,5,14,recruiter,nudge
+C-30098,Priya Nwosu,REQ-204,Data Engineer,P. Anand,Applied,18,16,5,13,recruiter,nudge
+C-30192,Owen Novak,REQ-207,Backend Engineer,K. Osei,Recruiter Screen,20,9,7,13,recruiter,nudge
+C-30155,Nadia Larsen,REQ-205,Analytics Engineer,P. Anand,Applied,17,16,5,12,recruiter,nudge
+C-30020,Elena Novak,REQ-201,Senior Account Executive,D. Okafor,Applied,16,6,5,11,recruiter,nudge
+C-30121,Tomas Berg,REQ-204,Data Engineer,P. Anand,Applied,15,6,5,10,recruiter,nudge
+C-30143,Priya Larsen,REQ-205,Analytics Engineer,P. Anand,Recruiter Screen,17,9,7,10,recruiter,nudge
+C-30227,Amara Lindgren,REQ-208,Backend Engineer II,K. Osei,Recruiter Screen,17,4,7,10,recruiter,nudge
+C-30232,Owen Silva,REQ-208,Backend Engineer II,K. Osei,Onsite,19,0,10,9,hiring_manager,nudge
+C-30376,Nadia Tanaka,REQ-212,People Ops Coordinator,N. Kowalski,Applied,13,4,5,8,recruiter,nudge
+C-30368,Esme Fischer,REQ-212,People Ops Coordinator,N. Kowalski,Applied,12,5,5,7,recruiter,nudge
+C-30161,Dara O'Doherty,REQ-206,Product Designer,L. Moreau,HM Screen,13,10,7,6,hiring_manager,nudge
+C-30014,Priya Mbeki,REQ-201,Senior Account Executive,D. Okafor,Applied,9,1,5,4,recruiter,nudge
+C-30017,Ada Nwosu,REQ-201,Senior Account Executive,D. Okafor,HM Screen,11,7,7,4,hiring_manager,nudge
+C-30078,Yuki Mbeki,REQ-203,Revenue Operations Analyst,B. Chen,Applied,9,0,5,4,recruiter,nudge
+C-30102,Elena Larsen,REQ-204,Data Engineer,P. Anand,Applied,9,3,5,4,recruiter,nudge
+C-30287,Priya Ellis,REQ-210,Implementation Consultant,R. Iyer,Applied,9,6,5,4,recruiter,nudge
+C-30150,Bram Ahmed,REQ-205,Analytics Engineer,P. Anand,Applied,8,5,5,3,recruiter,nudge
+C-30276,Ada Kaur,REQ-209,Customer Success Manager,R. Iyer,Recruiter Screen,10,7,7,3,recruiter,nudge
+C-30313,Amara Nwosu,REQ-210,Implementation Consultant,R. Iyer,Recruiter Screen,10,9,7,3,recruiter,nudge
+C-30334,Priya Petrov,REQ-211,Finance Manager,S. Adeyemi,HM Screen,10,4,7,3,hiring_manager,nudge
+C-30024,Hugo Mbeki,REQ-201,Senior Account Executive,D. Okafor,Applied,7,4,5,2,recruiter,nudge
+C-30061,Zara Zhang,REQ-203,Revenue Operations Analyst,B. Chen,Applied,7,3,5,2,recruiter,nudge
+C-30083,Ada Novak,REQ-203,Revenue Operations Analyst,B. Chen,Applied,7,1,5,2,recruiter,nudge
+C-30184,Priya Haddad,REQ-206,Product Designer,L. Moreau,Applied,7,5,5,2,recruiter,nudge
+C-30187,Sofia Zhang,REQ-206,Product Designer,L. Moreau,HM Screen,9,8,7,2,hiring_manager,nudge
+C-30199,Dmitri Berg,REQ-207,Backend Engineer,K. Osei,Applied,7,0,5,2,recruiter,nudge
+C-30280,Elena Raman,REQ-210,Implementation Consultant,R. Iyer,Applied,7,0,5,2,recruiter,nudge
+C-30303,Noor Fischer,REQ-210,Implementation Consultant,R. Iyer,Applied,7,6,5,2,recruiter,nudge
+C-30345,Zara Costa,REQ-211,Finance Manager,S. Adeyemi,Applied,7,1,5,2,recruiter,nudge
+C-30116,Ada Nwosu,REQ-204,Data Engineer,P. Anand,Applied,6,5,5,1,recruiter,nudge
+C-30125,Hugo Berg,REQ-204,Data Engineer,P. Anand,Recruiter Screen,8,7,7,1,recruiter,nudge
+C-30138,Ravi Berg,REQ-205,Analytics Engineer,P. Anand,Applied,6,0,5,1,recruiter,nudge
+C-30173,Yuki Zhang,REQ-206,Product Designer,L. Moreau,Applied,6,1,5,1,recruiter,nudge
+C-30290,Esme Dubois,REQ-210,Implementation Consultant,R. Iyer,HM Screen,8,3,7,1,hiring_manager,nudge
+C-30349,Hugo Rossi,REQ-211,Finance Manager,S. Adeyemi,Applied,6,4,5,1,recruiter,nudge

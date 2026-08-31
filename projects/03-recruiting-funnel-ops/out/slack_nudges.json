@@ -1,0 +1,114 @@
+{
+  "messages": [
+    {
+      "hiring_manager": "L. Moreau",
+      "escalations": 1,
+      "blocks": [
+        {
+          "type": "section",
+          "text": {
+            "type": "mrkdwn",
+            "text": "*L. Moreau* \u2014 3 candidates waiting on you\n\u2022 Bram Dubois \u2014 Product Designer, HM Screen (48 days in stage, 41 over SLA)\n\u2022 Dara O'Doherty \u2014 Product Designer, HM Screen (13 days in stage, 6 over SLA)\n\u2022 Sofia Zhang \u2014 Product Designer, HM Screen (9 days in stage, 2 over SLA)"
+          }
+        },
+        {
+          "type": "context",
+          "elements": [
+            {
+              "type": "mrkdwn",
+              "text": "Reply in thread if any of these should be closed out \u2014 an honest reject is faster than a silent one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hiring_manager": "D. Okafor",
+      "escalations": 1,
+      "blocks": [
+        {
+          "type": "section",
+          "text": {
+            "type": "mrkdwn",
+            "text": "*D. Okafor* \u2014 2 candidates waiting on you\n\u2022 Esme Larsen \u2014 Senior Account Executive, HM Screen (57 days in stage, 50 over SLA)\n\u2022 Ada Nwosu \u2014 Senior Account Executive, HM Screen (11 days in stage, 4 over SLA)"
+          }
+        },
+        {
+          "type": "context",
+          "elements": [
+            {
+              "type": "mrkdwn",
+              "text": "Reply in thread if any of these should be closed out \u2014 an honest reject is faster than a silent one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hiring_manager": "K. Osei",
+      "escalations": 0,
+      "blocks": [
+        {
+          "type": "section",
+          "text": {
+            "type": "mrkdwn",
+            "text": "*K. Osei* \u2014 1 candidate waiting on you\n\u2022 Owen Silva \u2014 Backend Engineer II, Onsite (19 days in stage, 9 over SLA)"
+          }
+        },
+        {
+          "type": "context",
+          "elements": [
+            {
+              "type": "mrkdwn",
+              "text": "Reply in thread if any of these should be closed out \u2014 an honest reject is faster than a silent one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hiring_manager": "S. Adeyemi",
+      "escalations": 0,
+      "blocks": [
+        {
+          "type": "section",
+          "text": {
+            "type": "mrkdwn",
+            "text": "*S. Adeyemi* \u2014 1 candidate waiting on you\n\u2022 Priya Petrov \u2014 Finance Manager, HM Screen (10 days in stage, 3 over SLA)"
+          }
+        },
+        {
+          "type": "context",
+          "elements": [
+            {
+              "type": "mrkdwn",
+              "text": "Reply in thread if any of these should be closed out \u2014 an honest reject is faster than a silent one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hiring_manager": "R. Iyer",
+      "escalations": 0,
+      "blocks": [
+        {
+          "type": "section",
+          "text": {
+            "type": "mrkdwn",
+            "text": "*R. Iyer* \u2014 1 candidate waiting on you\n\u2022 Esme Dubois \u2014 Implementation Consultant, HM Screen (8 days in stage, 1 over SLA)"
+          }
+        },
+        {
+          "type": "context",
+          "elements": [
+            {
+              "type": "mrkdwn",
+              "text": "Reply in thread if any of these should be closed out \u2014 an honest reject is faster than a silent one."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+req_id,role,department,hiring_manager,opened_date,target_days_to_hire,status
+REQ-201,Senior Account Executive,Sales,D. Okafor,2025-12-23,45,open
+REQ-202,Sales Development Rep,Sales,D. Okafor,2026-04-14,30,open
+REQ-203,Revenue Operations Analyst,Revenue Ops,B. Chen,2026-02-24,40,open
+REQ-204,Data Engineer,Data,P. Anand,2026-01-30,55,open
+REQ-205,Analytics Engineer,Data,P. Anand,2026-03-16,50,open
+REQ-206,Product Designer,Product,L. Moreau,2026-02-13,45,open
+REQ-207,Backend Engineer,Engineering,K. Osei,2026-06-02,55,open
+REQ-208,Backend Engineer II,Engineering,K. Osei,2026-01-07,55,open
+REQ-209,Customer Success Manager,Customer Success,R. Iyer,2026-04-23,35,open
+REQ-210,Implementation Consultant,Customer Success,R. Iyer,2026-02-01,40,open
+REQ-211,Finance Manager,Finance,S. Adeyemi,2026-03-02,45,open
+REQ-212,People Ops Coordinator,People Ops,N. Kowalski,2026-01-07,30,open
