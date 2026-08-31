@@ -398,6 +398,87 @@
     section { padding: 4rem 1.5rem; }
     .hero { padding: 7rem 1.5rem 3rem; }
   }
+  /* ── TOOLING / REPO CARDS ── */
+  .tools-intro {
+    max-width: 620px;
+    color: var(--slate);
+    margin-bottom: 3rem;
+    font-size: 1rem;
+  }
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 1.5rem;
+  }
+  .tool-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 1.8rem;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
+  }
+  .tool-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 60px rgba(0,0,0,0.08);
+    border-color: var(--rust);
+  }
+  .tool-index {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.14em;
+    color: var(--rust);
+    margin-bottom: 0.9rem;
+  }
+  .tool-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.3rem;
+    line-height: 1.25;
+    margin-bottom: 0.7rem;
+  }
+  .tool-desc {
+    font-size: 0.9rem;
+    color: var(--slate);
+    margin-bottom: 1.2rem;
+  }
+  .tool-finding {
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: var(--ink);
+    border-left: 2px solid var(--gold);
+    padding-left: 0.9rem;
+    margin-bottom: 1.4rem;
+  }
+  .tool-finding strong { font-weight: 500; color: var(--rust); }
+  .tool-stack {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.64rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--light-slate);
+    margin-top: auto;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+  }
+  .tool-arrow { color: var(--rust); }
+  .tools-footnote {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    color: var(--light-slate);
+    margin-top: 2.5rem;
+    text-align: center;
+  }
+  .tools-footnote a { color: var(--rust); text-decoration: none; }
+  .tools-footnote a:hover { text-decoration: underline; }
+
 </style>
 </head>
 <body>
@@ -409,6 +490,7 @@
     <li><a href="#cases">Case Studies</a></li>
     <li><a href="#analysis">Deep Analysis</a></li>
     <li><a href="#skills">Skills</a></li>
+    <li><a href="#tooling">Tooling</a></li>
     <li><a href="https://www.linkedin.com/in/bonnie-xi-chen/" target="_blank">LinkedIn ↗</a></li>
   </ul>
 </nav>
@@ -642,6 +724,90 @@
       <div class="skill-pct">RevPro · Billing automation · AR management</div>
     </div>
   </div>
+</section>
+
+<!-- AUTOMATION & TOOLING -->
+<section id="tooling" style="background: var(--cream);">
+  <div class="section-header reveal">
+    <span class="section-num">04</span>
+    <h2 class="section-title">Automation &amp; Tooling</h2>
+    <div class="section-line"></div>
+  </div>
+
+  <p class="tools-intro reveal">
+    The recurring analyses behind revenue, GTM, recruiting and cash collection — built as
+    tools that run rather than spreadsheets that get rebuilt. Each ships a command-line
+    analysis, a Claude skill carrying the interpretation rules, and a Zapier recipe for
+    putting it on a schedule. All examples run on synthetic data.
+  </p>
+
+  <div class="tools-grid">
+
+    <a class="tool-card reveal" href="https://github.com/BonnieChen88/BonnieChen88.github.io/tree/main/projects/01-gtm-segmentation-icp" target="_blank">
+      <div class="tool-index">01 — GTM</div>
+      <div class="tool-title">Segmentation &amp; ICP Scoring Engine</div>
+      <div class="tool-desc">
+        Segments closed-won and closed-lost history to find which verticals, company sizes
+        and lead sources actually convert, then scores open accounts A–D for routing.
+        Weights are derived from observed win-rate lift, not chosen by hand.
+      </div>
+      <div class="tool-finding">
+        Three regulated verticals produced <strong>64% of won ARR from 37% of deal
+        volume</strong>, closing eight days faster.
+      </div>
+      <div class="tool-stack"><span>Salesforce · HubSpot · Clay</span><span class="tool-arrow">↗</span></div>
+    </a>
+
+    <a class="tool-card reveal" href="https://github.com/BonnieChen88/BonnieChen88.github.io/tree/main/projects/02-revenue-reporting-pack" target="_blank">
+      <div class="tool-index">02 — Revenue</div>
+      <div class="tool-title">Monthly Revenue Reporting Pack</div>
+      <div class="tool-desc">
+        ARR waterfall replayed from an event log, cohort-based NRR and GRR, and a pipeline
+        forecast risk-adjusted by stage win rate and a 90-day activity decay rule.
+      </div>
+      <div class="tool-finding">
+        Took $16.7M of open pipeline to <strong>$3.4M risk-adjusted</strong> — 7.4x raw
+        coverage against 1.5x adjusted.
+      </div>
+      <div class="tool-stack"><span>Salesforce · Zuora · Tableau</span><span class="tool-arrow">↗</span></div>
+    </a>
+
+    <a class="tool-card reveal" href="https://github.com/BonnieChen88/BonnieChen88.github.io/tree/main/projects/03-recruiting-funnel-ops" target="_blank">
+      <div class="tool-index">03 — People Ops</div>
+      <div class="tool-title">Recruiting Funnel Ops</div>
+      <div class="tool-desc">
+        Stage conversion, time-to-hire against requisition targets, source efficiency
+        measured at onsite rather than application, and stalled-candidate nudges routed to
+        whoever owes the next action.
+      </div>
+      <div class="tool-finding">
+        Every stage median sat inside SLA while <strong>52 candidates were past it</strong>
+        — and 44 were waiting on a recruiter, not a hiring manager.
+      </div>
+      <div class="tool-stack"><span>Lever · Slack · Zapier</span><span class="tool-arrow">↗</span></div>
+    </a>
+
+    <a class="tool-card reveal" href="https://github.com/BonnieChen88/BonnieChen88.github.io/tree/main/projects/04-ar-collections-agent" target="_blank">
+      <div class="tool-index">04 — Finance Ops</div>
+      <div class="tool-title">AR &amp; Collections Agent</div>
+      <div class="tool-desc">
+        Aging, DSO and delinquency, plus a four-tier dunning ladder that automates the
+        cadence and refuses to automate the judgement — disputes, six-figure balances and
+        recently contacted accounts are held back for a person.
+      </div>
+      <div class="tool-finding">
+        <strong>70% of the overdue balance sat with five accounts</strong> — five
+        conversations, not a company-wide payment terms review.
+      </div>
+      <div class="tool-stack"><span>Zuora · NetSuite · Gmail</span><span class="tool-arrow">↗</span></div>
+    </a>
+
+  </div>
+
+  <p class="tools-footnote reveal">
+    Source, sample data and results —
+    <a href="https://github.com/BonnieChen88/BonnieChen88.github.io" target="_blank">github.com/BonnieChen88</a>
+  </p>
 </section>
 
 <!-- FOOTER -->
