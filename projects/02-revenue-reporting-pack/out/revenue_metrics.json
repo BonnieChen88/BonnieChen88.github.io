@@ -1,0 +1,43 @@
+{
+  "month": "2026-06",
+  "as_of": "2026-06-30",
+  "arr": {
+    "opening": 14187000,
+    "new": 581000,
+    "expansion": 71500,
+    "contraction": -34500,
+    "churn": -46000,
+    "closing": 14759000,
+    "net_new": 572000,
+    "ttm_growth": 0.6423
+  },
+  "retention": {
+    "nrr": 0.9768,
+    "grr": 0.9037,
+    "cohort_customers": 88
+  },
+  "logos": {
+    "count": 137,
+    "net_change_mom": 3
+  },
+  "segment_mix": {
+    "Enterprise": 8555000,
+    "Mid-Market": 4695000,
+    "SMB": 1509000
+  },
+  "pipeline": {
+    "open_total": 16680000,
+    "stage_weighted": 4605145,
+    "risk_adjusted": 3431873,
+    "decay_haircut": 1173272,
+    "commit_total": 6649000,
+    "commit_risk_adjusted": 2482565,
+    "next_quarter_target": 2251000,
+    "raw_coverage": 7.41,
+    "risk_adjusted_coverage": 1.52,
+    "opportunities": 140,
+    "stale_opportunities": 29,
+    "stale_value": 3473500,
+    "flagged_opportunities": 91
+  }
+}

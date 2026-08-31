@@ -1,0 +1,352 @@
+month,customer_id,customer_name,segment,industry,event_type,delta_arr
+2024-06-01,CUST-2001,Harrowgate Labs,Mid-Market,Banking,new,74000
+2024-06-01,CUST-2002,Maplewood Partners,Mid-Market,Media,new,107000
+2024-06-01,CUST-2003,Stonegate Robotics,Mid-Market,Manufacturing,new,93000
+2024-06-01,CUST-2004,Carrickfern Foods,SMB,Healthcare,new,27000
+2024-06-01,CUST-2005,Redbourne Foods,Mid-Market,Banking,new,81000
+2024-06-01,CUST-2006,Nightingale Diagnostics,Enterprise,Pharmaceuticals,new,221000
+2024-06-01,CUST-2007,Thornbury Financial,Enterprise,Healthcare,new,289000
+2024-06-01,CUST-2008,Braemar Networks,Mid-Market,Healthcare,new,94000
+2024-06-01,CUST-2009,Kilmarnock Networks,Mid-Market,Manufacturing,new,94000
+2024-06-01,CUST-2010,Stonegate Holdings,Enterprise,Real Estate,new,223000
+2024-06-01,CUST-2011,Langford Retail Co,Mid-Market,Retail,new,64000
+2024-06-01,CUST-2012,Bellamy Logistics,Mid-Market,Hospitality,new,120000
+2024-06-01,CUST-2013,Quarry Hill Group,SMB,Banking,new,35000
+2024-06-01,CUST-2014,Ashcombe Bioscience,Mid-Market,Logistics,new,93000
+2024-06-01,CUST-2015,Fairhaven Labs,SMB,Media,new,13000
+2024-06-01,CUST-2016,Lattice Diagnostics,Mid-Market,Education,new,61000
+2024-06-01,CUST-2017,Ivywood Technologies,SMB,Media,new,17000
+2024-06-01,CUST-2018,Cobalt Materials,Mid-Market,Logistics,new,76000
+2024-06-01,CUST-2019,Cascadia Retail Co,SMB,Real Estate,new,22000
+2024-06-01,CUST-2020,Tamarack Media,SMB,Healthcare,new,17000
+2024-06-01,CUST-2021,Sable Clinical,Mid-Market,Retail,new,118000
+2024-06-01,CUST-2022,Lattice Health,Enterprise,Real Estate,new,218000
+2024-06-01,CUST-2023,Inverness Group,Enterprise,Banking,new,264000
+2024-06-01,CUST-2024,Glenmore Clinical,SMB,Pharmaceuticals,new,13000
+2024-06-01,CUST-2025,Foxglove Labs,SMB,Banking,new,27000
+2024-06-01,CUST-2026,Junction Robotics,SMB,Real Estate,new,32000
+2024-06-01,CUST-2027,Ironwood Retail Co,SMB,Banking,new,17000
+2024-06-01,CUST-2028,Kestrel Therapeutics,SMB,Real Estate,new,31000
+2024-06-01,CUST-2029,Oakhurst Labs,SMB,Banking,new,23000
+2024-06-01,CUST-2030,Fenwick Capital,SMB,Banking,new,27000
+2024-06-01,CUST-2031,Copperfield Foods,SMB,Education,new,12000
+2024-06-01,CUST-2032,Sable Industries,Mid-Market,Pharmaceuticals,new,72000
+2024-06-01,CUST-2033,Westmere Financial,Enterprise,Manufacturing,new,281000
+2024-06-01,CUST-2034,Inverness Bioscience,SMB,Healthcare,new,31000
+2024-06-01,CUST-2035,Foxglove Health,SMB,Hospitality,new,28000
+2024-06-01,CUST-2036,Marlowe Group,SMB,Media,new,22000
+2024-06-01,CUST-2037,Tamarack Insurance,SMB,Manufacturing,new,16000
+2024-06-01,CUST-2038,Tessera Clinical,SMB,Education,new,29000
+2024-06-01,CUST-2039,Junction Diagnostics,SMB,Logistics,new,25000
+2024-06-01,CUST-2040,Stonegate Foods,Mid-Market,Retail,new,89000
+2024-06-01,CUST-2041,Brightline Systems,Enterprise,Education,new,158000
+2024-06-01,CUST-2042,Norbury Bioscience,Mid-Market,Education,new,122000
+2024-06-01,CUST-2043,Oakhurst Analytics,Enterprise,Healthcare,new,248000
+2024-06-01,CUST-2044,Norbury Health,SMB,Manufacturing,new,15000
+2024-06-01,CUST-2045,Lattice Therapeutics,Mid-Market,Education,new,111000
+2024-06-01,CUST-2046,Umberton Materials,Enterprise,Healthcare,new,190000
+2024-06-01,CUST-2047,Harrowgate Foods,Mid-Market,Media,new,124000
+2024-06-01,CUST-2048,Vault Labs,SMB,Banking,new,14000
+2024-06-01,CUST-2049,Jarvis Foods,SMB,Manufacturing,new,12000
+2024-06-01,CUST-2050,Norbury Group,SMB,Logistics,new,29000
+2024-06-01,CUST-2051,Bellamy Labs,Mid-Market,Manufacturing,new,125000
+2024-06-01,CUST-2052,Copperfield Insurance,Mid-Market,Manufacturing,new,93000
+2024-07-01,CUST-2053,Wren Networks,Mid-Market,Real Estate,new,50000
+2024-07-01,CUST-2054,Harrowgate Insurance,SMB,Hospitality,new,17000
+2024-07-01,CUST-2055,Halden Technologies,Mid-Market,Manufacturing,new,88000
+2024-07-01,CUST-2019,Cascadia Retail Co,SMB,Real Estate,expansion,7000
+2024-07-01,CUST-2044,Norbury Health,SMB,Manufacturing,expansion,4000
+2024-07-01,CUST-2015,Fairhaven Labs,SMB,Media,expansion,3000
+2024-07-01,CUST-2001,Harrowgate Labs,Mid-Market,Banking,expansion,10000
+2024-07-01,CUST-2021,Sable Clinical,Mid-Market,Retail,expansion,33500
+2024-07-01,CUST-2007,Thornbury Financial,Enterprise,Healthcare,contraction,-35000
+2024-07-01,CUST-2019,Cascadia Retail Co,SMB,Real Estate,churn,-29000
+2024-08-01,CUST-2056,Ironwood Aviation,SMB,Healthcare,new,26000
+2024-08-01,CUST-2057,Grayling Clinical,Mid-Market,Manufacturing,new,58000
+2024-08-01,CUST-2058,Sable Analytics,SMB,Education,new,23000
+2024-08-01,CUST-2059,Ashcombe Foods,SMB,Real Estate,new,29000
+2024-08-01,CUST-2060,Bellamy Diagnostics,Mid-Market,Hospitality,new,74000
+2024-08-01,CUST-2061,Quarry Hill Capital,Mid-Market,Pharmaceuticals,new,45000
+2024-08-01,CUST-2037,Tamarack Insurance,SMB,Manufacturing,expansion,5000
+2024-08-01,CUST-2029,Oakhurst Labs,SMB,Banking,expansion,6000
+2024-08-01,CUST-2018,Cobalt Materials,Mid-Market,Logistics,expansion,10500
+2024-08-01,CUST-2021,Sable Clinical,Mid-Market,Retail,expansion,45000
+2024-08-01,CUST-2014,Ashcombe Bioscience,Mid-Market,Logistics,expansion,27500
+2024-08-01,CUST-2009,Kilmarnock Networks,Mid-Market,Manufacturing,expansion,23000
+2024-08-01,CUST-2053,Wren Networks,Mid-Market,Real Estate,churn,-50000
+2024-08-01,CUST-2020,Tamarack Media,SMB,Healthcare,churn,-17000
+2024-09-01,CUST-2062,Brightline Media,SMB,Healthcare,new,31000
+2024-09-01,CUST-2063,Loxley Retail Co,SMB,Hospitality,new,15000
+2024-09-01,CUST-2064,Elderwood Networks,Enterprise,Media,new,287000
+2024-09-01,CUST-2018,Cobalt Materials,Mid-Market,Logistics,expansion,9000
+2024-09-01,CUST-2036,Marlowe Group,SMB,Media,expansion,4500
+2024-09-01,CUST-2008,Braemar Networks,Mid-Market,Healthcare,contraction,-16500
+2024-10-01,CUST-2065,Peregrine Health,SMB,Media,new,34000
+2024-10-01,CUST-2066,Everly Retail Co,Enterprise,Banking,new,225000
+2024-10-01,CUST-2067,Tessera Insurance,Mid-Market,Education,new,48000
+2024-10-01,CUST-2005,Redbourne Foods,Mid-Market,Banking,expansion,25500
+2024-10-01,CUST-2050,Norbury Group,SMB,Logistics,expansion,5500
+2024-10-01,CUST-2063,Loxley Retail Co,SMB,Hospitality,expansion,5000
+2024-10-01,CUST-2059,Ashcombe Foods,SMB,Real Estate,expansion,5000
+2024-10-01,CUST-2029,Oakhurst Labs,SMB,Banking,expansion,4000
+2024-10-01,CUST-2012,Bellamy Logistics,Mid-Market,Hospitality,expansion,39000
+2024-10-01,CUST-2041,Brightline Systems,Enterprise,Education,contraction,-19500
+2024-10-01,CUST-2027,Ironwood Retail Co,SMB,Banking,contraction,-3000
+2024-10-01,CUST-2059,Ashcombe Foods,SMB,Real Estate,churn,-34000
+2024-10-01,CUST-2067,Tessera Insurance,Mid-Market,Education,churn,-48000
+2024-10-01,CUST-2029,Oakhurst Labs,SMB,Banking,churn,-33000
+2024-11-01,CUST-2068,Jesmond Financial,Enterprise,Retail,new,387000
+2024-11-01,CUST-2069,Loxley Diagnostics,Mid-Market,Banking,new,109000
+2024-11-01,CUST-2070,Copperfield Media,SMB,Retail,new,17000
+2024-11-01,CUST-2042,Norbury Bioscience,Mid-Market,Education,expansion,37500
+2024-11-01,CUST-2043,Oakhurst Analytics,Enterprise,Healthcare,expansion,39000
+2024-11-01,CUST-2064,Elderwood Networks,Enterprise,Media,expansion,74000
+2024-11-01,CUST-2005,Redbourne Foods,Mid-Market,Banking,expansion,26500
+2024-11-01,CUST-2030,Fenwick Capital,SMB,Banking,expansion,9000
+2024-11-01,CUST-2021,Sable Clinical,Mid-Market,Retail,expansion,41500
+2024-11-01,CUST-2024,Glenmore Clinical,SMB,Pharmaceuticals,expansion,2000
+2024-11-01,CUST-2050,Norbury Group,SMB,Logistics,contraction,-5500
+2024-11-01,CUST-2001,Harrowgate Labs,Mid-Market,Banking,contraction,-8000
+2024-11-01,CUST-2061,Quarry Hill Capital,Mid-Market,Pharmaceuticals,contraction,-6500
+2024-11-01,CUST-2023,Inverness Group,Enterprise,Banking,churn,-264000
+2024-11-01,CUST-2038,Tessera Clinical,SMB,Education,churn,-29000
+2024-11-01,CUST-2017,Ivywood Technologies,SMB,Media,churn,-17000
+2024-12-01,CUST-2071,Yarrow Insurance,Enterprise,Manufacturing,new,294000
+2024-12-01,CUST-2072,Elderwood Financial,Mid-Market,Healthcare,new,116000
+2024-12-01,CUST-2073,Westmere Bioscience,SMB,Real Estate,new,13000
+2024-12-01,CUST-2074,Lattice Analytics,SMB,Media,new,26000
+2024-12-01,CUST-2075,Quarry Hill Clinical,SMB,Healthcare,new,27000
+2024-12-01,CUST-2076,Umberton Logistics,SMB,Logistics,new,16000
+2024-12-01,CUST-2077,Halden Labs,Mid-Market,Media,new,107000
+2024-12-01,CUST-2078,Bellamy Partners,SMB,Pharmaceuticals,new,15000
+2024-12-01,CUST-2025,Foxglove Labs,SMB,Banking,expansion,4000
+2024-12-01,CUST-2003,Stonegate Robotics,Mid-Market,Manufacturing,expansion,30500
+2024-12-01,CUST-2042,Norbury Bioscience,Mid-Market,Education,expansion,26000
+2024-12-01,CUST-2045,Lattice Therapeutics,Mid-Market,Education,expansion,22000
+2024-12-01,CUST-2056,Ironwood Aviation,SMB,Healthcare,contraction,-4500
+2025-01-01,CUST-2079,Sable Partners,Mid-Market,Healthcare,new,47000
+2025-01-01,CUST-2080,Vantage Materials,SMB,Education,new,24000
+2025-01-01,CUST-2081,Redbourne Holdings,SMB,Healthcare,new,32000
+2025-01-01,CUST-2082,Jesmond Partners,Mid-Market,Healthcare,new,78000
+2025-01-01,CUST-2079,Sable Partners,Mid-Market,Healthcare,expansion,6000
+2025-01-01,CUST-2030,Fenwick Capital,SMB,Banking,expansion,7000
+2025-01-01,CUST-2012,Bellamy Logistics,Mid-Market,Hospitality,expansion,15000
+2025-01-01,CUST-2057,Grayling Clinical,Mid-Market,Manufacturing,contraction,-3500
+2025-01-01,CUST-2077,Halden Labs,Mid-Market,Media,contraction,-21500
+2025-01-01,CUST-2054,Harrowgate Insurance,SMB,Hospitality,contraction,-2500
+2025-01-01,CUST-2048,Vault Labs,SMB,Banking,churn,-14000
+2025-02-01,CUST-2083,Vantage Robotics,SMB,Education,new,22000
+2025-02-01,CUST-2084,Foxglove Group,Enterprise,Media,new,190000
+2025-02-01,CUST-2085,Braemar Health,Enterprise,Real Estate,new,317000
+2025-02-01,CUST-2086,Nova Financial,SMB,Healthcare,new,31000
+2025-02-01,CUST-2087,Kilmarnock Aviation,Mid-Market,Banking,new,119000
+2025-02-01,CUST-2040,Stonegate Foods,Mid-Market,Retail,expansion,22500
+2025-02-01,CUST-2084,Foxglove Group,Enterprise,Media,expansion,50500
+2025-02-01,CUST-2049,Jarvis Foods,SMB,Manufacturing,churn,-12000
+2025-02-01,CUST-2037,Tamarack Insurance,SMB,Manufacturing,churn,-21000
+2025-02-01,CUST-2086,Nova Financial,SMB,Healthcare,churn,-31000
+2025-03-01,CUST-2088,Kingsley Clinical,SMB,Healthcare,new,32000
+2025-03-01,CUST-2089,Meridian Technologies,Enterprise,Banking,new,290000
+2025-03-01,CUST-2090,Tamarack Aviation,Mid-Market,Hospitality,new,76000
+2025-03-01,CUST-2091,Thornbury Logistics,Enterprise,Healthcare,new,257000
+2025-03-01,CUST-2031,Copperfield Foods,SMB,Education,expansion,2000
+2025-03-01,CUST-2001,Harrowgate Labs,Mid-Market,Banking,expansion,6500
+2025-03-01,CUST-2069,Loxley Diagnostics,Mid-Market,Banking,expansion,15000
+2025-03-01,CUST-2028,Kestrel Therapeutics,SMB,Real Estate,expansion,4000
+2025-03-01,CUST-2052,Copperfield Insurance,Mid-Market,Manufacturing,expansion,16000
+2025-03-01,CUST-2031,Copperfield Foods,SMB,Education,contraction,-2500
+2025-03-01,CUST-2079,Sable Partners,Mid-Market,Healthcare,contraction,-7000
+2025-03-01,CUST-2054,Harrowgate Insurance,SMB,Hospitality,churn,-14500
+2025-04-01,CUST-2092,Ironwood Therapeutics,SMB,Healthcare,new,21000
+2025-04-01,CUST-2093,Kestrel Health,SMB,Banking,new,19000
+2025-04-01,CUST-2094,Kingsley Logistics,Enterprise,Logistics,new,199000
+2025-04-01,CUST-2011,Langford Retail Co,Mid-Market,Retail,expansion,21500
+2025-04-01,CUST-2006,Nightingale Diagnostics,Enterprise,Pharmaceuticals,expansion,67000
+2025-04-01,CUST-2027,Ironwood Retail Co,SMB,Banking,expansion,3500
+2025-04-01,CUST-2074,Lattice Analytics,SMB,Media,expansion,8000
+2025-04-01,CUST-2036,Marlowe Group,SMB,Media,expansion,4500
+2025-04-01,CUST-2063,Loxley Retail Co,SMB,Hospitality,contraction,-2500
+2025-04-01,CUST-2088,Kingsley Clinical,SMB,Healthcare,churn,-32000
+2025-05-01,CUST-2095,Meridian Therapeutics,Mid-Market,Media,new,58000
+2025-05-01,CUST-2096,Ironwood Analytics,SMB,Media,new,29000
+2025-05-01,CUST-2097,Fenwick Partners,Mid-Market,Media,new,71000
+2025-05-01,CUST-2098,Redbourne Diagnostics,Enterprise,Healthcare,new,168000
+2025-05-01,CUST-2099,Fenwick Logistics,Enterprise,Healthcare,new,203000
+2025-05-01,CUST-2057,Grayling Clinical,Mid-Market,Manufacturing,expansion,13500
+2025-05-01,CUST-2061,Quarry Hill Capital,Mid-Market,Pharmaceuticals,expansion,7000
+2025-05-01,CUST-2096,Ironwood Analytics,SMB,Media,expansion,4500
+2025-05-01,CUST-2024,Glenmore Clinical,SMB,Pharmaceuticals,expansion,5000
+2025-05-01,CUST-2006,Nightingale Diagnostics,Enterprise,Pharmaceuticals,contraction,-61000
+2025-06-01,CUST-2100,Meridian Analytics,SMB,Manufacturing,new,24000
+2025-06-01,CUST-2101,Inverness Networks,SMB,Pharmaceuticals,new,18000
+2025-06-01,CUST-2102,Inverness Retail Co,SMB,Logistics,new,20000
+2025-06-01,CUST-2103,Bellamy Capital,SMB,Real Estate,new,18000
+2025-06-01,CUST-2104,Nightingale Labs,SMB,Logistics,new,29000
+2025-06-01,CUST-2061,Quarry Hill Capital,Mid-Market,Pharmaceuticals,expansion,12000
+2025-06-01,CUST-2065,Peregrine Health,SMB,Media,expansion,2500
+2025-06-01,CUST-2060,Bellamy Diagnostics,Mid-Market,Hospitality,expansion,13500
+2025-06-01,CUST-2089,Meridian Technologies,Enterprise,Banking,expansion,66500
+2025-06-01,CUST-2024,Glenmore Clinical,SMB,Pharmaceuticals,expansion,3500
+2025-06-01,CUST-2066,Everly Retail Co,Enterprise,Banking,contraction,-43500
+2025-06-01,CUST-2079,Sable Partners,Mid-Market,Healthcare,contraction,-4500
+2025-06-01,CUST-2060,Bellamy Diagnostics,Mid-Market,Hospitality,churn,-87500
+2025-07-01,CUST-2105,Bellamy Holdings,SMB,Education,new,15000
+2025-07-01,CUST-2106,Cascadia Diagnostics,Mid-Market,Real Estate,new,61000
+2025-07-01,CUST-2107,Vantage Insurance,SMB,Banking,new,16000
+2025-07-01,CUST-2108,Clearwave Logistics,SMB,Healthcare,new,33000
+2025-07-01,CUST-2109,Marlowe Labs,SMB,Retail,new,23000
+2025-07-01,CUST-2110,Westmere Insurance,Mid-Market,Banking,new,103000
+2025-07-01,CUST-2111,Silverpine Materials,SMB,Manufacturing,new,13000
+2025-07-01,CUST-2112,Merrivale Capital,SMB,Banking,new,14000
+2025-07-01,CUST-2026,Junction Robotics,SMB,Real Estate,expansion,10000
+2025-07-01,CUST-2024,Glenmore Clinical,SMB,Pharmaceuticals,expansion,2000
+2025-07-01,CUST-2022,Lattice Health,Enterprise,Real Estate,expansion,61500
+2025-07-01,CUST-2055,Halden Technologies,Mid-Market,Manufacturing,expansion,13000
+2025-07-01,CUST-2013,Quarry Hill Group,SMB,Banking,expansion,3500
+2025-07-01,CUST-2112,Merrivale Capital,SMB,Banking,expansion,3500
+2025-07-01,CUST-2036,Marlowe Group,SMB,Media,expansion,5500
+2025-07-01,CUST-2056,Ironwood Aviation,SMB,Healthcare,churn,-21500
+2025-07-01,CUST-2046,Umberton Materials,Enterprise,Healthcare,churn,-190000
+2025-08-01,CUST-2113,Pemberton Insurance,Enterprise,Logistics,new,148000
+2025-08-01,CUST-2114,Elderwood Labs,Mid-Market,Pharmaceuticals,new,118000
+2025-08-01,CUST-2115,Norbury Aviation,SMB,Healthcare,new,32000
+2025-08-01,CUST-2116,Junction Retail Co,SMB,Logistics,new,24000
+2025-08-01,CUST-2081,Redbourne Holdings,SMB,Healthcare,expansion,8000
+2025-08-01,CUST-2058,Sable Analytics,SMB,Education,expansion,7500
+2025-08-01,CUST-2082,Jesmond Partners,Mid-Market,Healthcare,expansion,6500
+2025-08-01,CUST-2026,Junction Robotics,SMB,Real Estate,contraction,-3500
+2025-08-01,CUST-2078,Bellamy Partners,SMB,Pharmaceuticals,churn,-15000
+2025-08-01,CUST-2096,Ironwood Analytics,SMB,Media,churn,-33500
+2025-08-01,CUST-2006,Nightingale Diagnostics,Enterprise,Pharmaceuticals,churn,-227000
+2025-09-01,CUST-2117,Marlowe Partners,Enterprise,Hospitality,new,209000
+2025-09-01,CUST-2118,Silverpine Aviation,Enterprise,Education,new,323000
+2025-09-01,CUST-2119,Ardent Financial,SMB,Real Estate,new,23000
+2025-09-01,CUST-2120,Oakhurst Group,Mid-Market,Retail,new,117000
+2025-09-01,CUST-2121,Hollingsworth Financial,SMB,Pharmaceuticals,new,29000
+2025-09-01,CUST-2122,Ivywood Materials,SMB,Pharmaceuticals,new,26000
+2025-09-01,CUST-2123,Pemberton Holdings,SMB,Education,new,18000
+2025-09-01,CUST-2124,Stonegate Partners,SMB,Real Estate,new,20000
+2025-09-01,CUST-2105,Bellamy Holdings,SMB,Education,expansion,4500
+2025-09-01,CUST-2080,Vantage Materials,SMB,Education,expansion,6500
+2025-09-01,CUST-2022,Lattice Health,Enterprise,Real Estate,expansion,72500
+2025-09-01,CUST-2107,Vantage Insurance,SMB,Banking,expansion,2500
+2025-09-01,CUST-2066,Everly Retail Co,Enterprise,Banking,expansion,21000
+2025-09-01,CUST-2055,Halden Technologies,Mid-Market,Manufacturing,expansion,22500
+2025-09-01,CUST-2117,Marlowe Partners,Enterprise,Hospitality,contraction,-27500
+2025-09-01,CUST-2080,Vantage Materials,SMB,Education,contraction,-4000
+2025-10-01,CUST-2125,Westmere Networks,Enterprise,Healthcare,new,181000
+2025-10-01,CUST-2126,Brightline Industries,Enterprise,Education,new,187000
+2025-10-01,CUST-2127,Lattice Networks,SMB,Banking,new,25000
+2025-10-01,CUST-2128,Dalhousie Insurance,SMB,Media,new,25000
+2025-10-01,CUST-2041,Brightline Systems,Enterprise,Education,expansion,18500
+2025-10-01,CUST-2039,Junction Diagnostics,SMB,Logistics,expansion,5000
+2025-10-01,CUST-2058,Sable Analytics,SMB,Education,contraction,-2000
+2025-10-01,CUST-2003,Stonegate Robotics,Mid-Market,Manufacturing,contraction,-15500
+2025-10-01,CUST-2110,Westmere Insurance,Mid-Market,Banking,churn,-103000
+2025-10-01,CUST-2109,Marlowe Labs,SMB,Retail,churn,-23000
+2025-10-01,CUST-2001,Harrowgate Labs,Mid-Market,Banking,churn,-82500
+2025-11-01,CUST-2129,Redbourne Industries,Mid-Market,Banking,new,53000
+2025-11-01,CUST-2130,Nova Retail Co,SMB,Real Estate,new,26000
+2025-11-01,CUST-2131,Inverness Clinical,SMB,Pharmaceuticals,new,22000
+2025-11-01,CUST-2132,Carrickfern Media,Enterprise,Manufacturing,new,253000
+2025-11-01,CUST-2055,Halden Technologies,Mid-Market,Manufacturing,expansion,42500
+2025-11-01,CUST-2025,Foxglove Labs,SMB,Banking,expansion,3500
+2025-11-01,CUST-2100,Meridian Analytics,SMB,Manufacturing,expansion,4500
+2025-11-01,CUST-2108,Clearwave Logistics,SMB,Healthcare,contraction,-4000
+2025-11-01,CUST-2106,Cascadia Diagnostics,Mid-Market,Real Estate,contraction,-9000
+2025-11-01,CUST-2062,Brightline Media,SMB,Healthcare,contraction,-4000
+2025-12-01,CUST-2133,Northbridge Robotics,SMB,Education,new,17000
+2025-12-01,CUST-2134,Carrickfern Group,Enterprise,Education,new,219000
+2025-12-01,CUST-2135,Tessera Bioscience,Mid-Market,Healthcare,new,68000
+2025-12-01,CUST-2136,Meridian Networks,SMB,Media,new,21000
+2025-12-01,CUST-2044,Norbury Health,SMB,Manufacturing,expansion,6500
+2025-12-01,CUST-2074,Lattice Analytics,SMB,Media,expansion,7000
+2025-12-01,CUST-2129,Redbourne Industries,Mid-Market,Banking,contraction,-9500
+2025-12-01,CUST-2090,Tamarack Aviation,Mid-Market,Hospitality,contraction,-14500
+2025-12-01,CUST-2070,Copperfield Media,SMB,Retail,churn,-17000
+2025-12-01,CUST-2034,Inverness Bioscience,SMB,Healthcare,churn,-31000
+2025-12-01,CUST-2136,Meridian Networks,SMB,Media,churn,-21000
+2026-01-01,CUST-2137,Everly Analytics,Enterprise,Pharmaceuticals,new,398000
+2026-01-01,CUST-2138,Clearwave Networks,SMB,Manufacturing,new,21000
+2026-01-01,CUST-2139,Cascadia Media,SMB,Education,new,35000
+2026-01-01,CUST-2140,Sable Diagnostics,Mid-Market,Education,new,112000
+2026-01-01,CUST-2141,Kestrel Industries,Mid-Market,Education,new,65000
+2026-01-01,CUST-2119,Ardent Financial,SMB,Real Estate,expansion,3500
+2026-01-01,CUST-2042,Norbury Bioscience,Mid-Market,Education,expansion,57000
+2026-01-01,CUST-2103,Bellamy Capital,SMB,Real Estate,expansion,2000
+2026-01-01,CUST-2026,Junction Robotics,SMB,Real Estate,expansion,4000
+2026-01-01,CUST-2098,Redbourne Diagnostics,Enterprise,Healthcare,contraction,-23500
+2026-01-01,CUST-2024,Glenmore Clinical,SMB,Pharmaceuticals,churn,-25500
+2026-01-01,CUST-2122,Ivywood Materials,SMB,Pharmaceuticals,churn,-26000
+2026-01-01,CUST-2131,Inverness Clinical,SMB,Pharmaceuticals,churn,-22000
+2026-02-01,CUST-2142,Kilmarnock Industries,SMB,Logistics,new,27000
+2026-02-01,CUST-2143,Dunmore Health,SMB,Banking,new,27000
+2026-02-01,CUST-2144,Merrivale Clinical,Enterprise,Banking,new,149000
+2026-02-01,CUST-2145,Grayling Robotics,Mid-Market,Banking,new,57000
+2026-02-01,CUST-2146,Quarry Hill Networks,Mid-Market,Real Estate,new,61000
+2026-02-01,CUST-2147,Sable Retail Co,SMB,Pharmaceuticals,new,32000
+2026-02-01,CUST-2145,Grayling Robotics,Mid-Market,Banking,expansion,19500
+2026-02-01,CUST-2073,Westmere Bioscience,SMB,Real Estate,expansion,3500
+2026-02-01,CUST-2074,Lattice Analytics,SMB,Media,expansion,12500
+2026-02-01,CUST-2116,Junction Retail Co,SMB,Logistics,contraction,-3500
+2026-02-01,CUST-2111,Silverpine Materials,SMB,Manufacturing,contraction,-500
+2026-02-01,CUST-2141,Kestrel Industries,Mid-Market,Education,contraction,-11500
+2026-03-01,CUST-2148,Nova Networks,Mid-Market,Hospitality,new,107000
+2026-03-01,CUST-2149,Junction Materials,Mid-Market,Media,new,81000
+2026-03-01,CUST-2150,Thornbury Foods,SMB,Manufacturing,new,30000
+2026-03-01,CUST-2151,Ironwood Bioscience,Enterprise,Retail,new,355000
+2026-03-01,CUST-2152,Kestrel Robotics,Enterprise,Hospitality,new,271000
+2026-03-01,CUST-2153,Umberton Analytics,SMB,Education,new,19000
+2026-03-01,CUST-2154,Cascadia Health,SMB,Retail,new,19000
+2026-03-01,CUST-2045,Lattice Therapeutics,Mid-Market,Education,expansion,24000
+2026-03-01,CUST-2007,Thornbury Financial,Enterprise,Healthcare,expansion,63000
+2026-03-01,CUST-2138,Clearwave Networks,SMB,Manufacturing,expansion,5000
+2026-03-01,CUST-2064,Elderwood Networks,Enterprise,Media,expansion,77500
+2026-03-01,CUST-2030,Fenwick Capital,SMB,Banking,churn,-43000
+2026-03-01,CUST-2055,Halden Technologies,Mid-Market,Manufacturing,churn,-166000
+2026-03-01,CUST-2093,Kestrel Health,SMB,Banking,churn,-19000
+2026-04-01,CUST-2155,Cascadia Systems,SMB,Banking,new,30000
+2026-04-01,CUST-2156,Copperfield Industries,SMB,Retail,new,22000
+2026-04-01,CUST-2157,Jesmond Therapeutics,SMB,Manufacturing,new,28000
+2026-04-01,CUST-2158,Hollingsworth Clinical,Mid-Market,Banking,new,87000
+2026-04-01,CUST-2159,Yarrow Technologies,Enterprise,Banking,new,385000
+2026-04-01,CUST-2160,Nova Holdings,Mid-Market,Healthcare,new,58000
+2026-04-01,CUST-2161,Ironwood Foods,Mid-Market,Banking,new,57000
+2026-04-01,CUST-2129,Redbourne Industries,Mid-Market,Banking,expansion,6000
+2026-04-01,CUST-2051,Bellamy Labs,Mid-Market,Manufacturing,expansion,25000
+2026-04-01,CUST-2097,Fenwick Partners,Mid-Market,Media,expansion,12000
+2026-04-01,CUST-2161,Ironwood Foods,Mid-Market,Banking,expansion,18500
+2026-04-01,CUST-2091,Thornbury Logistics,Enterprise,Healthcare,expansion,25500
+2026-04-01,CUST-2036,Marlowe Group,SMB,Media,expansion,4500
+2026-04-01,CUST-2092,Ironwood Therapeutics,SMB,Healthcare,expansion,3000
+2026-04-01,CUST-2016,Lattice Diagnostics,Mid-Market,Education,contraction,-3000
+2026-04-01,CUST-2149,Junction Materials,Mid-Market,Media,churn,-81000
+2026-04-01,CUST-2127,Lattice Networks,SMB,Banking,churn,-25000
+2026-05-01,CUST-2162,Bellamy Therapeutics,Mid-Market,Banking,new,96000
+2026-05-01,CUST-2163,Jarvis Robotics,SMB,Healthcare,new,27000
+2026-05-01,CUST-2164,Halden Logistics,SMB,Manufacturing,new,33000
+2026-05-01,CUST-2165,Copperfield Holdings,SMB,Education,new,29000
+2026-05-01,CUST-2166,Sable Media,Mid-Market,Banking,new,61000
+2026-05-01,CUST-2167,Fairhaven Partners,Enterprise,Hospitality,new,267000
+2026-05-01,CUST-2168,Yarrow Media,SMB,Hospitality,new,15000
+2026-05-01,CUST-2169,Ashcombe Financial,Enterprise,Logistics,new,162000
+2026-05-01,CUST-2071,Yarrow Insurance,Enterprise,Manufacturing,expansion,52000
+2026-05-01,CUST-2025,Foxglove Labs,SMB,Banking,expansion,3500
+2026-05-01,CUST-2135,Tessera Bioscience,Mid-Market,Healthcare,expansion,12500
+2026-05-01,CUST-2126,Brightline Industries,Enterprise,Education,expansion,40000
+2026-05-01,CUST-2079,Sable Partners,Mid-Market,Healthcare,expansion,5000
+2026-05-01,CUST-2042,Norbury Bioscience,Mid-Market,Education,expansion,48500
+2026-05-01,CUST-2077,Halden Labs,Mid-Market,Media,contraction,-7500
+2026-05-01,CUST-2058,Sable Analytics,SMB,Education,contraction,-4000
+2026-05-01,CUST-2169,Ashcombe Financial,Enterprise,Logistics,contraction,-31500
+2026-06-01,CUST-2170,Inverness Capital,Mid-Market,Media,new,56000
+2026-06-01,CUST-2171,Braemar Logistics,Enterprise,Banking,new,299000
+2026-06-01,CUST-2172,Redbourne Robotics,Mid-Market,Hospitality,new,98000
+2026-06-01,CUST-2173,Westmere Health,SMB,Pharmaceuticals,new,16000
+2026-06-01,CUST-2174,Sable Foods,Mid-Market,Healthcare,new,112000
+2026-06-01,CUST-2115,Norbury Aviation,SMB,Healthcare,expansion,9000
+2026-06-01,CUST-2159,Yarrow Technologies,Enterprise,Banking,expansion,62500
+2026-06-01,CUST-2050,Norbury Group,SMB,Logistics,contraction,-6000
+2026-06-01,CUST-2134,Carrickfern Group,Enterprise,Education,contraction,-28500
+2026-06-01,CUST-2143,Dunmore Health,SMB,Banking,churn,-27000
+2026-06-01,CUST-2154,Cascadia Health,SMB,Retail,churn,-19000

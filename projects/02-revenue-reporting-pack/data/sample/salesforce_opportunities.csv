@@ -1,0 +1,141 @@
+opportunity_id,account_name,industry,segment,owner,amount,stage,forecast_category,created_date,close_date,last_activity_date,next_step
+0068D41000,Wren Clinical,Real Estate,Mid-Market,T. Nakamura,127500,Discovery,Pipeline,2026-04-07,2026-05-25,2026-06-17,Security review scheduled
+0068D41001,Braemar Technologies,Healthcare,Enterprise,D. Okafor,200000,Negotiation,Commit,2025-12-12,2026-09-29,2026-06-05,
+0068D41002,Kingsley Technologies,Manufacturing,Mid-Market,J. Baptiste,110000,Discovery,Pipeline,2026-04-26,2026-08-23,2026-05-10,
+0068D41003,Tamarack Retail Co,Logistics,Mid-Market,J. Baptiste,65500,Discovery,Pipeline,2026-04-21,2026-08-10,2026-06-01,Pilot scoping call
+0068D41004,Braemar Robotics,Real Estate,SMB,M. Reyes,0,Discovery,Pipeline,2026-05-06,2026-07-06,2026-06-08,Champion intro to CFO
+0068D41005,Aldergrove Networks,Healthcare,SMB,A. Whitfield,39500,Negotiation,Commit,2026-06-21,2026-03-06,2026-06-21,Security review scheduled
+0068D41006,Braemar Partners,Banking,SMB,T. Nakamura,40000,Negotiation,Commit,2026-04-29,2026-09-23,2026-05-02,
+0068D41007,Yarrow Networks,Banking,SMB,A. Whitfield,22500,Proposal,Best Case,2026-06-25,2026-08-26,2026-06-25,Procurement portal submitted
+0068D41008,Everly Networks,Manufacturing,SMB,S. Lindqvist,30000,Negotiation,Commit,2026-06-25,2026-06-07,2026-06-25,Security review scheduled
+0068D41009,Marlowe Capital,Hospitality,Enterprise,S. Lindqvist,489000,Proposal,Best Case,2026-04-09,2026-07-30,2026-05-18,
+0068D41010,Peregrine Media,Pharmaceuticals,SMB,M. Reyes,36000,Qualification,Pipeline,2026-06-07,2027-01-09,2026-06-07,Procurement portal submitted
+0068D41011,Jarvis Diagnostics,Banking,SMB,J. Baptiste,15500,Proposal,Best Case,2026-05-27,2026-07-25,2026-06-19,"Pricing sent, awaiting legal"
+0068D41012,Merrivale Media,Banking,SMB,R. Chowdhury,33000,Contracting,Commit,2026-06-25,2026-06-25,2026-06-25,Procurement portal submitted
+0068D41013,Nightingale Bioscience,Manufacturing,Mid-Market,D. Okafor,86000,Qualification,Pipeline,2026-04-08,2026-07-14,2026-05-14,Security review scheduled
+0068D41014,Cobalt Health,Logistics,Enterprise,R. Chowdhury,407500,Negotiation,Commit,2026-03-12,2026-08-25,2026-06-28,
+0068D41015,Halden Foods,Hospitality,Enterprise,A. Whitfield,275500,Discovery,Pipeline,2026-04-06,2026-07-29,2026-06-18,Security review scheduled
+0068D41016,Fenwick Labs,Retail,SMB,M. Reyes,31500,Discovery,Pipeline,2026-05-19,2026-07-15,2026-06-18,Pilot scoping call
+0068D41017,Dalhousie Group,Healthcare,SMB,J. Baptiste,31500,Discovery,Pipeline,2026-06-25,2026-10-18,2026-06-25,"Pricing sent, awaiting legal"
+0068D41018,Westmere Diagnostics,Banking,Mid-Market,T. Nakamura,150500,Qualification,Pipeline,2026-02-27,2026-06-08,2026-04-25,Procurement portal submitted
+0068D41019,Foxglove Clinical,Logistics,SMB,J. Baptiste,40000,Discovery,Pipeline,2026-03-08,2026-05-10,2026-06-04,Champion intro to CFO
+0068D41020,Junction Capital,Healthcare,SMB,S. Lindqvist,28000,Proposal,Best Case,2026-04-28,2026-11-04,2026-06-01,
+0068D41021,Nightingale Technologies,Manufacturing,Enterprise,M. Reyes,411500,Contracting,Commit,2026-02-11,2026-11-10,2026-06-22,Redlines returned
+0068D41022,Maplewood Systems,Retail,Mid-Market,A. Whitfield,125500,Discovery,Pipeline,2026-05-01,2026-12-23,2026-06-20,Redlines returned
+0068D41023,Foxglove Partners,Healthcare,Mid-Market,A. Whitfield,0,Negotiation,Commit,2026-03-23,2026-09-05,2026-06-29,Security review scheduled
+0068D41024,Stonegate Media,Pharmaceuticals,SMB,A. Whitfield,16000,Discovery,Pipeline,2026-04-26,2026-07-05,2026-06-03,Security review scheduled
+0068D41025,Aldergrove Group,Healthcare,SMB,M. Reyes,15000,Proposal,Best Case,2026-05-25,2026-08-04,2026-06-20,Procurement portal submitted
+0068D41026,Fairhaven Group,Education,Mid-Market,M. Reyes,127500,Discovery,Pipeline,2026-03-30,2026-09-07,2026-06-25,Security review scheduled
+0068D41027,Fenwick Foods,Logistics,Mid-Market,D. Okafor,151500,Qualification,Pipeline,2026-05-07,2026-04-18,2026-06-07,Security review scheduled
+0068D41028,Fenwick Bioscience,Education,Mid-Market,S. Lindqvist,128500,Contracting,Commit,2026-04-25,2026-09-13,2026-06-16,
+0068D41029,Peregrine Robotics,Pharmaceuticals,SMB,R. Chowdhury,29000,Contracting,Commit,2026-03-23,2026-06-02,2026-06-28,Procurement portal submitted
+0068D41030,Umberton Technologies,Logistics,SMB,M. Reyes,40500,Qualification,Commit,2026-06-19,2026-04-26,2026-06-19,Pilot scoping call
+0068D41031,Yarrow Foods,Manufacturing,SMB,S. Lindqvist,27000,Discovery,Pipeline,2026-04-23,2026-05-22,2026-05-08,Pilot scoping call
+0068D41032,Junction Technologies,Media,Mid-Market,T. Nakamura,51000,Qualification,Commit,2026-04-23,2026-08-20,2026-06-15,Redlines returned
+0068D41033,Stonegate Insurance,Banking,SMB,R. Chowdhury,31000,Discovery,Pipeline,2026-05-13,2026-09-24,2026-06-03,Champion intro to CFO
+0068D41034,Hollingsworth Group,Healthcare,SMB,J. Baptiste,21500,Discovery,Pipeline,2026-06-11,2026-03-26,2026-06-15,Security review scheduled
+0068D41035,Ardent Group,Real Estate,Enterprise,T. Nakamura,223500,Discovery,Pipeline,2026-01-07,2026-11-04,2026-06-15,"Pricing sent, awaiting legal"
+0068D41036,Dalhousie Clinical,Education,Mid-Market,D. Okafor,85500,Qualification,Pipeline,2026-02-13,2026-09-02,2026-06-28,Security review scheduled
+0068D41037,Jesmond Capital,Education,Enterprise,D. Okafor,370500,Contracting,Commit,2026-01-27,2026-11-04,2026-06-30,
+0068D41038,Bellamy Financial,Healthcare,Mid-Market,M. Reyes,137000,Discovery,Pipeline,2026-04-09,2026-11-02,2026-06-18,
+0068D41039,Quarry Hill Foods,Healthcare,Enterprise,S. Lindqvist,290000,Qualification,Pipeline,2026-02-26,2026-09-29,2026-06-05,Redlines returned
+0068D41040,Braemar Capital,Education,SMB,J. Baptiste,39000,Proposal,Commit,2026-04-16,2026-11-09,2026-05-25,Champion intro to CFO
+0068D41041,Fenwick Analytics,Banking,SMB,T. Nakamura,17000,Discovery,Pipeline,2026-06-17,2026-08-18,2026-06-23,Security review scheduled
+0068D41042,Dalhousie Financial,Healthcare,Mid-Market,S. Lindqvist,0,Discovery,Pipeline,2026-04-20,2026-06-24,2026-06-16,Pilot scoping call
+0068D41043,Ashcombe Diagnostics,Healthcare,SMB,A. Whitfield,28000,Discovery,Pipeline,2026-05-13,2026-03-23,2026-06-03,"Pricing sent, awaiting legal"
+0068D41044,Cobalt Financial,Healthcare,SMB,S. Lindqvist,30000,Proposal,Best Case,2026-06-10,2026-04-14,2026-06-10,
+0068D41045,Vault Industries,Banking,Enterprise,T. Nakamura,374000,Negotiation,Commit,2026-01-14,2026-05-31,2026-06-05,"Pricing sent, awaiting legal"
+0068D41046,Lattice Bioscience,Retail,SMB,T. Nakamura,15500,Discovery,Pipeline,2026-06-01,2026-03-24,2026-06-14,"Pricing sent, awaiting legal"
+0068D41047,Lattice Technologies,Logistics,SMB,M. Reyes,36500,Proposal,Best Case,2026-04-06,2026-08-16,2026-04-30,Procurement portal submitted
+0068D41048,Silverpine Technologies,Media,SMB,D. Okafor,26500,Proposal,Best Case,2026-04-13,2026-08-16,2026-06-14,
+0068D41049,Loxley Group,Real Estate,SMB,T. Nakamura,26500,Qualification,Pipeline,2026-06-01,2026-04-04,2026-06-01,Redlines returned
+0068D41050,Nightingale Therapeutics,Healthcare,Mid-Market,S. Lindqvist,70000,Qualification,Pipeline,2026-03-06,2026-03-22,2026-06-28,Pilot scoping call
+0068D41051,Ardent Robotics,Logistics,SMB,T. Nakamura,21000,Proposal,Best Case,2026-06-25,2026-08-08,2026-06-27,Pilot scoping call
+0068D41052,Norbury Partners,Pharmaceuticals,Mid-Market,A. Whitfield,51000,Qualification,Pipeline,2026-05-10,2026-07-10,2026-06-29,Redlines returned
+0068D41053,Loxley Logistics,Retail,SMB,S. Lindqvist,16500,Discovery,Pipeline,2026-06-13,2026-06-03,2026-06-13,
+0068D41054,Northbridge Media,Education,SMB,T. Nakamura,20500,Proposal,Best Case,2026-04-13,2026-06-28,2026-06-21,Champion intro to CFO
+0068D41055,Kilmarnock Analytics,Banking,Mid-Market,T. Nakamura,93500,Discovery,Pipeline,2026-03-29,2026-06-23,2026-06-22,
+0068D41056,Tessera Diagnostics,Logistics,SMB,D. Okafor,23500,Contracting,Commit,2026-05-09,2026-08-01,2026-05-25,"Pricing sent, awaiting legal"
+0068D41057,Meridian Media,Real Estate,Enterprise,S. Lindqvist,298500,Negotiation,Commit,2026-02-20,2026-11-03,2026-06-05,Champion intro to CFO
+0068D41058,Aldergrove Analytics,Banking,SMB,A. Whitfield,31000,Qualification,Commit,2026-05-15,2026-05-24,2026-05-26,Pilot scoping call
+0068D41059,Harrowgate Networks,Banking,Mid-Market,J. Baptiste,101000,Negotiation,Commit,2026-04-29,2026-05-30,2026-06-01,Pilot scoping call
+0068D41060,Harrowgate Analytics,Retail,Mid-Market,R. Chowdhury,48000,Discovery,Commit,2026-05-12,2026-08-14,2026-06-03,"Pricing sent, awaiting legal"
+0068D41061,Aldergrove Foods,Healthcare,Mid-Market,S. Lindqvist,78500,Negotiation,Commit,2026-05-16,2026-08-03,2026-06-02,Redlines returned
+0068D41062,Cobalt Systems,Banking,Enterprise,J. Baptiste,380000,Negotiation,Commit,2026-01-14,2026-09-29,2026-06-20,Pilot scoping call
+0068D41063,Pemberton Labs,Banking,Mid-Market,T. Nakamura,69500,Proposal,Best Case,2026-04-28,2026-08-03,2026-04-29,Champion intro to CFO
+0068D41064,Ardent Aviation,Real Estate,SMB,J. Baptiste,27000,Negotiation,Commit,2026-06-25,2026-07-12,2026-06-25,Security review scheduled
+0068D41065,Lattice Industries,Retail,Mid-Market,M. Reyes,97500,Negotiation,Commit,2026-05-22,2026-08-05,2026-05-28,
+0068D41066,Kingsley Networks,Manufacturing,Mid-Market,D. Okafor,98000,Discovery,Pipeline,2026-05-10,2026-09-03,2026-06-24,Champion intro to CFO
+0068D41067,Nova Insurance,Logistics,Mid-Market,A. Whitfield,115000,Qualification,Pipeline,2026-03-25,2026-09-18,2026-04-05,"Pricing sent, awaiting legal"
+0068D41068,Meridian Logistics,Pharmaceuticals,Mid-Market,D. Okafor,152500,Discovery,Pipeline,2026-04-07,2026-06-22,2026-06-10,"Pricing sent, awaiting legal"
+0068D41069,Ashcombe Group,Media,SMB,A. Whitfield,20500,Proposal,Best Case,2026-06-12,2026-10-19,2026-06-12,Redlines returned
+0068D41070,Yarrow Partners,Hospitality,SMB,D. Okafor,34500,Negotiation,Commit,2026-04-06,2026-11-05,2026-06-08,
+0068D41071,Junction Health,Education,Mid-Market,M. Reyes,0,Discovery,Commit,2026-04-28,2026-09-27,2026-06-15,
+0068D41072,Kingsley Labs,Banking,Mid-Market,D. Okafor,69500,Discovery,Pipeline,2026-05-14,2026-10-07,2026-06-13,Security review scheduled
+0068D41073,Thornbury Systems,Education,SMB,R. Chowdhury,30500,Discovery,Pipeline,2026-05-15,2026-08-11,2026-05-17,"Pricing sent, awaiting legal"
+0068D41074,Jarvis Industries,Banking,SMB,A. Whitfield,40000,Qualification,Pipeline,2026-06-25,2026-09-03,2026-06-25,Security review scheduled
+0068D41075,Tamarack Partners,Hospitality,Enterprise,A. Whitfield,227500,Qualification,Pipeline,2026-03-14,2026-10-28,2026-06-11,Pilot scoping call
+0068D41076,Brightline Analytics,Real Estate,Mid-Market,D. Okafor,59500,Discovery,Pipeline,2026-06-16,2026-07-07,2026-06-28,
+0068D41077,Copperfield Aviation,Manufacturing,SMB,J. Baptiste,37000,Discovery,Pipeline,2026-06-25,2026-10-12,2026-06-25,"Pricing sent, awaiting legal"
+0068D41078,Bellamy Aviation,Healthcare,Enterprise,J. Baptiste,486500,Proposal,Best Case,2026-01-21,2026-08-07,2026-06-17,Champion intro to CFO
+0068D41079,Glenmore Capital,Logistics,Mid-Market,A. Whitfield,145000,Discovery,Pipeline,2026-03-10,2026-09-17,2026-06-11,
+0068D41080,Tessera Retail Co,Logistics,Mid-Market,D. Okafor,100500,Qualification,Pipeline,2026-03-12,2026-11-27,2026-03-27,"Pricing sent, awaiting legal"
+0068D41081,Pemberton Industries,Media,Mid-Market,T. Nakamura,56500,Discovery,Pipeline,2026-03-31,2026-08-23,2026-04-11,Security review scheduled
+0068D41082,Silverpine Industries,Manufacturing,Enterprise,D. Okafor,343500,Negotiation,Commit,2026-02-08,2026-06-11,2026-04-23,
+0068D41083,Tessera Robotics,Pharmaceuticals,SMB,J. Baptiste,14000,Qualification,Pipeline,2026-03-29,2026-08-01,2026-05-20,Pilot scoping call
+0068D41084,Cobalt Technologies,Pharmaceuticals,Mid-Market,D. Okafor,65500,Negotiation,Commit,2026-01-29,2026-06-11,2026-06-15,Champion intro to CFO
+0068D41085,Braemar Aviation,Pharmaceuticals,Mid-Market,D. Okafor,104000,Negotiation,Commit,2026-03-15,2026-10-29,2026-04-16,Security review scheduled
+0068D41086,Pemberton Diagnostics,Pharmaceuticals,SMB,R. Chowdhury,14500,Qualification,Pipeline,2026-05-07,2026-11-03,2026-06-11,Security review scheduled
+0068D41087,Tamarack Foods,Banking,Mid-Market,J. Baptiste,59000,Qualification,Pipeline,2026-05-16,2026-09-10,2026-06-10,Procurement portal submitted
+0068D41088,Marlowe Systems,Media,SMB,D. Okafor,43000,Discovery,Pipeline,2026-05-16,2026-06-11,2026-05-23,Security review scheduled
+0068D41089,Hollingsworth Aviation,Logistics,Mid-Market,T. Nakamura,77000,Qualification,Pipeline,2026-04-24,2026-08-25,2026-06-11,
+0068D41090,Harrowgate Financial,Pharmaceuticals,SMB,S. Lindqvist,30000,Negotiation,Commit,2026-06-11,2026-03-18,2026-06-11,Procurement portal submitted
+0068D41091,Kilmarnock Therapeutics,Hospitality,Enterprise,M. Reyes,202000,Qualification,Commit,2026-02-22,2026-05-21,2026-06-10,
+0068D41092,Kingsley Robotics,Retail,Enterprise,A. Whitfield,446500,Discovery,Pipeline,2026-01-13,2026-05-28,2026-06-11,Security review scheduled
+0068D41093,Vault Holdings,Manufacturing,Enterprise,T. Nakamura,484500,Discovery,Commit,2026-01-28,2026-03-09,2026-06-03,
+0068D41094,Wren Analytics,Logistics,SMB,S. Lindqvist,13500,Discovery,Commit,2026-06-25,2026-07-25,2026-06-25,Pilot scoping call
+0068D41095,Vault Diagnostics,Banking,Mid-Market,M. Reyes,52000,Discovery,Pipeline,2026-05-01,2026-07-19,2026-06-28,Redlines returned
+0068D41096,Vantage Technologies,Banking,SMB,T. Nakamura,17000,Discovery,Pipeline,2026-06-04,2026-08-05,2026-06-04,Pilot scoping call
+0068D41097,Nightingale Foods,Hospitality,Mid-Market,S. Lindqvist,141500,Discovery,Pipeline,2026-01-12,2026-05-27,2026-06-21,Security review scheduled
+0068D41098,Brightline Holdings,Banking,SMB,S. Lindqvist,44500,Proposal,Best Case,2026-06-09,2026-05-21,2026-06-09,
+0068D41099,Marlowe Aviation,Real Estate,Enterprise,D. Okafor,190500,Qualification,Pipeline,2026-02-03,2026-07-01,2026-06-14,Pilot scoping call
+0068D41100,Grayling Retail Co,Hospitality,SMB,T. Nakamura,0,Negotiation,Commit,2026-05-23,2026-10-07,2026-05-30,
+0068D41101,Kilmarnock Insurance,Banking,SMB,T. Nakamura,23500,Proposal,Best Case,2026-05-07,2026-07-25,2026-06-15,Redlines returned
+0068D41102,Kingsley Financial,Real Estate,SMB,M. Reyes,27500,Qualification,Pipeline,2026-05-29,2026-05-16,2026-06-07,Pilot scoping call
+0068D41103,Langford Diagnostics,Healthcare,SMB,M. Reyes,27500,Discovery,Pipeline,2026-05-12,2026-07-27,2026-06-30,Security review scheduled
+0068D41104,Langford Industries,Healthcare,Mid-Market,M. Reyes,102000,Qualification,Pipeline,2026-05-23,2026-09-06,2026-06-07,Redlines returned
+0068D41105,Jesmond Networks,Retail,Mid-Market,J. Baptiste,94000,Discovery,Pipeline,2026-05-09,2026-08-31,2026-06-30,Pilot scoping call
+0068D41106,Cascadia Materials,Banking,Enterprise,S. Lindqvist,587500,Discovery,Pipeline,2025-12-31,2026-09-29,2026-03-02,Pilot scoping call
+0068D41107,Marlowe Health,Banking,Mid-Market,R. Chowdhury,136000,Qualification,Pipeline,2026-02-27,2026-07-25,2026-06-09,Procurement portal submitted
+0068D41108,Foxglove Foods,Education,Enterprise,R. Chowdhury,391000,Contracting,Commit,2026-03-05,2026-06-05,2026-06-16,
+0068D41109,Kilmarnock Media,Pharmaceuticals,SMB,M. Reyes,26500,Discovery,Commit,2026-05-14,2026-08-15,2026-06-07,
+0068D41110,Elderwood Therapeutics,Banking,Mid-Market,R. Chowdhury,122000,Negotiation,Commit,2026-03-19,2026-07-24,2026-03-25,Pilot scoping call
+0068D41111,Vantage Health,Retail,Enterprise,S. Lindqvist,276000,Qualification,Pipeline,2026-01-22,2026-08-31,2026-04-29,Pilot scoping call
+0068D41112,Quarry Hill Diagnostics,Logistics,Mid-Market,M. Reyes,51500,Contracting,Commit,2026-05-01,2026-05-15,2026-05-13,Redlines returned
+0068D41113,Brightline Capital,Manufacturing,Mid-Market,S. Lindqvist,54000,Proposal,Best Case,2026-04-28,2026-10-11,2026-06-18,Procurement portal submitted
+0068D41114,Aldergrove Materials,Healthcare,SMB,M. Reyes,45000,Proposal,Best Case,2026-05-16,2026-04-28,2026-06-29,Security review scheduled
+0068D41115,Westmere Partners,Education,SMB,T. Nakamura,28000,Discovery,Pipeline,2026-06-25,2026-07-22,2026-06-25,"Pricing sent, awaiting legal"
+0068D41116,Braemar Bioscience,Education,Enterprise,J. Baptiste,500000,Proposal,Commit,2026-03-09,2026-07-14,2026-06-15,Procurement portal submitted
+0068D41117,Ardent Systems,Healthcare,Enterprise,D. Okafor,404500,Proposal,Best Case,2026-02-21,2026-09-13,2026-06-15,
+0068D41118,Cascadia Holdings,Healthcare,Mid-Market,J. Baptiste,129000,Qualification,Pipeline,2026-05-01,2026-08-07,2026-06-15,"Pricing sent, awaiting legal"
+0068D41119,Brightline Logistics,Hospitality,SMB,T. Nakamura,30500,Proposal,Best Case,2026-05-09,2026-09-14,2026-06-18,
+0068D41120,Ardent Diagnostics,Banking,Mid-Market,A. Whitfield,71500,Qualification,Pipeline,2026-04-11,2026-10-13,2026-06-09,
+0068D41121,Everly Group,Retail,SMB,S. Lindqvist,36500,Qualification,Pipeline,2026-06-21,2026-07-29,2026-06-21,Redlines returned
+0068D41122,Ironwood Materials,Education,Mid-Market,S. Lindqvist,89500,Discovery,Pipeline,2026-03-11,2026-10-14,2026-03-17,
+0068D41123,Copperfield Retail Co,Banking,Mid-Market,M. Reyes,146000,Negotiation,Commit,2026-04-08,2026-06-11,2026-06-12,
+0068D41124,Tamarack Industries,Pharmaceuticals,Mid-Market,A. Whitfield,64500,Qualification,Pipeline,2026-04-23,2026-05-30,2026-06-02,Pilot scoping call
+0068D41125,Nightingale Health,Manufacturing,SMB,T. Nakamura,27500,Qualification,Pipeline,2026-06-08,2026-03-28,2026-06-14,Redlines returned
+0068D41126,Elderwood Bioscience,Banking,Mid-Market,J. Baptiste,131000,Proposal,Commit,2026-05-07,2026-12-01,2026-06-05,Security review scheduled
+0068D41127,Bellamy Industries,Healthcare,Mid-Market,T. Nakamura,159500,Qualification,Pipeline,2026-05-08,2026-07-13,2026-06-01,
+0068D41128,Bellamy Media,Healthcare,Enterprise,D. Okafor,250000,Proposal,Best Case,2026-02-28,2026-07-29,2026-06-22,
+0068D41129,Halden Industries,Hospitality,SMB,A. Whitfield,16500,Qualification,Pipeline,2026-05-17,2026-03-16,2026-05-21,Redlines returned
+0068D41130,Vault Insurance,Manufacturing,Enterprise,R. Chowdhury,533500,Negotiation,Commit,2026-01-12,2026-10-10,2026-06-12,
+0068D41131,Loxley Technologies,Pharmaceuticals,Mid-Market,S. Lindqvist,153000,Proposal,Best Case,2026-05-18,2026-05-14,2026-06-04,Redlines returned
+0068D41132,Meridian Materials,Logistics,Enterprise,R. Chowdhury,301500,Proposal,Best Case,2026-03-13,2026-06-23,2026-03-31,Redlines returned
+0068D41133,Yarrow Diagnostics,Healthcare,Enterprise,J. Baptiste,352500,Discovery,Pipeline,2026-02-12,2026-09-08,2026-06-22,Pilot scoping call
+0068D41134,Northbridge Aviation,Healthcare,Enterprise,J. Baptiste,467000,Qualification,Pipeline,2026-04-25,2026-06-06,2026-06-11,Security review scheduled
+0068D41135,Peregrine Industries,Pharmaceuticals,Mid-Market,S. Lindqvist,140000,Proposal,Commit,2026-06-06,2026-09-16,2026-06-06,"Pricing sent, awaiting legal"
+0068D41136,Ardent Labs,Education,SMB,T. Nakamura,37000,Discovery,Pipeline,2026-05-25,2026-05-23,2026-06-17,
+0068D41137,Marlowe Holdings,Education,SMB,T. Nakamura,28500,Negotiation,Commit,2026-05-18,2026-08-23,2026-06-15,Procurement portal submitted
+0068D41138,Jarvis Capital,Banking,SMB,A. Whitfield,22500,Contracting,Commit,2026-05-18,2026-04-09,2026-05-18,"Pricing sent, awaiting legal"
+0068D41139,Westmere Labs,Healthcare,SMB,D. Okafor,19500,Proposal,Best Case,2026-06-25,2026-09-04,2026-06-29,

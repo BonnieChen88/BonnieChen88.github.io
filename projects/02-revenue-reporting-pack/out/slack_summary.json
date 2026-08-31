@@ -1,0 +1,57 @@
+{
+  "channel": "#leadership",
+  "blocks": [
+    {
+      "type": "header",
+      "text": {
+        "type": "plain_text",
+        "text": "Revenue snapshot \u2014 2026-06"
+      }
+    },
+    {
+      "type": "section",
+      "fields": [
+        {
+          "type": "mrkdwn",
+          "text": "*Closing ARR*\n$14.76M"
+        },
+        {
+          "type": "mrkdwn",
+          "text": "*Net new*\n$572K"
+        },
+        {
+          "type": "mrkdwn",
+          "text": "*NRR*\n97.7%"
+        },
+        {
+          "type": "mrkdwn",
+          "text": "*GRR*\n90.4%"
+        },
+        {
+          "type": "mrkdwn",
+          "text": "*Risk-adj. coverage*\n1.52x"
+        },
+        {
+          "type": "mrkdwn",
+          "text": "*Active logos*\n137 (+3)"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": ":warning: *91 opportunities flagged* \u2014 $3.47M of pipeline has been quiet for 30+ days. Clear flags before Thursday's forecast call."
+      }
+    },
+    {
+      "type": "context",
+      "elements": [
+        {
+          "type": "mrkdwn",
+          "text": "Generated automatically from Salesforce + billing data \u00b7 full pack in the drive"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+opportunity_id,account,owner,segment,stage,forecast_category,amount,days_inactive,recency_factor,risk_adjusted,flags
+0068D41106,Cascadia Materials,S. Lindqvist,Enterprise,Discovery,Pipeline,587500.0,120,0.1,2350.0,stale 120d
+0068D41130,Vault Insurance,R. Chowdhury,Enterprise,Negotiation,Commit,533500.0,18,0.8,209132.0,no next step
+0068D41009,Marlowe Capital,S. Lindqvist,Enterprise,Proposal,Best Case,489000.0,43,0.522,66395.33,stale 43d; no next step
+0068D41093,Vault Holdings,T. Nakamura,Enterprise,Discovery,Commit,484500.0,27,0.7,13566.0,close date 113d past due; no next step; committed from discovery
+0068D41134,Northbridge Aviation,J. Baptiste,Enterprise,Qualification,Pipeline,467000.0,19,0.789,40525.22,close date 24d past due
+0068D41092,Kingsley Robotics,A. Whitfield,Enterprise,Discovery,Pipeline,446500.0,19,0.789,14089.56,close date 33d past due
+0068D41014,Cobalt Health,R. Chowdhury,Enterprise,Negotiation,Commit,407500.0,2,0.978,195237.78,no next step
+0068D41117,Ardent Systems,D. Okafor,Enterprise,Proposal,Best Case,404500.0,15,0.833,87641.67,no next step
+0068D41108,Foxglove Foods,R. Chowdhury,Enterprise,Contracting,Commit,391000.0,14,0.844,257538.67,close date 25d past due; no next step
+0068D41045,Vault Industries,T. Nakamura,Enterprise,Negotiation,Commit,374000.0,25,0.722,132354.44,close date 30d past due
+0068D41037,Jesmond Capital,D. Okafor,Enterprise,Contracting,Commit,370500.0,0,1.0,288990.0,no next step
+0068D41082,Silverpine Industries,D. Okafor,Enterprise,Negotiation,Commit,343500.0,68,0.244,41143.67,stale 68d; close date 19d past due; no next step
+0068D41132,Meridian Materials,R. Chowdhury,Enterprise,Proposal,Best Case,301500.0,91,0.1,7839.0,stale 91d; close date 7d past due
+0068D41111,Vantage Health,S. Lindqvist,Enterprise,Qualification,Pipeline,276000.0,62,0.311,9445.33,stale 62d
+0068D41128,Bellamy Media,D. Okafor,Enterprise,Proposal,Best Case,250000.0,8,0.911,59222.22,no next step
+0068D41091,Kilmarnock Therapeutics,M. Reyes,Enterprise,Qualification,Commit,202000.0,20,0.778,17282.22,close date 40d past due; no next step; committed from qualification
+0068D41001,Braemar Technologies,D. Okafor,Enterprise,Negotiation,Commit,200000.0,25,0.722,70777.78,no next step
+0068D41127,Bellamy Industries,T. Nakamura,Mid-Market,Qualification,Pipeline,159500.0,29,0.678,16215.83,no next step
+0068D41131,Loxley Technologies,S. Lindqvist,Mid-Market,Proposal,Best Case,153000.0,26,0.711,33728.0,close date 47d past due
+0068D41068,Meridian Logistics,D. Okafor,Mid-Market,Discovery,Pipeline,152500.0,20,0.778,7116.67,close date 8d past due
+0068D41027,Fenwick Foods,D. Okafor,Mid-Market,Qualification,Pipeline,151500.0,23,0.744,16917.5,close date 73d past due
+0068D41018,Westmere Diagnostics,T. Nakamura,Mid-Market,Qualification,Pipeline,150500.0,66,0.267,6020.0,stale 66d; close date 22d past due
+0068D41123,Copperfield Retail Co,M. Reyes,Mid-Market,Negotiation,Commit,146000.0,18,0.8,64240.0,close date 19d past due; no next step
+0068D41079,Glenmore Capital,A. Whitfield,Mid-Market,Discovery,Pipeline,145000.0,19,0.789,6863.33,no next step
+0068D41097,Nightingale Foods,S. Lindqvist,Mid-Market,Discovery,Pipeline,141500.0,9,0.9,7641.0,close date 34d past due
+0068D41038,Bellamy Financial,M. Reyes,Mid-Market,Discovery,Pipeline,137000.0,12,0.867,7124.0,no next step
+0068D41028,Fenwick Bioscience,S. Lindqvist,Mid-Market,Contracting,Commit,128500.0,14,0.844,88979.11,no next step
+0068D41000,Wren Clinical,T. Nakamura,Mid-Market,Discovery,Pipeline,127500.0,13,0.856,6545.0,close date 36d past due
+0068D41110,Elderwood Therapeutics,R. Chowdhury,Mid-Market,Negotiation,Commit,122000.0,97,0.1,6710.0,stale 97d
+0068D41067,Nova Insurance,A. Whitfield,Mid-Market,Qualification,Pipeline,115000.0,86,0.1,1725.0,stale 86d
+0068D41002,Kingsley Technologies,J. Baptiste,Mid-Market,Discovery,Pipeline,110000.0,51,0.433,2860.0,stale 51d; no next step
+0068D41085,Braemar Aviation,D. Okafor,Mid-Market,Negotiation,Commit,104000.0,75,0.167,9533.33,stale 75d
+0068D41059,Harrowgate Networks,J. Baptiste,Mid-Market,Negotiation,Commit,101000.0,29,0.678,37650.56,close date 31d past due
+0068D41080,Tessera Retail Co,D. Okafor,Mid-Market,Qualification,Pipeline,100500.0,95,0.1,1507.5,stale 95d
+0068D41065,Lattice Industries,M. Reyes,Mid-Market,Negotiation,Commit,97500.0,33,0.633,33962.5,stale 33d; no next step
+0068D41055,Kilmarnock Analytics,T. Nakamura,Mid-Market,Discovery,Pipeline,93500.0,8,0.911,5111.33,close date 7d past due; no next step
+0068D41122,Ironwood Materials,S. Lindqvist,Mid-Market,Discovery,Pipeline,89500.0,105,0.1,537.0,stale 105d; no next step
+0068D41013,Nightingale Bioscience,D. Okafor,Mid-Market,Qualification,Pipeline,86000.0,47,0.478,6163.33,stale 47d
+0068D41089,Hollingsworth Aviation,T. Nakamura,Mid-Market,Qualification,Pipeline,77000.0,19,0.789,9111.67,no next step
+0068D41120,Ardent Diagnostics,A. Whitfield,Mid-Market,Qualification,Pipeline,71500.0,21,0.767,8222.5,no next step
+0068D41050,Nightingale Therapeutics,S. Lindqvist,Mid-Market,Qualification,Pipeline,70000.0,2,0.978,10266.67,close date 100d past due
+0068D41063,Pemberton Labs,T. Nakamura,Mid-Market,Proposal,Best Case,69500.0,62,0.311,6702.89,stale 62d
+0068D41084,Cobalt Technologies,D. Okafor,Mid-Market,Negotiation,Commit,65500.0,15,0.833,30020.83,close date 19d past due
+0068D41124,Tamarack Industries,A. Whitfield,Mid-Market,Qualification,Pipeline,64500.0,28,0.689,6665.0,close date 31d past due
+0068D41076,Brightline Analytics,D. Okafor,Mid-Market,Discovery,Pipeline,59500.0,2,0.978,3490.67,no next step
+0068D41081,Pemberton Industries,T. Nakamura,Mid-Market,Discovery,Pipeline,56500.0,80,0.111,376.67,stale 80d
+0068D41112,Quarry Hill Diagnostics,M. Reyes,Mid-Market,Contracting,Commit,51500.0,48,0.467,19707.33,stale 48d; close date 46d past due
+0068D41032,Junction Technologies,T. Nakamura,Mid-Market,Qualification,Commit,51000.0,15,0.833,6375.0,committed from qualification
+0068D41060,Harrowgate Analytics,R. Chowdhury,Mid-Market,Discovery,Commit,48000.0,27,0.7,2016.0,committed from discovery
+0068D41114,Aldergrove Materials,M. Reyes,SMB,Proposal,Best Case,45000.0,1,0.989,15130.0,close date 63d past due
+0068D41098,Brightline Holdings,S. Lindqvist,SMB,Proposal,Best Case,44500.0,21,0.767,11599.67,close date 40d past due; no next step
+0068D41088,Marlowe Systems,D. Okafor,SMB,Discovery,Pipeline,43000.0,38,0.578,1987.56,stale 38d; close date 19d past due
+0068D41030,Umberton Technologies,M. Reyes,SMB,Qualification,Commit,40500.0,11,0.878,6399.0,close date 65d past due; committed from qualification
+0068D41006,Braemar Partners,T. Nakamura,SMB,Negotiation,Commit,40000.0,59,0.344,7991.11,stale 59d; no next step
+0068D41019,Foxglove Clinical,J. Baptiste,SMB,Discovery,Pipeline,40000.0,26,0.711,2275.56,close date 51d past due
+0068D41005,Aldergrove Networks,A. Whitfield,SMB,Negotiation,Commit,39500.0,9,0.9,20619.0,close date 116d past due
+0068D41040,Braemar Capital,J. Baptiste,SMB,Proposal,Commit,39000.0,36,0.6,7956.0,stale 36d
+0068D41136,Ardent Labs,T. Nakamura,SMB,Discovery,Pipeline,37000.0,13,0.856,2532.44,close date 38d past due; no next step
+0068D41047,Lattice Technologies,M. Reyes,SMB,Proposal,Best Case,36500.0,61,0.322,3998.78,stale 61d
+0068D41070,Yarrow Partners,D. Okafor,SMB,Negotiation,Commit,34500.0,22,0.756,15118.67,no next step
+0068D41012,Merrivale Media,R. Chowdhury,SMB,Contracting,Commit,33000.0,5,0.944,26180.0,close date 5d past due
+0068D41058,Aldergrove Analytics,A. Whitfield,SMB,Qualification,Commit,31000.0,35,0.611,3410.0,stale 35d; close date 37d past due; committed from qualification
+0068D41073,Thornbury Systems,R. Chowdhury,SMB,Discovery,Pipeline,30500.0,44,0.511,1247.11,stale 44d
+0068D41119,Brightline Logistics,T. Nakamura,SMB,Proposal,Best Case,30500.0,12,0.867,8987.33,no next step
+0068D41008,Everly Networks,S. Lindqvist,SMB,Negotiation,Commit,30000.0,5,0.944,16433.33,close date 23d past due
+0068D41044,Cobalt Financial,S. Lindqvist,SMB,Proposal,Best Case,30000.0,20,0.778,7933.33,close date 77d past due; no next step
+0068D41090,Harrowgate Financial,S. Lindqvist,SMB,Negotiation,Commit,30000.0,19,0.789,13726.67,close date 104d past due
+0068D41029,Peregrine Robotics,R. Chowdhury,SMB,Contracting,Commit,29000.0,2,0.978,23818.67,close date 28d past due
+0068D41020,Junction Capital,S. Lindqvist,SMB,Proposal,Best Case,28000.0,29,0.678,6452.44,no next step
+0068D41043,Ashcombe Diagnostics,A. Whitfield,SMB,Discovery,Pipeline,28000.0,27,0.7,1568.0,close date 99d past due
+0068D41102,Kingsley Financial,M. Reyes,SMB,Qualification,Pipeline,27500.0,23,0.744,3685.0,close date 45d past due
+0068D41125,Nightingale Health,T. Nakamura,SMB,Qualification,Pipeline,27500.0,16,0.822,4070.0,close date 94d past due
+0068D41031,Yarrow Foods,S. Lindqvist,SMB,Discovery,Pipeline,27000.0,53,0.411,888.0,stale 53d; close date 39d past due
+0068D41048,Silverpine Technologies,D. Okafor,SMB,Proposal,Best Case,26500.0,16,0.822,7408.22,no next step
+0068D41049,Loxley Group,T. Nakamura,SMB,Qualification,Pipeline,26500.0,29,0.678,3233.0,close date 87d past due
+0068D41109,Kilmarnock Media,M. Reyes,SMB,Discovery,Commit,26500.0,23,0.744,1578.22,no next step; committed from discovery
+0068D41056,Tessera Diagnostics,D. Okafor,SMB,Contracting,Commit,23500.0,36,0.6,11844.0,stale 36d
+0068D41138,Jarvis Capital,A. Whitfield,SMB,Contracting,Commit,22500.0,43,0.522,9870.0,stale 43d; close date 82d past due
+0068D41034,Hollingsworth Group,J. Baptiste,SMB,Discovery,Pipeline,21500.0,15,0.833,1433.33,close date 96d past due
+0068D41054,Northbridge Media,T. Nakamura,SMB,Proposal,Best Case,20500.0,9,0.9,6273.0,close date 2d past due
+0068D41139,Westmere Labs,D. Okafor,SMB,Proposal,Best Case,19500.0,1,0.989,6556.33,no next step
+0068D41053,Loxley Logistics,S. Lindqvist,SMB,Discovery,Pipeline,16500.0,17,0.811,1070.67,close date 27d past due; no next step
+0068D41129,Halden Industries,A. Whitfield,SMB,Qualification,Pipeline,16500.0,40,0.556,1650.0,stale 40d; close date 106d past due
+0068D41046,Lattice Bioscience,T. Nakamura,SMB,Discovery,Pipeline,15500.0,16,0.822,1019.56,close date 98d past due
+0068D41083,Tessera Robotics,J. Baptiste,SMB,Qualification,Pipeline,14000.0,41,0.544,1372.0,stale 41d
+0068D41094,Wren Analytics,S. Lindqvist,SMB,Discovery,Commit,13500.0,5,0.944,1020.0,committed from discovery
+0068D41004,Braemar Robotics,M. Reyes,SMB,Discovery,Pipeline,0.0,22,0.756,0.0,no amount
+0068D41023,Foxglove Partners,A. Whitfield,Mid-Market,Negotiation,Commit,0.0,1,0.989,0.0,no amount
+0068D41042,Dalhousie Financial,S. Lindqvist,Mid-Market,Discovery,Pipeline,0.0,14,0.844,0.0,close date 6d past due; no amount
+0068D41071,Junction Health,M. Reyes,Mid-Market,Discovery,Commit,0.0,15,0.833,0.0,no amount; no next step; committed from discovery
+0068D41100,Grayling Retail Co,T. Nakamura,SMB,Negotiation,Commit,0.0,31,0.656,0.0,stale 31d; no amount; no next step
