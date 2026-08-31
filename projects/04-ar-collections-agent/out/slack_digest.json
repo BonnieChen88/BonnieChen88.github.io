@@ -1,0 +1,49 @@
+{
+  "channel": "#finance-ops",
+  "blocks": [
+    {
+      "type": "header",
+      "text": {
+        "type": "plain_text",
+        "text": "Collections queue \u2014 2026-06-30"
+      }
+    },
+    {
+      "type": "section",
+      "fields": [
+        {
+          "type": "mrkdwn",
+          "text": "*In queue*\n23 invoices \u00b7 $268.3K"
+        },
+        {
+          "type": "mrkdwn",
+          "text": "*Needs a call*\n12 accounts"
+        },
+        {
+          "type": "mrkdwn",
+          "text": "*Held for review*\n5 invoices \u00b7 $147.7K"
+        },
+        {
+          "type": "mrkdwn",
+          "text": "*Oldest*\n242 days"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*Call list \u2014 email has stopped working on these:*\n\u2022 Brightline Media \u2014 $2.2K, 242 days (S. Adeyemi)\n\u2022 Cascadia Systems \u2014 $1.5K, 150 days (M. Reyes)\n\u2022 Kingsley Logistics \u2014 $16.6K, 119 days (M. Reyes)\n\u2022 Ironwood Foods \u2014 $6.3K, 89 days (B. Chen)\n\u2022 Tessera Bioscience \u2014 $6.7K, 76 days (S. Adeyemi)\n\u2022 Halden Labs \u2014 $6.5K, 61 days (B. Chen)"
+      }
+    },
+    {
+      "type": "context",
+      "elements": [
+        {
+          "type": "mrkdwn",
+          "text": "Drafts are queued for review \u2014 nothing sends without a human clicking send."
+        }
+      ]
+    }
+  ]
+}

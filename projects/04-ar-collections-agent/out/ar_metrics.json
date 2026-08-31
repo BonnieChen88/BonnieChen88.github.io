@@ -1,0 +1,66 @@
+{
+  "as_of": "2026-06-30",
+  "open_invoices": 69,
+  "total_ar": 771744,
+  "dso_days": 24.7,
+  "delinquency_rate": 0.5391,
+  "past_30_rate": 0.3638,
+  "on_time_payment_rate": 0.8359,
+  "avg_days_late": 3.7,
+  "aging": {
+    "Current": 355708,
+    "1-30": 135256,
+    "31-60": 128930,
+    "61-90": 21900,
+    "90+": 129950
+  },
+  "by_segment": {
+    "Enterprise": {
+      "open_ar": 513846,
+      "overdue": 311966
+    },
+    "Mid-Market": {
+      "open_ar": 196010,
+      "overdue": 74360
+    },
+    "SMB": {
+      "open_ar": 61888,
+      "overdue": 29710
+    }
+  },
+  "top_overdue_accounts": [
+    {
+      "account": "Elderwood Networks",
+      "overdue": 109620
+    },
+    {
+      "account": "Ironwood Bioscience",
+      "overdue": 59160
+    },
+    {
+      "account": "Stonegate Holdings",
+      "overdue": 55750
+    },
+    {
+      "account": "Pemberton Insurance",
+      "overdue": 37000
+    },
+    {
+      "account": "Stonegate Foods",
+      "overdue": 27870
+    },
+    {
+      "account": "Braemar Health",
+      "overdue": 26410
+    },
+    {
+      "account": "Kingsley Logistics",
+      "overdue": 16580
+    },
+    {
+      "account": "Tessera Bioscience",
+      "overdue": 13400
+    }
+  ],
+  "disputed_value": 34570
+}

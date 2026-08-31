@@ -1,0 +1,29 @@
+invoice_id,customer_name,segment,outstanding,due_date,days_overdue,bucket,tier,channel,action_owner,escalate_to,action,billing_contact,automated,hold_reason
+INV-60207,Brightline Media,SMB,2250.0,2025-10-31,242,90+,collections review,finance lead,S. Adeyemi,Finance lead,"Manual review: payment plan, credit hold, or write-off",ap@brightline.example,True,
+INV-60633,Cascadia Systems,SMB,1500.0,2026-01-31,150,90+,collections review,finance lead,M. Reyes,Finance lead,"Manual review: payment plan, credit hold, or write-off",ap@cascadia.example,True,
+INV-60355,Kingsley Logistics,Enterprise,16580.0,2026-03-03,119,90+,collections review,finance lead,M. Reyes,Finance lead,"Manual review: payment plan, credit hold, or write-off",ap@kingsley.example,True,
+INV-60676,Ironwood Foods,Mid-Market,6290.0,2026-04-02,89,61-90,collections review,finance lead,B. Chen,Finance lead,"Manual review: payment plan, credit hold, or write-off",ap@ironwood.example,True,
+INV-60551,Tessera Bioscience,Mid-Market,6700.0,2026-04-15,76,61-90,collections review,finance lead,S. Adeyemi,Finance lead,"Manual review: payment plan, credit hold, or write-off",ap@tessera.example,True,
+INV-60293,Halden Labs,Mid-Market,6500.0,2026-04-30,61,61-90,collections review,finance lead,B. Chen,Finance lead,"Manual review: payment plan, credit hold, or write-off",ap@halden.example,True,
+INV-60425,Clearwave Logistics,SMB,2410.0,2026-04-30,61,61-90,collections review,finance lead,M. Reyes,Finance lead,"Manual review: payment plan, credit hold, or write-off",ap@clearwave.example,True,
+INV-60146,Stonegate Foods,Mid-Market,27870.0,2026-05-01,60,31-60,escalation,call + email to AP lead,B. Chen,AR owner,Phone call required; renewal flagged to CS,ap@stonegate.example,True,
+INV-60204,Quarry Hill Capital,Mid-Market,4790.0,2026-05-01,60,31-60,escalation,call + email to AP lead,S. Adeyemi,AR owner,Phone call required; renewal flagged to CS,ap@quarry.example,True,
+INV-60285,Umberton Logistics,SMB,1330.0,2026-05-01,60,31-60,escalation,call + email to AP lead,B. Chen,AR owner,Phone call required; renewal flagged to CS,ap@umberton.example,True,
+INV-60028,Stonegate Holdings,Enterprise,55750.0,2026-05-16,45,31-60,escalation,call + email to AP lead,B. Chen,AR owner,Phone call required; renewal flagged to CS,ap@stonegate.example,True,
+INV-60552,Tessera Bioscience,Mid-Market,6700.0,2026-05-16,45,31-60,escalation,call + email to AP lead,S. Adeyemi,AR owner,Phone call required; renewal flagged to CS,ap@tessera.example,True,
+INV-60435,Pemberton Insurance,Enterprise,37000.0,2026-05-31,30,1-30,second notice,email + AE copied,S. Adeyemi,AR owner,Second notice; account team looped in,ap@pemberton.example,True,
+INV-60592,Merrivale Clinical,Enterprise,7446.0,2026-05-31,30,1-30,second notice,email + AE copied,S. Adeyemi,AR owner,Second notice; account team looped in,ap@merrivale.example,True,
+INV-60688,Copperfield Holdings,SMB,7250.0,2026-05-31,30,1-30,second notice,email + AE copied,M. Reyes,AR owner,Second notice; account team looped in,ap@copperfield.example,True,
+INV-60187,Grayling Clinical,Mid-Market,5660.0,2026-05-31,30,1-30,second notice,email + AE copied,S. Adeyemi,AR owner,Second notice; account team looped in,ap@grayling.example,True,
+INV-60696,Sable Media,Mid-Market,5080.0,2026-05-31,30,1-30,second notice,email + AE copied,S. Adeyemi,AR owner,Second notice; account team looped in,ap@sable.example,True,
+INV-60066,Cobalt Materials,Mid-Market,4770.0,2026-05-31,30,1-30,second notice,email + AE copied,B. Chen,AR owner,Second notice; account team looped in,ap@cobalt.example,True,
+INV-60140,Marlowe Group,SMB,3410.0,2026-05-31,30,1-30,second notice,email + AE copied,M. Reyes,AR owner,Second notice; account team looped in,ap@marlowe.example,True,
+INV-60444,Junction Retail Co,SMB,1700.0,2026-05-31,30,1-30,second notice,email + AE copied,M. Reyes,AR owner,Second notice; account team looped in,ap@junction.example,True,
+INV-60054,Fairhaven Labs,SMB,1330.0,2026-05-31,30,1-30,second notice,email + AE copied,M. Reyes,AR owner,Second notice; account team looped in,ap@fairhaven.example,True,
+INV-60618,Ironwood Bioscience,Enterprise,29580.0,2026-06-15,15,1-30,second notice,email + AE copied,B. Chen,AR owner,Second notice; account team looped in,ap@ironwood.example,True,
+INV-60326,Braemar Health,Enterprise,26410.0,2026-06-15,15,1-30,second notice,email + AE copied,B. Chen,AR owner,Second notice; account team looped in,ap@braemar.example,True,
+INV-60225,Elderwood Networks,Enterprise,109620.0,2025-11-15,227,90+,collections review,finance lead,B. Chen,Finance lead,"Manual review: payment plan, credit hold, or write-off",ap@elderwood.example,False,balance over $100.0K — call before any automated contact
+INV-60617,Ironwood Bioscience,Enterprise,29580.0,2026-05-16,45,31-60,escalation,call + email to AP lead,B. Chen,AR owner,Phone call required; renewal flagged to CS,ap@ironwood.example,False,"disputed — route to dispute resolution, not dunning"
+INV-60096,Junction Robotics,SMB,3540.0,2026-06-15,15,1-30,second notice,email + AE copied,M. Reyes,AR owner,Second notice; account team looped in,ap@junction.example,False,contacted 0 days ago — inside the 7-day cooldown
+INV-60567,Cascadia Media,SMB,2910.0,2026-05-16,45,31-60,escalation,call + email to AP lead,S. Adeyemi,AR owner,Phone call required; renewal flagged to CS,ap@cascadia.example,False,"disputed — route to dispute resolution, not dunning"
+INV-60511,Dalhousie Insurance,SMB,2080.0,2026-06-15,15,1-30,second notice,email + AE copied,M. Reyes,AR owner,Second notice; account team looped in,ap@dalhousie.example,False,"disputed — route to dispute resolution, not dunning"
