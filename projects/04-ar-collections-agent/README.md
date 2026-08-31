@@ -1,12 +1,14 @@
 # AR & Collections Agent
 
-**Resume line this maps to:** *"Optimized billing and accounts receivable, ensuring
-on-time invoicing and a 0% delinquency rate, enhancing cash flow and financial
-stability"* — Shakudo, Business Operations Manager.
+Invoicing went out on time. Collections was whatever anyone got around to — which
+meant it happened in the last week of the quarter, on the largest balances, by whoever
+was least busy. Aged invoices were a surprise every time somebody looked.
 
-Getting to 0% delinquency is not a heroic month of phone calls. It is a cadence that
-runs on every invoice, every week, without anyone deciding whether today is a chasing
-day. This is that cadence.
+Getting delinquency to zero was not a heroic month of phone calls. It was building a
+cadence that runs on every invoice, every week, without anyone deciding whether today
+is a chasing day, and then not skipping it. This is that cadence.
+
+Rebuilt here as a standalone tool running on synthetic data.
 
 ## Two commands
 

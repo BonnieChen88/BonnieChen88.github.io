@@ -1,11 +1,17 @@
 # Recruiting Funnel Ops
 
-**Resume line this maps to:** *"Leveraged data and analytics to streamline recruiting,
-reducing time-to-hire by 28%"* — Shakudo, Business Operations Manager.
+Time-to-hire was the number everyone quoted in the talent review and nobody could take
+apart. It was too high, that much was agreed. Which part of the process was making it
+high was a matter of opinion, and the opinion depended on whether you were asking a
+recruiter or a hiring manager.
 
 Time-to-hire is not one number you improve. It is a stack of stage waits, and usually
-only two of them are the problem. This reads a Lever-shaped candidate export and finds
-which two.
+only two of them are the problem. I built this to find which two, and then to keep
+nudging the specific people sitting on the specific candidates. Time-to-hire came down
+28% over the next two quarters.
+
+Rebuilt here as a standalone tool running on synthetic data, reading a Lever-shaped
+candidate export.
 
 ## Two commands
 

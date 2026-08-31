@@ -1,13 +1,16 @@
 # Monthly Revenue Reporting Pack
 
-**Resume lines this maps to:** *"Prepared and delivered monthly revenue reports for
-investors and senior leadership"* (Shakudo) and *"Provided risk assessment and developed
-forecast models to derive insights to assist with decision making for professional
-service deals above $2M"* (VMware, Senior Business Analyst).
+The monthly pack for investors and leadership was the same work every month: pull ARR
+movement, rebuild the waterfall, recompute retention, sanity-check the pipeline, write
+it up. Two days of it, and a fresh chance to make an arithmetic error every time.
 
-The monthly close is the same work every month: pull ARR movement, rebuild the
-waterfall, recompute retention, sanity-check the pipeline, write it up. This is that
-process as a script — same numbers, same format, no rebuild.
+So I stopped rebuilding it and wrote it down as a process instead — same inputs, same
+method, same format, generated. The forecasting half came out of earlier work risk-
+assessing professional-services deals above $2M, where the lesson was that a pipeline
+number nobody has stress-tested is not a forecast, it is a hope with a dollar sign
+in front of it.
+
+Rebuilt here as a standalone tool running on synthetic data.
 
 ## What it produces
 

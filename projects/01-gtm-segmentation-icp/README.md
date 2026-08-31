@@ -1,18 +1,22 @@
 # GTM Segmentation & ICP Scoring Engine
 
-**Resume line this maps to:** *"Conducted go-to-market analysis to identify target
-customers, refining segmentation strategy and increasing lead conversion rates by 12%
-through close partnership with sales and marketing."* — Shakudo, Senior Business
-Operations Manager.
+We were selling into every industry that would take a meeting, and win rates had
+plateaued while pipeline kept growing. Everyone had a theory about which segments were
+worth the effort, and every theory was somebody's anecdote about a deal they had worked.
 
-This is the analysis behind that bullet, rebuilt as a repeatable tool on synthetic data.
+I built this to settle it from the closed-won data instead. It reads the deal history,
+measures which segments actually convert, and scores the open list so sales knows what
+to work first. Realigning outbound and marketing content around what it found lifted
+lead-to-opportunity conversion 12% over the following two quarters.
 
-## The problem
+Rebuilt here as a standalone tool running on synthetic data.
 
-A Series A company selling into every industry it can reach has no ICP — it has a
-list. Sales spreads effort evenly across segments that convert at wildly different
-rates, marketing writes for everyone, and win rate plateaus even while pipeline grows.
-The fix is not opinion. It is looking at what has already closed.
+## The problem it was solving
+
+A company selling into every industry it can reach has no ICP — it has a list. Effort
+spreads evenly across segments that convert at wildly different rates, marketing writes
+for everyone, and win rate plateaus even while pipeline grows. The fix is not opinion.
+It is looking at what has already closed.
 
 ## What it does
 

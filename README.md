@@ -10,8 +10,10 @@ cash collection, built as scripts that run instead of spreadsheets that get rebu
 
 ## Projects
 
-Each project is a real analysis I have run in an operating role, rebuilt here as a
-repeatable tool on synthetic data. Each has a runnable CLI, a
+Each of these started as something I needed in an operating role and then kept using —
+a monthly pack I was tired of rebuilding, a question sales kept asking, a collections
+cadence that had to run whether or not anyone remembered it. Rebuilt here as standalone
+tools on synthetic data. Each has a runnable CLI, a
 [Claude skill](https://docs.claude.com/en/docs/claude-code/skills) so the analysis can
 be run and interpreted conversationally, and a Zapier recipe for putting it on a
 schedule.
